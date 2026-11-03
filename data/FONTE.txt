@@ -1,0 +1,4 @@
+Fonte: Banco Central do Brasil — Sistema Gerenciador de Séries Temporais (SGS)
+API: https://api.bcb.gov.br/dados/serie/bcdata.sgs.{codigo}/dados?formato=json
+Séries: IPCA (433), IPCA 12m (13522), Selic Meta (432), USD PTAX venda (1), IGP-M (189)
+Extraído em: 2026-11-02T21:14:50

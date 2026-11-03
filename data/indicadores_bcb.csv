@@ -1,0 +1,4859 @@
+data,valor,serie,codigo_sgs
+2019-01-01,0.32,IPCA (% a.m.),433
+2019-02-01,0.43,IPCA (% a.m.),433
+2019-03-01,0.75,IPCA (% a.m.),433
+2019-04-01,0.57,IPCA (% a.m.),433
+2019-05-01,0.13,IPCA (% a.m.),433
+2019-06-01,0.01,IPCA (% a.m.),433
+2019-07-01,0.19,IPCA (% a.m.),433
+2019-08-01,0.11,IPCA (% a.m.),433
+2019-09-01,-0.04,IPCA (% a.m.),433
+2019-10-01,0.1,IPCA (% a.m.),433
+2019-11-01,0.51,IPCA (% a.m.),433
+2019-12-01,1.15,IPCA (% a.m.),433
+2020-01-01,0.21,IPCA (% a.m.),433
+2020-02-01,0.25,IPCA (% a.m.),433
+2020-03-01,0.07,IPCA (% a.m.),433
+2020-04-01,-0.31,IPCA (% a.m.),433
+2020-05-01,-0.38,IPCA (% a.m.),433
+2020-06-01,0.26,IPCA (% a.m.),433
+2020-07-01,0.36,IPCA (% a.m.),433
+2020-08-01,0.24,IPCA (% a.m.),433
+2020-09-01,0.64,IPCA (% a.m.),433
+2020-10-01,0.86,IPCA (% a.m.),433
+2020-11-01,0.89,IPCA (% a.m.),433
+2020-12-01,1.35,IPCA (% a.m.),433
+2021-01-01,0.25,IPCA (% a.m.),433
+2021-02-01,0.86,IPCA (% a.m.),433
+2021-03-01,0.93,IPCA (% a.m.),433
+2021-04-01,0.31,IPCA (% a.m.),433
+2021-05-01,0.83,IPCA (% a.m.),433
+2021-06-01,0.53,IPCA (% a.m.),433
+2021-07-01,0.96,IPCA (% a.m.),433
+2021-08-01,0.87,IPCA (% a.m.),433
+2021-09-01,1.16,IPCA (% a.m.),433
+2021-10-01,1.25,IPCA (% a.m.),433
+2021-11-01,0.95,IPCA (% a.m.),433
+2021-12-01,0.73,IPCA (% a.m.),433
+2022-01-01,0.54,IPCA (% a.m.),433
+2022-02-01,1.01,IPCA (% a.m.),433
+2022-03-01,1.62,IPCA (% a.m.),433
+2022-04-01,1.06,IPCA (% a.m.),433
+2022-05-01,0.47,IPCA (% a.m.),433
+2022-06-01,0.67,IPCA (% a.m.),433
+2022-07-01,-0.68,IPCA (% a.m.),433
+2022-08-01,-0.36,IPCA (% a.m.),433
+2022-09-01,-0.29,IPCA (% a.m.),433
+2022-10-01,0.59,IPCA (% a.m.),433
+2022-11-01,0.41,IPCA (% a.m.),433
+2022-12-01,0.62,IPCA (% a.m.),433
+2023-01-01,0.53,IPCA (% a.m.),433
+2023-02-01,0.84,IPCA (% a.m.),433
+2023-03-01,0.71,IPCA (% a.m.),433
+2023-04-01,0.61,IPCA (% a.m.),433
+2023-05-01,0.23,IPCA (% a.m.),433
+2023-06-01,-0.08,IPCA (% a.m.),433
+2023-07-01,0.12,IPCA (% a.m.),433
+2023-08-01,0.23,IPCA (% a.m.),433
+2023-09-01,0.26,IPCA (% a.m.),433
+2023-10-01,0.24,IPCA (% a.m.),433
+2023-11-01,0.28,IPCA (% a.m.),433
+2023-12-01,0.56,IPCA (% a.m.),433
+2024-01-01,0.42,IPCA (% a.m.),433
+2024-02-01,0.83,IPCA (% a.m.),433
+2024-03-01,0.16,IPCA (% a.m.),433
+2024-04-01,0.38,IPCA (% a.m.),433
+2024-05-01,0.46,IPCA (% a.m.),433
+2024-06-01,0.21,IPCA (% a.m.),433
+2024-07-01,0.38,IPCA (% a.m.),433
+2024-08-01,-0.02,IPCA (% a.m.),433
+2024-09-01,0.44,IPCA (% a.m.),433
+2024-10-01,0.56,IPCA (% a.m.),433
+2024-11-01,0.39,IPCA (% a.m.),433
+2024-12-01,0.52,IPCA (% a.m.),433
+2025-01-01,0.16,IPCA (% a.m.),433
+2025-02-01,1.31,IPCA (% a.m.),433
+2025-03-01,0.56,IPCA (% a.m.),433
+2025-04-01,0.43,IPCA (% a.m.),433
+2025-05-01,0.26,IPCA (% a.m.),433
+2025-06-01,0.24,IPCA (% a.m.),433
+2025-07-01,0.26,IPCA (% a.m.),433
+2025-08-01,-0.11,IPCA (% a.m.),433
+2025-09-01,0.48,IPCA (% a.m.),433
+2025-10-01,0.09,IPCA (% a.m.),433
+2025-11-01,0.18,IPCA (% a.m.),433
+2025-12-01,0.33,IPCA (% a.m.),433
+2026-01-01,0.33,IPCA (% a.m.),433
+2026-02-01,0.7,IPCA (% a.m.),433
+2026-03-01,0.88,IPCA (% a.m.),433
+2026-04-01,0.67,IPCA (% a.m.),433
+2026-05-01,0.58,IPCA (% a.m.),433
+2026-06-01,0.16,IPCA (% a.m.),433
+2026-07-01,0.07,IPCA (% a.m.),433
+2026-08-01,-0.32,IPCA (% a.m.),433
+2026-09-01,0.82,IPCA (% a.m.),433
+2019-01-01,3.78,IPCA acumulado 12 meses (%),13522
+2019-02-01,3.89,IPCA acumulado 12 meses (%),13522
+2019-03-01,4.58,IPCA acumulado 12 meses (%),13522
+2019-04-01,4.94,IPCA acumulado 12 meses (%),13522
+2019-05-01,4.66,IPCA acumulado 12 meses (%),13522
+2019-06-01,3.37,IPCA acumulado 12 meses (%),13522
+2019-07-01,3.22,IPCA acumulado 12 meses (%),13522
+2019-08-01,3.43,IPCA acumulado 12 meses (%),13522
+2019-09-01,2.89,IPCA acumulado 12 meses (%),13522
+2019-10-01,2.54,IPCA acumulado 12 meses (%),13522
+2019-11-01,3.27,IPCA acumulado 12 meses (%),13522
+2019-12-01,4.31,IPCA acumulado 12 meses (%),13522
+2020-01-01,4.19,IPCA acumulado 12 meses (%),13522
+2020-02-01,4.01,IPCA acumulado 12 meses (%),13522
+2020-03-01,3.3,IPCA acumulado 12 meses (%),13522
+2020-04-01,2.4,IPCA acumulado 12 meses (%),13522
+2020-05-01,1.88,IPCA acumulado 12 meses (%),13522
+2020-06-01,2.13,IPCA acumulado 12 meses (%),13522
+2020-07-01,2.31,IPCA acumulado 12 meses (%),13522
+2020-08-01,2.44,IPCA acumulado 12 meses (%),13522
+2020-09-01,3.14,IPCA acumulado 12 meses (%),13522
+2020-10-01,3.92,IPCA acumulado 12 meses (%),13522
+2020-11-01,4.31,IPCA acumulado 12 meses (%),13522
+2020-12-01,4.52,IPCA acumulado 12 meses (%),13522
+2021-01-01,4.56,IPCA acumulado 12 meses (%),13522
+2021-02-01,5.2,IPCA acumulado 12 meses (%),13522
+2021-03-01,6.1,IPCA acumulado 12 meses (%),13522
+2021-04-01,6.76,IPCA acumulado 12 meses (%),13522
+2021-05-01,8.06,IPCA acumulado 12 meses (%),13522
+2021-06-01,8.35,IPCA acumulado 12 meses (%),13522
+2021-07-01,8.99,IPCA acumulado 12 meses (%),13522
+2021-08-01,9.68,IPCA acumulado 12 meses (%),13522
+2021-09-01,10.25,IPCA acumulado 12 meses (%),13522
+2021-10-01,10.67,IPCA acumulado 12 meses (%),13522
+2021-11-01,10.74,IPCA acumulado 12 meses (%),13522
+2021-12-01,10.06,IPCA acumulado 12 meses (%),13522
+2022-01-01,10.38,IPCA acumulado 12 meses (%),13522
+2022-02-01,10.54,IPCA acumulado 12 meses (%),13522
+2022-03-01,11.3,IPCA acumulado 12 meses (%),13522
+2022-04-01,12.13,IPCA acumulado 12 meses (%),13522
+2022-05-01,11.73,IPCA acumulado 12 meses (%),13522
+2022-06-01,11.89,IPCA acumulado 12 meses (%),13522
+2022-07-01,10.07,IPCA acumulado 12 meses (%),13522
+2022-08-01,8.73,IPCA acumulado 12 meses (%),13522
+2022-09-01,7.17,IPCA acumulado 12 meses (%),13522
+2022-10-01,6.47,IPCA acumulado 12 meses (%),13522
+2022-11-01,5.9,IPCA acumulado 12 meses (%),13522
+2022-12-01,5.79,IPCA acumulado 12 meses (%),13522
+2023-01-01,5.77,IPCA acumulado 12 meses (%),13522
+2023-02-01,5.6,IPCA acumulado 12 meses (%),13522
+2023-03-01,4.65,IPCA acumulado 12 meses (%),13522
+2023-04-01,4.18,IPCA acumulado 12 meses (%),13522
+2023-05-01,3.94,IPCA acumulado 12 meses (%),13522
+2023-06-01,3.16,IPCA acumulado 12 meses (%),13522
+2023-07-01,3.99,IPCA acumulado 12 meses (%),13522
+2023-08-01,4.61,IPCA acumulado 12 meses (%),13522
+2023-09-01,5.19,IPCA acumulado 12 meses (%),13522
+2023-10-01,4.82,IPCA acumulado 12 meses (%),13522
+2023-11-01,4.68,IPCA acumulado 12 meses (%),13522
+2023-12-01,4.62,IPCA acumulado 12 meses (%),13522
+2024-01-01,4.51,IPCA acumulado 12 meses (%),13522
+2024-02-01,4.5,IPCA acumulado 12 meses (%),13522
+2024-03-01,3.93,IPCA acumulado 12 meses (%),13522
+2024-04-01,3.69,IPCA acumulado 12 meses (%),13522
+2024-05-01,3.93,IPCA acumulado 12 meses (%),13522
+2024-06-01,4.23,IPCA acumulado 12 meses (%),13522
+2024-07-01,4.5,IPCA acumulado 12 meses (%),13522
+2024-08-01,4.24,IPCA acumulado 12 meses (%),13522
+2024-09-01,4.42,IPCA acumulado 12 meses (%),13522
+2024-10-01,4.76,IPCA acumulado 12 meses (%),13522
+2024-11-01,4.87,IPCA acumulado 12 meses (%),13522
+2024-12-01,4.83,IPCA acumulado 12 meses (%),13522
+2025-01-01,4.56,IPCA acumulado 12 meses (%),13522
+2025-02-01,5.06,IPCA acumulado 12 meses (%),13522
+2025-03-01,5.48,IPCA acumulado 12 meses (%),13522
+2025-04-01,5.53,IPCA acumulado 12 meses (%),13522
+2025-05-01,5.32,IPCA acumulado 12 meses (%),13522
+2025-06-01,5.35,IPCA acumulado 12 meses (%),13522
+2025-07-01,5.23,IPCA acumulado 12 meses (%),13522
+2025-08-01,5.13,IPCA acumulado 12 meses (%),13522
+2025-09-01,5.17,IPCA acumulado 12 meses (%),13522
+2025-10-01,4.68,IPCA acumulado 12 meses (%),13522
+2025-11-01,4.46,IPCA acumulado 12 meses (%),13522
+2025-12-01,4.26,IPCA acumulado 12 meses (%),13522
+2026-01-01,4.44,IPCA acumulado 12 meses (%),13522
+2026-02-01,3.81,IPCA acumulado 12 meses (%),13522
+2026-03-01,4.14,IPCA acumulado 12 meses (%),13522
+2026-04-01,4.39,IPCA acumulado 12 meses (%),13522
+2026-05-01,4.72,IPCA acumulado 12 meses (%),13522
+2026-06-01,4.64,IPCA acumulado 12 meses (%),13522
+2026-07-01,4.44,IPCA acumulado 12 meses (%),13522
+2026-08-01,4.22,IPCA acumulado 12 meses (%),13522
+2026-09-01,4.58,IPCA acumulado 12 meses (%),13522
+2019-01-01,6.5,Selic Meta (% a.a.),432
+2019-01-02,6.5,Selic Meta (% a.a.),432
+2019-01-03,6.5,Selic Meta (% a.a.),432
+2019-01-04,6.5,Selic Meta (% a.a.),432
+2019-01-05,6.5,Selic Meta (% a.a.),432
+2019-01-06,6.5,Selic Meta (% a.a.),432
+2019-01-07,6.5,Selic Meta (% a.a.),432
+2019-01-08,6.5,Selic Meta (% a.a.),432
+2019-01-09,6.5,Selic Meta (% a.a.),432
+2019-01-10,6.5,Selic Meta (% a.a.),432
+2019-01-11,6.5,Selic Meta (% a.a.),432
+2019-01-12,6.5,Selic Meta (% a.a.),432
+2019-01-13,6.5,Selic Meta (% a.a.),432
+2019-01-14,6.5,Selic Meta (% a.a.),432
+2019-01-15,6.5,Selic Meta (% a.a.),432
+2019-01-16,6.5,Selic Meta (% a.a.),432
+2019-01-17,6.5,Selic Meta (% a.a.),432
+2019-01-18,6.5,Selic Meta (% a.a.),432
+2019-01-19,6.5,Selic Meta (% a.a.),432
+2019-01-20,6.5,Selic Meta (% a.a.),432
+2019-01-21,6.5,Selic Meta (% a.a.),432
+2019-01-22,6.5,Selic Meta (% a.a.),432
+2019-01-23,6.5,Selic Meta (% a.a.),432
+2019-01-24,6.5,Selic Meta (% a.a.),432
+2019-01-25,6.5,Selic Meta (% a.a.),432
+2019-01-26,6.5,Selic Meta (% a.a.),432
+2019-01-27,6.5,Selic Meta (% a.a.),432
+2019-01-28,6.5,Selic Meta (% a.a.),432
+2019-01-29,6.5,Selic Meta (% a.a.),432
+2019-01-30,6.5,Selic Meta (% a.a.),432
+2019-01-31,6.5,Selic Meta (% a.a.),432
+2019-02-01,6.5,Selic Meta (% a.a.),432
+2019-02-02,6.5,Selic Meta (% a.a.),432
+2019-02-03,6.5,Selic Meta (% a.a.),432
+2019-02-04,6.5,Selic Meta (% a.a.),432
+2019-02-05,6.5,Selic Meta (% a.a.),432
+2019-02-06,6.5,Selic Meta (% a.a.),432
+2019-02-07,6.5,Selic Meta (% a.a.),432
+2019-02-08,6.5,Selic Meta (% a.a.),432
+2019-02-09,6.5,Selic Meta (% a.a.),432
+2019-02-10,6.5,Selic Meta (% a.a.),432
+2019-02-11,6.5,Selic Meta (% a.a.),432
+2019-02-12,6.5,Selic Meta (% a.a.),432
+2019-02-13,6.5,Selic Meta (% a.a.),432
+2019-02-14,6.5,Selic Meta (% a.a.),432
+2019-02-15,6.5,Selic Meta (% a.a.),432
+2019-02-16,6.5,Selic Meta (% a.a.),432
+2019-02-17,6.5,Selic Meta (% a.a.),432
+2019-02-18,6.5,Selic Meta (% a.a.),432
+2019-02-19,6.5,Selic Meta (% a.a.),432
+2019-02-20,6.5,Selic Meta (% a.a.),432
+2019-02-21,6.5,Selic Meta (% a.a.),432
+2019-02-22,6.5,Selic Meta (% a.a.),432
+2019-02-23,6.5,Selic Meta (% a.a.),432
+2019-02-24,6.5,Selic Meta (% a.a.),432
+2019-02-25,6.5,Selic Meta (% a.a.),432
+2019-02-26,6.5,Selic Meta (% a.a.),432
+2019-02-27,6.5,Selic Meta (% a.a.),432
+2019-02-28,6.5,Selic Meta (% a.a.),432
+2019-03-01,6.5,Selic Meta (% a.a.),432
+2019-03-02,6.5,Selic Meta (% a.a.),432
+2019-03-03,6.5,Selic Meta (% a.a.),432
+2019-03-04,6.5,Selic Meta (% a.a.),432
+2019-03-05,6.5,Selic Meta (% a.a.),432
+2019-03-06,6.5,Selic Meta (% a.a.),432
+2019-03-07,6.5,Selic Meta (% a.a.),432
+2019-03-08,6.5,Selic Meta (% a.a.),432
+2019-03-09,6.5,Selic Meta (% a.a.),432
+2019-03-10,6.5,Selic Meta (% a.a.),432
+2019-03-11,6.5,Selic Meta (% a.a.),432
+2019-03-12,6.5,Selic Meta (% a.a.),432
+2019-03-13,6.5,Selic Meta (% a.a.),432
+2019-03-14,6.5,Selic Meta (% a.a.),432
+2019-03-15,6.5,Selic Meta (% a.a.),432
+2019-03-16,6.5,Selic Meta (% a.a.),432
+2019-03-17,6.5,Selic Meta (% a.a.),432
+2019-03-18,6.5,Selic Meta (% a.a.),432
+2019-03-19,6.5,Selic Meta (% a.a.),432
+2019-03-20,6.5,Selic Meta (% a.a.),432
+2019-03-21,6.5,Selic Meta (% a.a.),432
+2019-03-22,6.5,Selic Meta (% a.a.),432
+2019-03-23,6.5,Selic Meta (% a.a.),432
+2019-03-24,6.5,Selic Meta (% a.a.),432
+2019-03-25,6.5,Selic Meta (% a.a.),432
+2019-03-26,6.5,Selic Meta (% a.a.),432
+2019-03-27,6.5,Selic Meta (% a.a.),432
+2019-03-28,6.5,Selic Meta (% a.a.),432
+2019-03-29,6.5,Selic Meta (% a.a.),432
+2019-03-30,6.5,Selic Meta (% a.a.),432
+2019-03-31,6.5,Selic Meta (% a.a.),432
+2019-04-01,6.5,Selic Meta (% a.a.),432
+2019-04-02,6.5,Selic Meta (% a.a.),432
+2019-04-03,6.5,Selic Meta (% a.a.),432
+2019-04-04,6.5,Selic Meta (% a.a.),432
+2019-04-05,6.5,Selic Meta (% a.a.),432
+2019-04-06,6.5,Selic Meta (% a.a.),432
+2019-04-07,6.5,Selic Meta (% a.a.),432
+2019-04-08,6.5,Selic Meta (% a.a.),432
+2019-04-09,6.5,Selic Meta (% a.a.),432
+2019-04-10,6.5,Selic Meta (% a.a.),432
+2019-04-11,6.5,Selic Meta (% a.a.),432
+2019-04-12,6.5,Selic Meta (% a.a.),432
+2019-04-13,6.5,Selic Meta (% a.a.),432
+2019-04-14,6.5,Selic Meta (% a.a.),432
+2019-04-15,6.5,Selic Meta (% a.a.),432
+2019-04-16,6.5,Selic Meta (% a.a.),432
+2019-04-17,6.5,Selic Meta (% a.a.),432
+2019-04-18,6.5,Selic Meta (% a.a.),432
+2019-04-19,6.5,Selic Meta (% a.a.),432
+2019-04-20,6.5,Selic Meta (% a.a.),432
+2019-04-21,6.5,Selic Meta (% a.a.),432
+2019-04-22,6.5,Selic Meta (% a.a.),432
+2019-04-23,6.5,Selic Meta (% a.a.),432
+2019-04-24,6.5,Selic Meta (% a.a.),432
+2019-04-25,6.5,Selic Meta (% a.a.),432
+2019-04-26,6.5,Selic Meta (% a.a.),432
+2019-04-27,6.5,Selic Meta (% a.a.),432
+2019-04-28,6.5,Selic Meta (% a.a.),432
+2019-04-29,6.5,Selic Meta (% a.a.),432
+2019-04-30,6.5,Selic Meta (% a.a.),432
+2019-05-01,6.5,Selic Meta (% a.a.),432
+2019-05-02,6.5,Selic Meta (% a.a.),432
+2019-05-03,6.5,Selic Meta (% a.a.),432
+2019-05-04,6.5,Selic Meta (% a.a.),432
+2019-05-05,6.5,Selic Meta (% a.a.),432
+2019-05-06,6.5,Selic Meta (% a.a.),432
+2019-05-07,6.5,Selic Meta (% a.a.),432
+2019-05-08,6.5,Selic Meta (% a.a.),432
+2019-05-09,6.5,Selic Meta (% a.a.),432
+2019-05-10,6.5,Selic Meta (% a.a.),432
+2019-05-11,6.5,Selic Meta (% a.a.),432
+2019-05-12,6.5,Selic Meta (% a.a.),432
+2019-05-13,6.5,Selic Meta (% a.a.),432
+2019-05-14,6.5,Selic Meta (% a.a.),432
+2019-05-15,6.5,Selic Meta (% a.a.),432
+2019-05-16,6.5,Selic Meta (% a.a.),432
+2019-05-17,6.5,Selic Meta (% a.a.),432
+2019-05-18,6.5,Selic Meta (% a.a.),432
+2019-05-19,6.5,Selic Meta (% a.a.),432
+2019-05-20,6.5,Selic Meta (% a.a.),432
+2019-05-21,6.5,Selic Meta (% a.a.),432
+2019-05-22,6.5,Selic Meta (% a.a.),432
+2019-05-23,6.5,Selic Meta (% a.a.),432
+2019-05-24,6.5,Selic Meta (% a.a.),432
+2019-05-25,6.5,Selic Meta (% a.a.),432
+2019-05-26,6.5,Selic Meta (% a.a.),432
+2019-05-27,6.5,Selic Meta (% a.a.),432
+2019-05-28,6.5,Selic Meta (% a.a.),432
+2019-05-29,6.5,Selic Meta (% a.a.),432
+2019-05-30,6.5,Selic Meta (% a.a.),432
+2019-05-31,6.5,Selic Meta (% a.a.),432
+2019-06-01,6.5,Selic Meta (% a.a.),432
+2019-06-02,6.5,Selic Meta (% a.a.),432
+2019-06-03,6.5,Selic Meta (% a.a.),432
+2019-06-04,6.5,Selic Meta (% a.a.),432
+2019-06-05,6.5,Selic Meta (% a.a.),432
+2019-06-06,6.5,Selic Meta (% a.a.),432
+2019-06-07,6.5,Selic Meta (% a.a.),432
+2019-06-08,6.5,Selic Meta (% a.a.),432
+2019-06-09,6.5,Selic Meta (% a.a.),432
+2019-06-10,6.5,Selic Meta (% a.a.),432
+2019-06-11,6.5,Selic Meta (% a.a.),432
+2019-06-12,6.5,Selic Meta (% a.a.),432
+2019-06-13,6.5,Selic Meta (% a.a.),432
+2019-06-14,6.5,Selic Meta (% a.a.),432
+2019-06-15,6.5,Selic Meta (% a.a.),432
+2019-06-16,6.5,Selic Meta (% a.a.),432
+2019-06-17,6.5,Selic Meta (% a.a.),432
+2019-06-18,6.5,Selic Meta (% a.a.),432
+2019-06-19,6.5,Selic Meta (% a.a.),432
+2019-06-20,6.5,Selic Meta (% a.a.),432
+2019-06-21,6.5,Selic Meta (% a.a.),432
+2019-06-22,6.5,Selic Meta (% a.a.),432
+2019-06-23,6.5,Selic Meta (% a.a.),432
+2019-06-24,6.5,Selic Meta (% a.a.),432
+2019-06-25,6.5,Selic Meta (% a.a.),432
+2019-06-26,6.5,Selic Meta (% a.a.),432
+2019-06-27,6.5,Selic Meta (% a.a.),432
+2019-06-28,6.5,Selic Meta (% a.a.),432
+2019-06-29,6.5,Selic Meta (% a.a.),432
+2019-06-30,6.5,Selic Meta (% a.a.),432
+2019-07-01,6.5,Selic Meta (% a.a.),432
+2019-07-02,6.5,Selic Meta (% a.a.),432
+2019-07-03,6.5,Selic Meta (% a.a.),432
+2019-07-04,6.5,Selic Meta (% a.a.),432
+2019-07-05,6.5,Selic Meta (% a.a.),432
+2019-07-06,6.5,Selic Meta (% a.a.),432
+2019-07-07,6.5,Selic Meta (% a.a.),432
+2019-07-08,6.5,Selic Meta (% a.a.),432
+2019-07-09,6.5,Selic Meta (% a.a.),432
+2019-07-10,6.5,Selic Meta (% a.a.),432
+2019-07-11,6.5,Selic Meta (% a.a.),432
+2019-07-12,6.5,Selic Meta (% a.a.),432
+2019-07-13,6.5,Selic Meta (% a.a.),432
+2019-07-14,6.5,Selic Meta (% a.a.),432
+2019-07-15,6.5,Selic Meta (% a.a.),432
+2019-07-16,6.5,Selic Meta (% a.a.),432
+2019-07-17,6.5,Selic Meta (% a.a.),432
+2019-07-18,6.5,Selic Meta (% a.a.),432
+2019-07-19,6.5,Selic Meta (% a.a.),432
+2019-07-20,6.5,Selic Meta (% a.a.),432
+2019-07-21,6.5,Selic Meta (% a.a.),432
+2019-07-22,6.5,Selic Meta (% a.a.),432
+2019-07-23,6.5,Selic Meta (% a.a.),432
+2019-07-24,6.5,Selic Meta (% a.a.),432
+2019-07-25,6.5,Selic Meta (% a.a.),432
+2019-07-26,6.5,Selic Meta (% a.a.),432
+2019-07-27,6.5,Selic Meta (% a.a.),432
+2019-07-28,6.5,Selic Meta (% a.a.),432
+2019-07-29,6.5,Selic Meta (% a.a.),432
+2019-07-30,6.5,Selic Meta (% a.a.),432
+2019-07-31,6.5,Selic Meta (% a.a.),432
+2019-08-01,6.0,Selic Meta (% a.a.),432
+2019-08-02,6.0,Selic Meta (% a.a.),432
+2019-08-03,6.0,Selic Meta (% a.a.),432
+2019-08-04,6.0,Selic Meta (% a.a.),432
+2019-08-05,6.0,Selic Meta (% a.a.),432
+2019-08-06,6.0,Selic Meta (% a.a.),432
+2019-08-07,6.0,Selic Meta (% a.a.),432
+2019-08-08,6.0,Selic Meta (% a.a.),432
+2019-08-09,6.0,Selic Meta (% a.a.),432
+2019-08-10,6.0,Selic Meta (% a.a.),432
+2019-08-11,6.0,Selic Meta (% a.a.),432
+2019-08-12,6.0,Selic Meta (% a.a.),432
+2019-08-13,6.0,Selic Meta (% a.a.),432
+2019-08-14,6.0,Selic Meta (% a.a.),432
+2019-08-15,6.0,Selic Meta (% a.a.),432
+2019-08-16,6.0,Selic Meta (% a.a.),432
+2019-08-17,6.0,Selic Meta (% a.a.),432
+2019-08-18,6.0,Selic Meta (% a.a.),432
+2019-08-19,6.0,Selic Meta (% a.a.),432
+2019-08-20,6.0,Selic Meta (% a.a.),432
+2019-08-21,6.0,Selic Meta (% a.a.),432
+2019-08-22,6.0,Selic Meta (% a.a.),432
+2019-08-23,6.0,Selic Meta (% a.a.),432
+2019-08-24,6.0,Selic Meta (% a.a.),432
+2019-08-25,6.0,Selic Meta (% a.a.),432
+2019-08-26,6.0,Selic Meta (% a.a.),432
+2019-08-27,6.0,Selic Meta (% a.a.),432
+2019-08-28,6.0,Selic Meta (% a.a.),432
+2019-08-29,6.0,Selic Meta (% a.a.),432
+2019-08-30,6.0,Selic Meta (% a.a.),432
+2019-08-31,6.0,Selic Meta (% a.a.),432
+2019-09-01,6.0,Selic Meta (% a.a.),432
+2019-09-02,6.0,Selic Meta (% a.a.),432
+2019-09-03,6.0,Selic Meta (% a.a.),432
+2019-09-04,6.0,Selic Meta (% a.a.),432
+2019-09-05,6.0,Selic Meta (% a.a.),432
+2019-09-06,6.0,Selic Meta (% a.a.),432
+2019-09-07,6.0,Selic Meta (% a.a.),432
+2019-09-08,6.0,Selic Meta (% a.a.),432
+2019-09-09,6.0,Selic Meta (% a.a.),432
+2019-09-10,6.0,Selic Meta (% a.a.),432
+2019-09-11,6.0,Selic Meta (% a.a.),432
+2019-09-12,6.0,Selic Meta (% a.a.),432
+2019-09-13,6.0,Selic Meta (% a.a.),432
+2019-09-14,6.0,Selic Meta (% a.a.),432
+2019-09-15,6.0,Selic Meta (% a.a.),432
+2019-09-16,6.0,Selic Meta (% a.a.),432
+2019-09-17,6.0,Selic Meta (% a.a.),432
+2019-09-18,6.0,Selic Meta (% a.a.),432
+2019-09-19,5.5,Selic Meta (% a.a.),432
+2019-09-20,5.5,Selic Meta (% a.a.),432
+2019-09-21,5.5,Selic Meta (% a.a.),432
+2019-09-22,5.5,Selic Meta (% a.a.),432
+2019-09-23,5.5,Selic Meta (% a.a.),432
+2019-09-24,5.5,Selic Meta (% a.a.),432
+2019-09-25,5.5,Selic Meta (% a.a.),432
+2019-09-26,5.5,Selic Meta (% a.a.),432
+2019-09-27,5.5,Selic Meta (% a.a.),432
+2019-09-28,5.5,Selic Meta (% a.a.),432
+2019-09-29,5.5,Selic Meta (% a.a.),432
+2019-09-30,5.5,Selic Meta (% a.a.),432
+2019-10-01,5.5,Selic Meta (% a.a.),432
+2019-10-02,5.5,Selic Meta (% a.a.),432
+2019-10-03,5.5,Selic Meta (% a.a.),432
+2019-10-04,5.5,Selic Meta (% a.a.),432
+2019-10-05,5.5,Selic Meta (% a.a.),432
+2019-10-06,5.5,Selic Meta (% a.a.),432
+2019-10-07,5.5,Selic Meta (% a.a.),432
+2019-10-08,5.5,Selic Meta (% a.a.),432
+2019-10-09,5.5,Selic Meta (% a.a.),432
+2019-10-10,5.5,Selic Meta (% a.a.),432
+2019-10-11,5.5,Selic Meta (% a.a.),432
+2019-10-12,5.5,Selic Meta (% a.a.),432
+2019-10-13,5.5,Selic Meta (% a.a.),432
+2019-10-14,5.5,Selic Meta (% a.a.),432
+2019-10-15,5.5,Selic Meta (% a.a.),432
+2019-10-16,5.5,Selic Meta (% a.a.),432
+2019-10-17,5.5,Selic Meta (% a.a.),432
+2019-10-18,5.5,Selic Meta (% a.a.),432
+2019-10-19,5.5,Selic Meta (% a.a.),432
+2019-10-20,5.5,Selic Meta (% a.a.),432
+2019-10-21,5.5,Selic Meta (% a.a.),432
+2019-10-22,5.5,Selic Meta (% a.a.),432
+2019-10-23,5.5,Selic Meta (% a.a.),432
+2019-10-24,5.5,Selic Meta (% a.a.),432
+2019-10-25,5.5,Selic Meta (% a.a.),432
+2019-10-26,5.5,Selic Meta (% a.a.),432
+2019-10-27,5.5,Selic Meta (% a.a.),432
+2019-10-28,5.5,Selic Meta (% a.a.),432
+2019-10-29,5.5,Selic Meta (% a.a.),432
+2019-10-30,5.5,Selic Meta (% a.a.),432
+2019-10-31,5.0,Selic Meta (% a.a.),432
+2019-11-01,5.0,Selic Meta (% a.a.),432
+2019-11-02,5.0,Selic Meta (% a.a.),432
+2019-11-03,5.0,Selic Meta (% a.a.),432
+2019-11-04,5.0,Selic Meta (% a.a.),432
+2019-11-05,5.0,Selic Meta (% a.a.),432
+2019-11-06,5.0,Selic Meta (% a.a.),432
+2019-11-07,5.0,Selic Meta (% a.a.),432
+2019-11-08,5.0,Selic Meta (% a.a.),432
+2019-11-09,5.0,Selic Meta (% a.a.),432
+2019-11-10,5.0,Selic Meta (% a.a.),432
+2019-11-11,5.0,Selic Meta (% a.a.),432
+2019-11-12,5.0,Selic Meta (% a.a.),432
+2019-11-13,5.0,Selic Meta (% a.a.),432
+2019-11-14,5.0,Selic Meta (% a.a.),432
+2019-11-15,5.0,Selic Meta (% a.a.),432
+2019-11-16,5.0,Selic Meta (% a.a.),432
+2019-11-17,5.0,Selic Meta (% a.a.),432
+2019-11-18,5.0,Selic Meta (% a.a.),432
+2019-11-19,5.0,Selic Meta (% a.a.),432
+2019-11-20,5.0,Selic Meta (% a.a.),432
+2019-11-21,5.0,Selic Meta (% a.a.),432
+2019-11-22,5.0,Selic Meta (% a.a.),432
+2019-11-23,5.0,Selic Meta (% a.a.),432
+2019-11-24,5.0,Selic Meta (% a.a.),432
+2019-11-25,5.0,Selic Meta (% a.a.),432
+2019-11-26,5.0,Selic Meta (% a.a.),432
+2019-11-27,5.0,Selic Meta (% a.a.),432
+2019-11-28,5.0,Selic Meta (% a.a.),432
+2019-11-29,5.0,Selic Meta (% a.a.),432
+2019-11-30,5.0,Selic Meta (% a.a.),432
+2019-12-01,5.0,Selic Meta (% a.a.),432
+2019-12-02,5.0,Selic Meta (% a.a.),432
+2019-12-03,5.0,Selic Meta (% a.a.),432
+2019-12-04,5.0,Selic Meta (% a.a.),432
+2019-12-05,5.0,Selic Meta (% a.a.),432
+2019-12-06,5.0,Selic Meta (% a.a.),432
+2019-12-07,5.0,Selic Meta (% a.a.),432
+2019-12-08,5.0,Selic Meta (% a.a.),432
+2019-12-09,5.0,Selic Meta (% a.a.),432
+2019-12-10,5.0,Selic Meta (% a.a.),432
+2019-12-11,5.0,Selic Meta (% a.a.),432
+2019-12-12,4.5,Selic Meta (% a.a.),432
+2019-12-13,4.5,Selic Meta (% a.a.),432
+2019-12-14,4.5,Selic Meta (% a.a.),432
+2019-12-15,4.5,Selic Meta (% a.a.),432
+2019-12-16,4.5,Selic Meta (% a.a.),432
+2019-12-17,4.5,Selic Meta (% a.a.),432
+2019-12-18,4.5,Selic Meta (% a.a.),432
+2019-12-19,4.5,Selic Meta (% a.a.),432
+2019-12-20,4.5,Selic Meta (% a.a.),432
+2019-12-21,4.5,Selic Meta (% a.a.),432
+2019-12-22,4.5,Selic Meta (% a.a.),432
+2019-12-23,4.5,Selic Meta (% a.a.),432
+2019-12-24,4.5,Selic Meta (% a.a.),432
+2019-12-25,4.5,Selic Meta (% a.a.),432
+2019-12-26,4.5,Selic Meta (% a.a.),432
+2019-12-27,4.5,Selic Meta (% a.a.),432
+2019-12-28,4.5,Selic Meta (% a.a.),432
+2019-12-29,4.5,Selic Meta (% a.a.),432
+2019-12-30,4.5,Selic Meta (% a.a.),432
+2019-12-31,4.5,Selic Meta (% a.a.),432
+2020-01-01,4.5,Selic Meta (% a.a.),432
+2020-01-02,4.5,Selic Meta (% a.a.),432
+2020-01-03,4.5,Selic Meta (% a.a.),432
+2020-01-04,4.5,Selic Meta (% a.a.),432
+2020-01-05,4.5,Selic Meta (% a.a.),432
+2020-01-06,4.5,Selic Meta (% a.a.),432
+2020-01-07,4.5,Selic Meta (% a.a.),432
+2020-01-08,4.5,Selic Meta (% a.a.),432
+2020-01-09,4.5,Selic Meta (% a.a.),432
+2020-01-10,4.5,Selic Meta (% a.a.),432
+2020-01-11,4.5,Selic Meta (% a.a.),432
+2020-01-12,4.5,Selic Meta (% a.a.),432
+2020-01-13,4.5,Selic Meta (% a.a.),432
+2020-01-14,4.5,Selic Meta (% a.a.),432
+2020-01-15,4.5,Selic Meta (% a.a.),432
+2020-01-16,4.5,Selic Meta (% a.a.),432
+2020-01-17,4.5,Selic Meta (% a.a.),432
+2020-01-18,4.5,Selic Meta (% a.a.),432
+2020-01-19,4.5,Selic Meta (% a.a.),432
+2020-01-20,4.5,Selic Meta (% a.a.),432
+2020-01-21,4.5,Selic Meta (% a.a.),432
+2020-01-22,4.5,Selic Meta (% a.a.),432
+2020-01-23,4.5,Selic Meta (% a.a.),432
+2020-01-24,4.5,Selic Meta (% a.a.),432
+2020-01-25,4.5,Selic Meta (% a.a.),432
+2020-01-26,4.5,Selic Meta (% a.a.),432
+2020-01-27,4.5,Selic Meta (% a.a.),432
+2020-01-28,4.5,Selic Meta (% a.a.),432
+2020-01-29,4.5,Selic Meta (% a.a.),432
+2020-01-30,4.5,Selic Meta (% a.a.),432
+2020-01-31,4.5,Selic Meta (% a.a.),432
+2020-02-01,4.5,Selic Meta (% a.a.),432
+2020-02-02,4.5,Selic Meta (% a.a.),432
+2020-02-03,4.5,Selic Meta (% a.a.),432
+2020-02-04,4.5,Selic Meta (% a.a.),432
+2020-02-05,4.5,Selic Meta (% a.a.),432
+2020-02-06,4.25,Selic Meta (% a.a.),432
+2020-02-07,4.25,Selic Meta (% a.a.),432
+2020-02-08,4.25,Selic Meta (% a.a.),432
+2020-02-09,4.25,Selic Meta (% a.a.),432
+2020-02-10,4.25,Selic Meta (% a.a.),432
+2020-02-11,4.25,Selic Meta (% a.a.),432
+2020-02-12,4.25,Selic Meta (% a.a.),432
+2020-02-13,4.25,Selic Meta (% a.a.),432
+2020-02-14,4.25,Selic Meta (% a.a.),432
+2020-02-15,4.25,Selic Meta (% a.a.),432
+2020-02-16,4.25,Selic Meta (% a.a.),432
+2020-02-17,4.25,Selic Meta (% a.a.),432
+2020-02-18,4.25,Selic Meta (% a.a.),432
+2020-02-19,4.25,Selic Meta (% a.a.),432
+2020-02-20,4.25,Selic Meta (% a.a.),432
+2020-02-21,4.25,Selic Meta (% a.a.),432
+2020-02-22,4.25,Selic Meta (% a.a.),432
+2020-02-23,4.25,Selic Meta (% a.a.),432
+2020-02-24,4.25,Selic Meta (% a.a.),432
+2020-02-25,4.25,Selic Meta (% a.a.),432
+2020-02-26,4.25,Selic Meta (% a.a.),432
+2020-02-27,4.25,Selic Meta (% a.a.),432
+2020-02-28,4.25,Selic Meta (% a.a.),432
+2020-02-29,4.25,Selic Meta (% a.a.),432
+2020-03-01,4.25,Selic Meta (% a.a.),432
+2020-03-02,4.25,Selic Meta (% a.a.),432
+2020-03-03,4.25,Selic Meta (% a.a.),432
+2020-03-04,4.25,Selic Meta (% a.a.),432
+2020-03-05,4.25,Selic Meta (% a.a.),432
+2020-03-06,4.25,Selic Meta (% a.a.),432
+2020-03-07,4.25,Selic Meta (% a.a.),432
+2020-03-08,4.25,Selic Meta (% a.a.),432
+2020-03-09,4.25,Selic Meta (% a.a.),432
+2020-03-10,4.25,Selic Meta (% a.a.),432
+2020-03-11,4.25,Selic Meta (% a.a.),432
+2020-03-12,4.25,Selic Meta (% a.a.),432
+2020-03-13,4.25,Selic Meta (% a.a.),432
+2020-03-14,4.25,Selic Meta (% a.a.),432
+2020-03-15,4.25,Selic Meta (% a.a.),432
+2020-03-16,4.25,Selic Meta (% a.a.),432
+2020-03-17,4.25,Selic Meta (% a.a.),432
+2020-03-18,4.25,Selic Meta (% a.a.),432
+2020-03-19,3.75,Selic Meta (% a.a.),432
+2020-03-20,3.75,Selic Meta (% a.a.),432
+2020-03-21,3.75,Selic Meta (% a.a.),432
+2020-03-22,3.75,Selic Meta (% a.a.),432
+2020-03-23,3.75,Selic Meta (% a.a.),432
+2020-03-24,3.75,Selic Meta (% a.a.),432
+2020-03-25,3.75,Selic Meta (% a.a.),432
+2020-03-26,3.75,Selic Meta (% a.a.),432
+2020-03-27,3.75,Selic Meta (% a.a.),432
+2020-03-28,3.75,Selic Meta (% a.a.),432
+2020-03-29,3.75,Selic Meta (% a.a.),432
+2020-03-30,3.75,Selic Meta (% a.a.),432
+2020-03-31,3.75,Selic Meta (% a.a.),432
+2020-04-01,3.75,Selic Meta (% a.a.),432
+2020-04-02,3.75,Selic Meta (% a.a.),432
+2020-04-03,3.75,Selic Meta (% a.a.),432
+2020-04-04,3.75,Selic Meta (% a.a.),432
+2020-04-05,3.75,Selic Meta (% a.a.),432
+2020-04-06,3.75,Selic Meta (% a.a.),432
+2020-04-07,3.75,Selic Meta (% a.a.),432
+2020-04-08,3.75,Selic Meta (% a.a.),432
+2020-04-09,3.75,Selic Meta (% a.a.),432
+2020-04-10,3.75,Selic Meta (% a.a.),432
+2020-04-11,3.75,Selic Meta (% a.a.),432
+2020-04-12,3.75,Selic Meta (% a.a.),432
+2020-04-13,3.75,Selic Meta (% a.a.),432
+2020-04-14,3.75,Selic Meta (% a.a.),432
+2020-04-15,3.75,Selic Meta (% a.a.),432
+2020-04-16,3.75,Selic Meta (% a.a.),432
+2020-04-17,3.75,Selic Meta (% a.a.),432
+2020-04-18,3.75,Selic Meta (% a.a.),432
+2020-04-19,3.75,Selic Meta (% a.a.),432
+2020-04-20,3.75,Selic Meta (% a.a.),432
+2020-04-21,3.75,Selic Meta (% a.a.),432
+2020-04-22,3.75,Selic Meta (% a.a.),432
+2020-04-23,3.75,Selic Meta (% a.a.),432
+2020-04-24,3.75,Selic Meta (% a.a.),432
+2020-04-25,3.75,Selic Meta (% a.a.),432
+2020-04-26,3.75,Selic Meta (% a.a.),432
+2020-04-27,3.75,Selic Meta (% a.a.),432
+2020-04-28,3.75,Selic Meta (% a.a.),432
+2020-04-29,3.75,Selic Meta (% a.a.),432
+2020-04-30,3.75,Selic Meta (% a.a.),432
+2020-05-01,3.75,Selic Meta (% a.a.),432
+2020-05-02,3.75,Selic Meta (% a.a.),432
+2020-05-03,3.75,Selic Meta (% a.a.),432
+2020-05-04,3.75,Selic Meta (% a.a.),432
+2020-05-05,3.75,Selic Meta (% a.a.),432
+2020-05-06,3.75,Selic Meta (% a.a.),432
+2020-05-07,3.0,Selic Meta (% a.a.),432
+2020-05-08,3.0,Selic Meta (% a.a.),432
+2020-05-09,3.0,Selic Meta (% a.a.),432
+2020-05-10,3.0,Selic Meta (% a.a.),432
+2020-05-11,3.0,Selic Meta (% a.a.),432
+2020-05-12,3.0,Selic Meta (% a.a.),432
+2020-05-13,3.0,Selic Meta (% a.a.),432
+2020-05-14,3.0,Selic Meta (% a.a.),432
+2020-05-15,3.0,Selic Meta (% a.a.),432
+2020-05-16,3.0,Selic Meta (% a.a.),432
+2020-05-17,3.0,Selic Meta (% a.a.),432
+2020-05-18,3.0,Selic Meta (% a.a.),432
+2020-05-19,3.0,Selic Meta (% a.a.),432
+2020-05-20,3.0,Selic Meta (% a.a.),432
+2020-05-21,3.0,Selic Meta (% a.a.),432
+2020-05-22,3.0,Selic Meta (% a.a.),432
+2020-05-23,3.0,Selic Meta (% a.a.),432
+2020-05-24,3.0,Selic Meta (% a.a.),432
+2020-05-25,3.0,Selic Meta (% a.a.),432
+2020-05-26,3.0,Selic Meta (% a.a.),432
+2020-05-27,3.0,Selic Meta (% a.a.),432
+2020-05-28,3.0,Selic Meta (% a.a.),432
+2020-05-29,3.0,Selic Meta (% a.a.),432
+2020-05-30,3.0,Selic Meta (% a.a.),432
+2020-05-31,3.0,Selic Meta (% a.a.),432
+2020-06-01,3.0,Selic Meta (% a.a.),432
+2020-06-02,3.0,Selic Meta (% a.a.),432
+2020-06-03,3.0,Selic Meta (% a.a.),432
+2020-06-04,3.0,Selic Meta (% a.a.),432
+2020-06-05,3.0,Selic Meta (% a.a.),432
+2020-06-06,3.0,Selic Meta (% a.a.),432
+2020-06-07,3.0,Selic Meta (% a.a.),432
+2020-06-08,3.0,Selic Meta (% a.a.),432
+2020-06-09,3.0,Selic Meta (% a.a.),432
+2020-06-10,3.0,Selic Meta (% a.a.),432
+2020-06-11,3.0,Selic Meta (% a.a.),432
+2020-06-12,3.0,Selic Meta (% a.a.),432
+2020-06-13,3.0,Selic Meta (% a.a.),432
+2020-06-14,3.0,Selic Meta (% a.a.),432
+2020-06-15,3.0,Selic Meta (% a.a.),432
+2020-06-16,3.0,Selic Meta (% a.a.),432
+2020-06-17,3.0,Selic Meta (% a.a.),432
+2020-06-18,2.25,Selic Meta (% a.a.),432
+2020-06-19,2.25,Selic Meta (% a.a.),432
+2020-06-20,2.25,Selic Meta (% a.a.),432
+2020-06-21,2.25,Selic Meta (% a.a.),432
+2020-06-22,2.25,Selic Meta (% a.a.),432
+2020-06-23,2.25,Selic Meta (% a.a.),432
+2020-06-24,2.25,Selic Meta (% a.a.),432
+2020-06-25,2.25,Selic Meta (% a.a.),432
+2020-06-26,2.25,Selic Meta (% a.a.),432
+2020-06-27,2.25,Selic Meta (% a.a.),432
+2020-06-28,2.25,Selic Meta (% a.a.),432
+2020-06-29,2.25,Selic Meta (% a.a.),432
+2020-06-30,2.25,Selic Meta (% a.a.),432
+2020-07-01,2.25,Selic Meta (% a.a.),432
+2020-07-02,2.25,Selic Meta (% a.a.),432
+2020-07-03,2.25,Selic Meta (% a.a.),432
+2020-07-04,2.25,Selic Meta (% a.a.),432
+2020-07-05,2.25,Selic Meta (% a.a.),432
+2020-07-06,2.25,Selic Meta (% a.a.),432
+2020-07-07,2.25,Selic Meta (% a.a.),432
+2020-07-08,2.25,Selic Meta (% a.a.),432
+2020-07-09,2.25,Selic Meta (% a.a.),432
+2020-07-10,2.25,Selic Meta (% a.a.),432
+2020-07-11,2.25,Selic Meta (% a.a.),432
+2020-07-12,2.25,Selic Meta (% a.a.),432
+2020-07-13,2.25,Selic Meta (% a.a.),432
+2020-07-14,2.25,Selic Meta (% a.a.),432
+2020-07-15,2.25,Selic Meta (% a.a.),432
+2020-07-16,2.25,Selic Meta (% a.a.),432
+2020-07-17,2.25,Selic Meta (% a.a.),432
+2020-07-18,2.25,Selic Meta (% a.a.),432
+2020-07-19,2.25,Selic Meta (% a.a.),432
+2020-07-20,2.25,Selic Meta (% a.a.),432
+2020-07-21,2.25,Selic Meta (% a.a.),432
+2020-07-22,2.25,Selic Meta (% a.a.),432
+2020-07-23,2.25,Selic Meta (% a.a.),432
+2020-07-24,2.25,Selic Meta (% a.a.),432
+2020-07-25,2.25,Selic Meta (% a.a.),432
+2020-07-26,2.25,Selic Meta (% a.a.),432
+2020-07-27,2.25,Selic Meta (% a.a.),432
+2020-07-28,2.25,Selic Meta (% a.a.),432
+2020-07-29,2.25,Selic Meta (% a.a.),432
+2020-07-30,2.25,Selic Meta (% a.a.),432
+2020-07-31,2.25,Selic Meta (% a.a.),432
+2020-08-01,2.25,Selic Meta (% a.a.),432
+2020-08-02,2.25,Selic Meta (% a.a.),432
+2020-08-03,2.25,Selic Meta (% a.a.),432
+2020-08-04,2.25,Selic Meta (% a.a.),432
+2020-08-05,2.25,Selic Meta (% a.a.),432
+2020-08-06,2.0,Selic Meta (% a.a.),432
+2020-08-07,2.0,Selic Meta (% a.a.),432
+2020-08-08,2.0,Selic Meta (% a.a.),432
+2020-08-09,2.0,Selic Meta (% a.a.),432
+2020-08-10,2.0,Selic Meta (% a.a.),432
+2020-08-11,2.0,Selic Meta (% a.a.),432
+2020-08-12,2.0,Selic Meta (% a.a.),432
+2020-08-13,2.0,Selic Meta (% a.a.),432
+2020-08-14,2.0,Selic Meta (% a.a.),432
+2020-08-15,2.0,Selic Meta (% a.a.),432
+2020-08-16,2.0,Selic Meta (% a.a.),432
+2020-08-17,2.0,Selic Meta (% a.a.),432
+2020-08-18,2.0,Selic Meta (% a.a.),432
+2020-08-19,2.0,Selic Meta (% a.a.),432
+2020-08-20,2.0,Selic Meta (% a.a.),432
+2020-08-21,2.0,Selic Meta (% a.a.),432
+2020-08-22,2.0,Selic Meta (% a.a.),432
+2020-08-23,2.0,Selic Meta (% a.a.),432
+2020-08-24,2.0,Selic Meta (% a.a.),432
+2020-08-25,2.0,Selic Meta (% a.a.),432
+2020-08-26,2.0,Selic Meta (% a.a.),432
+2020-08-27,2.0,Selic Meta (% a.a.),432
+2020-08-28,2.0,Selic Meta (% a.a.),432
+2020-08-29,2.0,Selic Meta (% a.a.),432
+2020-08-30,2.0,Selic Meta (% a.a.),432
+2020-08-31,2.0,Selic Meta (% a.a.),432
+2020-09-01,2.0,Selic Meta (% a.a.),432
+2020-09-02,2.0,Selic Meta (% a.a.),432
+2020-09-03,2.0,Selic Meta (% a.a.),432
+2020-09-04,2.0,Selic Meta (% a.a.),432
+2020-09-05,2.0,Selic Meta (% a.a.),432
+2020-09-06,2.0,Selic Meta (% a.a.),432
+2020-09-07,2.0,Selic Meta (% a.a.),432
+2020-09-08,2.0,Selic Meta (% a.a.),432
+2020-09-09,2.0,Selic Meta (% a.a.),432
+2020-09-10,2.0,Selic Meta (% a.a.),432
+2020-09-11,2.0,Selic Meta (% a.a.),432
+2020-09-12,2.0,Selic Meta (% a.a.),432
+2020-09-13,2.0,Selic Meta (% a.a.),432
+2020-09-14,2.0,Selic Meta (% a.a.),432
+2020-09-15,2.0,Selic Meta (% a.a.),432
+2020-09-16,2.0,Selic Meta (% a.a.),432
+2020-09-17,2.0,Selic Meta (% a.a.),432
+2020-09-18,2.0,Selic Meta (% a.a.),432
+2020-09-19,2.0,Selic Meta (% a.a.),432
+2020-09-20,2.0,Selic Meta (% a.a.),432
+2020-09-21,2.0,Selic Meta (% a.a.),432
+2020-09-22,2.0,Selic Meta (% a.a.),432
+2020-09-23,2.0,Selic Meta (% a.a.),432
+2020-09-24,2.0,Selic Meta (% a.a.),432
+2020-09-25,2.0,Selic Meta (% a.a.),432
+2020-09-26,2.0,Selic Meta (% a.a.),432
+2020-09-27,2.0,Selic Meta (% a.a.),432
+2020-09-28,2.0,Selic Meta (% a.a.),432
+2020-09-29,2.0,Selic Meta (% a.a.),432
+2020-09-30,2.0,Selic Meta (% a.a.),432
+2020-10-01,2.0,Selic Meta (% a.a.),432
+2020-10-02,2.0,Selic Meta (% a.a.),432
+2020-10-03,2.0,Selic Meta (% a.a.),432
+2020-10-04,2.0,Selic Meta (% a.a.),432
+2020-10-05,2.0,Selic Meta (% a.a.),432
+2020-10-06,2.0,Selic Meta (% a.a.),432
+2020-10-07,2.0,Selic Meta (% a.a.),432
+2020-10-08,2.0,Selic Meta (% a.a.),432
+2020-10-09,2.0,Selic Meta (% a.a.),432
+2020-10-10,2.0,Selic Meta (% a.a.),432
+2020-10-11,2.0,Selic Meta (% a.a.),432
+2020-10-12,2.0,Selic Meta (% a.a.),432
+2020-10-13,2.0,Selic Meta (% a.a.),432
+2020-10-14,2.0,Selic Meta (% a.a.),432
+2020-10-15,2.0,Selic Meta (% a.a.),432
+2020-10-16,2.0,Selic Meta (% a.a.),432
+2020-10-17,2.0,Selic Meta (% a.a.),432
+2020-10-18,2.0,Selic Meta (% a.a.),432
+2020-10-19,2.0,Selic Meta (% a.a.),432
+2020-10-20,2.0,Selic Meta (% a.a.),432
+2020-10-21,2.0,Selic Meta (% a.a.),432
+2020-10-22,2.0,Selic Meta (% a.a.),432
+2020-10-23,2.0,Selic Meta (% a.a.),432
+2020-10-24,2.0,Selic Meta (% a.a.),432
+2020-10-25,2.0,Selic Meta (% a.a.),432
+2020-10-26,2.0,Selic Meta (% a.a.),432
+2020-10-27,2.0,Selic Meta (% a.a.),432
+2020-10-28,2.0,Selic Meta (% a.a.),432
+2020-10-29,2.0,Selic Meta (% a.a.),432
+2020-10-30,2.0,Selic Meta (% a.a.),432
+2020-10-31,2.0,Selic Meta (% a.a.),432
+2020-11-01,2.0,Selic Meta (% a.a.),432
+2020-11-02,2.0,Selic Meta (% a.a.),432
+2020-11-03,2.0,Selic Meta (% a.a.),432
+2020-11-04,2.0,Selic Meta (% a.a.),432
+2020-11-05,2.0,Selic Meta (% a.a.),432
+2020-11-06,2.0,Selic Meta (% a.a.),432
+2020-11-07,2.0,Selic Meta (% a.a.),432
+2020-11-08,2.0,Selic Meta (% a.a.),432
+2020-11-09,2.0,Selic Meta (% a.a.),432
+2020-11-10,2.0,Selic Meta (% a.a.),432
+2020-11-11,2.0,Selic Meta (% a.a.),432
+2020-11-12,2.0,Selic Meta (% a.a.),432
+2020-11-13,2.0,Selic Meta (% a.a.),432
+2020-11-14,2.0,Selic Meta (% a.a.),432
+2020-11-15,2.0,Selic Meta (% a.a.),432
+2020-11-16,2.0,Selic Meta (% a.a.),432
+2020-11-17,2.0,Selic Meta (% a.a.),432
+2020-11-18,2.0,Selic Meta (% a.a.),432
+2020-11-19,2.0,Selic Meta (% a.a.),432
+2020-11-20,2.0,Selic Meta (% a.a.),432
+2020-11-21,2.0,Selic Meta (% a.a.),432
+2020-11-22,2.0,Selic Meta (% a.a.),432
+2020-11-23,2.0,Selic Meta (% a.a.),432
+2020-11-24,2.0,Selic Meta (% a.a.),432
+2020-11-25,2.0,Selic Meta (% a.a.),432
+2020-11-26,2.0,Selic Meta (% a.a.),432
+2020-11-27,2.0,Selic Meta (% a.a.),432
+2020-11-28,2.0,Selic Meta (% a.a.),432
+2020-11-29,2.0,Selic Meta (% a.a.),432
+2020-11-30,2.0,Selic Meta (% a.a.),432
+2020-12-01,2.0,Selic Meta (% a.a.),432
+2020-12-02,2.0,Selic Meta (% a.a.),432
+2020-12-03,2.0,Selic Meta (% a.a.),432
+2020-12-04,2.0,Selic Meta (% a.a.),432
+2020-12-05,2.0,Selic Meta (% a.a.),432
+2020-12-06,2.0,Selic Meta (% a.a.),432
+2020-12-07,2.0,Selic Meta (% a.a.),432
+2020-12-08,2.0,Selic Meta (% a.a.),432
+2020-12-09,2.0,Selic Meta (% a.a.),432
+2020-12-10,2.0,Selic Meta (% a.a.),432
+2020-12-11,2.0,Selic Meta (% a.a.),432
+2020-12-12,2.0,Selic Meta (% a.a.),432
+2020-12-13,2.0,Selic Meta (% a.a.),432
+2020-12-14,2.0,Selic Meta (% a.a.),432
+2020-12-15,2.0,Selic Meta (% a.a.),432
+2020-12-16,2.0,Selic Meta (% a.a.),432
+2020-12-17,2.0,Selic Meta (% a.a.),432
+2020-12-18,2.0,Selic Meta (% a.a.),432
+2020-12-19,2.0,Selic Meta (% a.a.),432
+2020-12-20,2.0,Selic Meta (% a.a.),432
+2020-12-21,2.0,Selic Meta (% a.a.),432
+2020-12-22,2.0,Selic Meta (% a.a.),432
+2020-12-23,2.0,Selic Meta (% a.a.),432
+2020-12-24,2.0,Selic Meta (% a.a.),432
+2020-12-25,2.0,Selic Meta (% a.a.),432
+2020-12-26,2.0,Selic Meta (% a.a.),432
+2020-12-27,2.0,Selic Meta (% a.a.),432
+2020-12-28,2.0,Selic Meta (% a.a.),432
+2020-12-29,2.0,Selic Meta (% a.a.),432
+2020-12-30,2.0,Selic Meta (% a.a.),432
+2020-12-31,2.0,Selic Meta (% a.a.),432
+2021-01-01,2.0,Selic Meta (% a.a.),432
+2021-01-02,2.0,Selic Meta (% a.a.),432
+2021-01-03,2.0,Selic Meta (% a.a.),432
+2021-01-04,2.0,Selic Meta (% a.a.),432
+2021-01-05,2.0,Selic Meta (% a.a.),432
+2021-01-06,2.0,Selic Meta (% a.a.),432
+2021-01-07,2.0,Selic Meta (% a.a.),432
+2021-01-08,2.0,Selic Meta (% a.a.),432
+2021-01-09,2.0,Selic Meta (% a.a.),432
+2021-01-10,2.0,Selic Meta (% a.a.),432
+2021-01-11,2.0,Selic Meta (% a.a.),432
+2021-01-12,2.0,Selic Meta (% a.a.),432
+2021-01-13,2.0,Selic Meta (% a.a.),432
+2021-01-14,2.0,Selic Meta (% a.a.),432
+2021-01-15,2.0,Selic Meta (% a.a.),432
+2021-01-16,2.0,Selic Meta (% a.a.),432
+2021-01-17,2.0,Selic Meta (% a.a.),432
+2021-01-18,2.0,Selic Meta (% a.a.),432
+2021-01-19,2.0,Selic Meta (% a.a.),432
+2021-01-20,2.0,Selic Meta (% a.a.),432
+2021-01-21,2.0,Selic Meta (% a.a.),432
+2021-01-22,2.0,Selic Meta (% a.a.),432
+2021-01-23,2.0,Selic Meta (% a.a.),432
+2021-01-24,2.0,Selic Meta (% a.a.),432
+2021-01-25,2.0,Selic Meta (% a.a.),432
+2021-01-26,2.0,Selic Meta (% a.a.),432
+2021-01-27,2.0,Selic Meta (% a.a.),432
+2021-01-28,2.0,Selic Meta (% a.a.),432
+2021-01-29,2.0,Selic Meta (% a.a.),432
+2021-01-30,2.0,Selic Meta (% a.a.),432
+2021-01-31,2.0,Selic Meta (% a.a.),432
+2021-02-01,2.0,Selic Meta (% a.a.),432
+2021-02-02,2.0,Selic Meta (% a.a.),432
+2021-02-03,2.0,Selic Meta (% a.a.),432
+2021-02-04,2.0,Selic Meta (% a.a.),432
+2021-02-05,2.0,Selic Meta (% a.a.),432
+2021-02-06,2.0,Selic Meta (% a.a.),432
+2021-02-07,2.0,Selic Meta (% a.a.),432
+2021-02-08,2.0,Selic Meta (% a.a.),432
+2021-02-09,2.0,Selic Meta (% a.a.),432
+2021-02-10,2.0,Selic Meta (% a.a.),432
+2021-02-11,2.0,Selic Meta (% a.a.),432
+2021-02-12,2.0,Selic Meta (% a.a.),432
+2021-02-13,2.0,Selic Meta (% a.a.),432
+2021-02-14,2.0,Selic Meta (% a.a.),432
+2021-02-15,2.0,Selic Meta (% a.a.),432
+2021-02-16,2.0,Selic Meta (% a.a.),432
+2021-02-17,2.0,Selic Meta (% a.a.),432
+2021-02-18,2.0,Selic Meta (% a.a.),432
+2021-02-19,2.0,Selic Meta (% a.a.),432
+2021-02-20,2.0,Selic Meta (% a.a.),432
+2021-02-21,2.0,Selic Meta (% a.a.),432
+2021-02-22,2.0,Selic Meta (% a.a.),432
+2021-02-23,2.0,Selic Meta (% a.a.),432
+2021-02-24,2.0,Selic Meta (% a.a.),432
+2021-02-25,2.0,Selic Meta (% a.a.),432
+2021-02-26,2.0,Selic Meta (% a.a.),432
+2021-02-27,2.0,Selic Meta (% a.a.),432
+2021-02-28,2.0,Selic Meta (% a.a.),432
+2021-03-01,2.0,Selic Meta (% a.a.),432
+2021-03-02,2.0,Selic Meta (% a.a.),432
+2021-03-03,2.0,Selic Meta (% a.a.),432
+2021-03-04,2.0,Selic Meta (% a.a.),432
+2021-03-05,2.0,Selic Meta (% a.a.),432
+2021-03-06,2.0,Selic Meta (% a.a.),432
+2021-03-07,2.0,Selic Meta (% a.a.),432
+2021-03-08,2.0,Selic Meta (% a.a.),432
+2021-03-09,2.0,Selic Meta (% a.a.),432
+2021-03-10,2.0,Selic Meta (% a.a.),432
+2021-03-11,2.0,Selic Meta (% a.a.),432
+2021-03-12,2.0,Selic Meta (% a.a.),432
+2021-03-13,2.0,Selic Meta (% a.a.),432
+2021-03-14,2.0,Selic Meta (% a.a.),432
+2021-03-15,2.0,Selic Meta (% a.a.),432
+2021-03-16,2.0,Selic Meta (% a.a.),432
+2021-03-17,2.0,Selic Meta (% a.a.),432
+2021-03-18,2.75,Selic Meta (% a.a.),432
+2021-03-19,2.75,Selic Meta (% a.a.),432
+2021-03-20,2.75,Selic Meta (% a.a.),432
+2021-03-21,2.75,Selic Meta (% a.a.),432
+2021-03-22,2.75,Selic Meta (% a.a.),432
+2021-03-23,2.75,Selic Meta (% a.a.),432
+2021-03-24,2.75,Selic Meta (% a.a.),432
+2021-03-25,2.75,Selic Meta (% a.a.),432
+2021-03-26,2.75,Selic Meta (% a.a.),432
+2021-03-27,2.75,Selic Meta (% a.a.),432
+2021-03-28,2.75,Selic Meta (% a.a.),432
+2021-03-29,2.75,Selic Meta (% a.a.),432
+2021-03-30,2.75,Selic Meta (% a.a.),432
+2021-03-31,2.75,Selic Meta (% a.a.),432
+2021-04-01,2.75,Selic Meta (% a.a.),432
+2021-04-02,2.75,Selic Meta (% a.a.),432
+2021-04-03,2.75,Selic Meta (% a.a.),432
+2021-04-04,2.75,Selic Meta (% a.a.),432
+2021-04-05,2.75,Selic Meta (% a.a.),432
+2021-04-06,2.75,Selic Meta (% a.a.),432
+2021-04-07,2.75,Selic Meta (% a.a.),432
+2021-04-08,2.75,Selic Meta (% a.a.),432
+2021-04-09,2.75,Selic Meta (% a.a.),432
+2021-04-10,2.75,Selic Meta (% a.a.),432
+2021-04-11,2.75,Selic Meta (% a.a.),432
+2021-04-12,2.75,Selic Meta (% a.a.),432
+2021-04-13,2.75,Selic Meta (% a.a.),432
+2021-04-14,2.75,Selic Meta (% a.a.),432
+2021-04-15,2.75,Selic Meta (% a.a.),432
+2021-04-16,2.75,Selic Meta (% a.a.),432
+2021-04-17,2.75,Selic Meta (% a.a.),432
+2021-04-18,2.75,Selic Meta (% a.a.),432
+2021-04-19,2.75,Selic Meta (% a.a.),432
+2021-04-20,2.75,Selic Meta (% a.a.),432
+2021-04-21,2.75,Selic Meta (% a.a.),432
+2021-04-22,2.75,Selic Meta (% a.a.),432
+2021-04-23,2.75,Selic Meta (% a.a.),432
+2021-04-24,2.75,Selic Meta (% a.a.),432
+2021-04-25,2.75,Selic Meta (% a.a.),432
+2021-04-26,2.75,Selic Meta (% a.a.),432
+2021-04-27,2.75,Selic Meta (% a.a.),432
+2021-04-28,2.75,Selic Meta (% a.a.),432
+2021-04-29,2.75,Selic Meta (% a.a.),432
+2021-04-30,2.75,Selic Meta (% a.a.),432
+2021-05-01,2.75,Selic Meta (% a.a.),432
+2021-05-02,2.75,Selic Meta (% a.a.),432
+2021-05-03,2.75,Selic Meta (% a.a.),432
+2021-05-04,2.75,Selic Meta (% a.a.),432
+2021-05-05,2.75,Selic Meta (% a.a.),432
+2021-05-06,3.5,Selic Meta (% a.a.),432
+2021-05-07,3.5,Selic Meta (% a.a.),432
+2021-05-08,3.5,Selic Meta (% a.a.),432
+2021-05-09,3.5,Selic Meta (% a.a.),432
+2021-05-10,3.5,Selic Meta (% a.a.),432
+2021-05-11,3.5,Selic Meta (% a.a.),432
+2021-05-12,3.5,Selic Meta (% a.a.),432
+2021-05-13,3.5,Selic Meta (% a.a.),432
+2021-05-14,3.5,Selic Meta (% a.a.),432
+2021-05-15,3.5,Selic Meta (% a.a.),432
+2021-05-16,3.5,Selic Meta (% a.a.),432
+2021-05-17,3.5,Selic Meta (% a.a.),432
+2021-05-18,3.5,Selic Meta (% a.a.),432
+2021-05-19,3.5,Selic Meta (% a.a.),432
+2021-05-20,3.5,Selic Meta (% a.a.),432
+2021-05-21,3.5,Selic Meta (% a.a.),432
+2021-05-22,3.5,Selic Meta (% a.a.),432
+2021-05-23,3.5,Selic Meta (% a.a.),432
+2021-05-24,3.5,Selic Meta (% a.a.),432
+2021-05-25,3.5,Selic Meta (% a.a.),432
+2021-05-26,3.5,Selic Meta (% a.a.),432
+2021-05-27,3.5,Selic Meta (% a.a.),432
+2021-05-28,3.5,Selic Meta (% a.a.),432
+2021-05-29,3.5,Selic Meta (% a.a.),432
+2021-05-30,3.5,Selic Meta (% a.a.),432
+2021-05-31,3.5,Selic Meta (% a.a.),432
+2021-06-01,3.5,Selic Meta (% a.a.),432
+2021-06-02,3.5,Selic Meta (% a.a.),432
+2021-06-03,3.5,Selic Meta (% a.a.),432
+2021-06-04,3.5,Selic Meta (% a.a.),432
+2021-06-05,3.5,Selic Meta (% a.a.),432
+2021-06-06,3.5,Selic Meta (% a.a.),432
+2021-06-07,3.5,Selic Meta (% a.a.),432
+2021-06-08,3.5,Selic Meta (% a.a.),432
+2021-06-09,3.5,Selic Meta (% a.a.),432
+2021-06-10,3.5,Selic Meta (% a.a.),432
+2021-06-11,3.5,Selic Meta (% a.a.),432
+2021-06-12,3.5,Selic Meta (% a.a.),432
+2021-06-13,3.5,Selic Meta (% a.a.),432
+2021-06-14,3.5,Selic Meta (% a.a.),432
+2021-06-15,3.5,Selic Meta (% a.a.),432
+2021-06-16,3.5,Selic Meta (% a.a.),432
+2021-06-17,4.25,Selic Meta (% a.a.),432
+2021-06-18,4.25,Selic Meta (% a.a.),432
+2021-06-19,4.25,Selic Meta (% a.a.),432
+2021-06-20,4.25,Selic Meta (% a.a.),432
+2021-06-21,4.25,Selic Meta (% a.a.),432
+2021-06-22,4.25,Selic Meta (% a.a.),432
+2021-06-23,4.25,Selic Meta (% a.a.),432
+2021-06-24,4.25,Selic Meta (% a.a.),432
+2021-06-25,4.25,Selic Meta (% a.a.),432
+2021-06-26,4.25,Selic Meta (% a.a.),432
+2021-06-27,4.25,Selic Meta (% a.a.),432
+2021-06-28,4.25,Selic Meta (% a.a.),432
+2021-06-29,4.25,Selic Meta (% a.a.),432
+2021-06-30,4.25,Selic Meta (% a.a.),432
+2021-07-01,4.25,Selic Meta (% a.a.),432
+2021-07-02,4.25,Selic Meta (% a.a.),432
+2021-07-03,4.25,Selic Meta (% a.a.),432
+2021-07-04,4.25,Selic Meta (% a.a.),432
+2021-07-05,4.25,Selic Meta (% a.a.),432
+2021-07-06,4.25,Selic Meta (% a.a.),432
+2021-07-07,4.25,Selic Meta (% a.a.),432
+2021-07-08,4.25,Selic Meta (% a.a.),432
+2021-07-09,4.25,Selic Meta (% a.a.),432
+2021-07-10,4.25,Selic Meta (% a.a.),432
+2021-07-11,4.25,Selic Meta (% a.a.),432
+2021-07-12,4.25,Selic Meta (% a.a.),432
+2021-07-13,4.25,Selic Meta (% a.a.),432
+2021-07-14,4.25,Selic Meta (% a.a.),432
+2021-07-15,4.25,Selic Meta (% a.a.),432
+2021-07-16,4.25,Selic Meta (% a.a.),432
+2021-07-17,4.25,Selic Meta (% a.a.),432
+2021-07-18,4.25,Selic Meta (% a.a.),432
+2021-07-19,4.25,Selic Meta (% a.a.),432
+2021-07-20,4.25,Selic Meta (% a.a.),432
+2021-07-21,4.25,Selic Meta (% a.a.),432
+2021-07-22,4.25,Selic Meta (% a.a.),432
+2021-07-23,4.25,Selic Meta (% a.a.),432
+2021-07-24,4.25,Selic Meta (% a.a.),432
+2021-07-25,4.25,Selic Meta (% a.a.),432
+2021-07-26,4.25,Selic Meta (% a.a.),432
+2021-07-27,4.25,Selic Meta (% a.a.),432
+2021-07-28,4.25,Selic Meta (% a.a.),432
+2021-07-29,4.25,Selic Meta (% a.a.),432
+2021-07-30,4.25,Selic Meta (% a.a.),432
+2021-07-31,4.25,Selic Meta (% a.a.),432
+2021-08-01,4.25,Selic Meta (% a.a.),432
+2021-08-02,4.25,Selic Meta (% a.a.),432
+2021-08-03,4.25,Selic Meta (% a.a.),432
+2021-08-04,4.25,Selic Meta (% a.a.),432
+2021-08-05,5.25,Selic Meta (% a.a.),432
+2021-08-06,5.25,Selic Meta (% a.a.),432
+2021-08-07,5.25,Selic Meta (% a.a.),432
+2021-08-08,5.25,Selic Meta (% a.a.),432
+2021-08-09,5.25,Selic Meta (% a.a.),432
+2021-08-10,5.25,Selic Meta (% a.a.),432
+2021-08-11,5.25,Selic Meta (% a.a.),432
+2021-08-12,5.25,Selic Meta (% a.a.),432
+2021-08-13,5.25,Selic Meta (% a.a.),432
+2021-08-14,5.25,Selic Meta (% a.a.),432
+2021-08-15,5.25,Selic Meta (% a.a.),432
+2021-08-16,5.25,Selic Meta (% a.a.),432
+2021-08-17,5.25,Selic Meta (% a.a.),432
+2021-08-18,5.25,Selic Meta (% a.a.),432
+2021-08-19,5.25,Selic Meta (% a.a.),432
+2021-08-20,5.25,Selic Meta (% a.a.),432
+2021-08-21,5.25,Selic Meta (% a.a.),432
+2021-08-22,5.25,Selic Meta (% a.a.),432
+2021-08-23,5.25,Selic Meta (% a.a.),432
+2021-08-24,5.25,Selic Meta (% a.a.),432
+2021-08-25,5.25,Selic Meta (% a.a.),432
+2021-08-26,5.25,Selic Meta (% a.a.),432
+2021-08-27,5.25,Selic Meta (% a.a.),432
+2021-08-28,5.25,Selic Meta (% a.a.),432
+2021-08-29,5.25,Selic Meta (% a.a.),432
+2021-08-30,5.25,Selic Meta (% a.a.),432
+2021-08-31,5.25,Selic Meta (% a.a.),432
+2021-09-01,5.25,Selic Meta (% a.a.),432
+2021-09-02,5.25,Selic Meta (% a.a.),432
+2021-09-03,5.25,Selic Meta (% a.a.),432
+2021-09-04,5.25,Selic Meta (% a.a.),432
+2021-09-05,5.25,Selic Meta (% a.a.),432
+2021-09-06,5.25,Selic Meta (% a.a.),432
+2021-09-07,5.25,Selic Meta (% a.a.),432
+2021-09-08,5.25,Selic Meta (% a.a.),432
+2021-09-09,5.25,Selic Meta (% a.a.),432
+2021-09-10,5.25,Selic Meta (% a.a.),432
+2021-09-11,5.25,Selic Meta (% a.a.),432
+2021-09-12,5.25,Selic Meta (% a.a.),432
+2021-09-13,5.25,Selic Meta (% a.a.),432
+2021-09-14,5.25,Selic Meta (% a.a.),432
+2021-09-15,5.25,Selic Meta (% a.a.),432
+2021-09-16,5.25,Selic Meta (% a.a.),432
+2021-09-17,5.25,Selic Meta (% a.a.),432
+2021-09-18,5.25,Selic Meta (% a.a.),432
+2021-09-19,5.25,Selic Meta (% a.a.),432
+2021-09-20,5.25,Selic Meta (% a.a.),432
+2021-09-21,5.25,Selic Meta (% a.a.),432
+2021-09-22,5.25,Selic Meta (% a.a.),432
+2021-09-23,6.25,Selic Meta (% a.a.),432
+2021-09-24,6.25,Selic Meta (% a.a.),432
+2021-09-25,6.25,Selic Meta (% a.a.),432
+2021-09-26,6.25,Selic Meta (% a.a.),432
+2021-09-27,6.25,Selic Meta (% a.a.),432
+2021-09-28,6.25,Selic Meta (% a.a.),432
+2021-09-29,6.25,Selic Meta (% a.a.),432
+2021-09-30,6.25,Selic Meta (% a.a.),432
+2021-10-01,6.25,Selic Meta (% a.a.),432
+2021-10-02,6.25,Selic Meta (% a.a.),432
+2021-10-03,6.25,Selic Meta (% a.a.),432
+2021-10-04,6.25,Selic Meta (% a.a.),432
+2021-10-05,6.25,Selic Meta (% a.a.),432
+2021-10-06,6.25,Selic Meta (% a.a.),432
+2021-10-07,6.25,Selic Meta (% a.a.),432
+2021-10-08,6.25,Selic Meta (% a.a.),432
+2021-10-09,6.25,Selic Meta (% a.a.),432
+2021-10-10,6.25,Selic Meta (% a.a.),432
+2021-10-11,6.25,Selic Meta (% a.a.),432
+2021-10-12,6.25,Selic Meta (% a.a.),432
+2021-10-13,6.25,Selic Meta (% a.a.),432
+2021-10-14,6.25,Selic Meta (% a.a.),432
+2021-10-15,6.25,Selic Meta (% a.a.),432
+2021-10-16,6.25,Selic Meta (% a.a.),432
+2021-10-17,6.25,Selic Meta (% a.a.),432
+2021-10-18,6.25,Selic Meta (% a.a.),432
+2021-10-19,6.25,Selic Meta (% a.a.),432
+2021-10-20,6.25,Selic Meta (% a.a.),432
+2021-10-21,6.25,Selic Meta (% a.a.),432
+2021-10-22,6.25,Selic Meta (% a.a.),432
+2021-10-23,6.25,Selic Meta (% a.a.),432
+2021-10-24,6.25,Selic Meta (% a.a.),432
+2021-10-25,6.25,Selic Meta (% a.a.),432
+2021-10-26,6.25,Selic Meta (% a.a.),432
+2021-10-27,6.25,Selic Meta (% a.a.),432
+2021-10-28,7.75,Selic Meta (% a.a.),432
+2021-10-29,7.75,Selic Meta (% a.a.),432
+2021-10-30,7.75,Selic Meta (% a.a.),432
+2021-10-31,7.75,Selic Meta (% a.a.),432
+2021-11-01,7.75,Selic Meta (% a.a.),432
+2021-11-02,7.75,Selic Meta (% a.a.),432
+2021-11-03,7.75,Selic Meta (% a.a.),432
+2021-11-04,7.75,Selic Meta (% a.a.),432
+2021-11-05,7.75,Selic Meta (% a.a.),432
+2021-11-06,7.75,Selic Meta (% a.a.),432
+2021-11-07,7.75,Selic Meta (% a.a.),432
+2021-11-08,7.75,Selic Meta (% a.a.),432
+2021-11-09,7.75,Selic Meta (% a.a.),432
+2021-11-10,7.75,Selic Meta (% a.a.),432
+2021-11-11,7.75,Selic Meta (% a.a.),432
+2021-11-12,7.75,Selic Meta (% a.a.),432
+2021-11-13,7.75,Selic Meta (% a.a.),432
+2021-11-14,7.75,Selic Meta (% a.a.),432
+2021-11-15,7.75,Selic Meta (% a.a.),432
+2021-11-16,7.75,Selic Meta (% a.a.),432
+2021-11-17,7.75,Selic Meta (% a.a.),432
+2021-11-18,7.75,Selic Meta (% a.a.),432
+2021-11-19,7.75,Selic Meta (% a.a.),432
+2021-11-20,7.75,Selic Meta (% a.a.),432
+2021-11-21,7.75,Selic Meta (% a.a.),432
+2021-11-22,7.75,Selic Meta (% a.a.),432
+2021-11-23,7.75,Selic Meta (% a.a.),432
+2021-11-24,7.75,Selic Meta (% a.a.),432
+2021-11-25,7.75,Selic Meta (% a.a.),432
+2021-11-26,7.75,Selic Meta (% a.a.),432
+2021-11-27,7.75,Selic Meta (% a.a.),432
+2021-11-28,7.75,Selic Meta (% a.a.),432
+2021-11-29,7.75,Selic Meta (% a.a.),432
+2021-11-30,7.75,Selic Meta (% a.a.),432
+2021-12-01,7.75,Selic Meta (% a.a.),432
+2021-12-02,7.75,Selic Meta (% a.a.),432
+2021-12-03,7.75,Selic Meta (% a.a.),432
+2021-12-04,7.75,Selic Meta (% a.a.),432
+2021-12-05,7.75,Selic Meta (% a.a.),432
+2021-12-06,7.75,Selic Meta (% a.a.),432
+2021-12-07,7.75,Selic Meta (% a.a.),432
+2021-12-08,7.75,Selic Meta (% a.a.),432
+2021-12-09,9.25,Selic Meta (% a.a.),432
+2021-12-10,9.25,Selic Meta (% a.a.),432
+2021-12-11,9.25,Selic Meta (% a.a.),432
+2021-12-12,9.25,Selic Meta (% a.a.),432
+2021-12-13,9.25,Selic Meta (% a.a.),432
+2021-12-14,9.25,Selic Meta (% a.a.),432
+2021-12-15,9.25,Selic Meta (% a.a.),432
+2021-12-16,9.25,Selic Meta (% a.a.),432
+2021-12-17,9.25,Selic Meta (% a.a.),432
+2021-12-18,9.25,Selic Meta (% a.a.),432
+2021-12-19,9.25,Selic Meta (% a.a.),432
+2021-12-20,9.25,Selic Meta (% a.a.),432
+2021-12-21,9.25,Selic Meta (% a.a.),432
+2021-12-22,9.25,Selic Meta (% a.a.),432
+2021-12-23,9.25,Selic Meta (% a.a.),432
+2021-12-24,9.25,Selic Meta (% a.a.),432
+2021-12-25,9.25,Selic Meta (% a.a.),432
+2021-12-26,9.25,Selic Meta (% a.a.),432
+2021-12-27,9.25,Selic Meta (% a.a.),432
+2021-12-28,9.25,Selic Meta (% a.a.),432
+2021-12-29,9.25,Selic Meta (% a.a.),432
+2021-12-30,9.25,Selic Meta (% a.a.),432
+2021-12-31,9.25,Selic Meta (% a.a.),432
+2022-01-01,9.25,Selic Meta (% a.a.),432
+2022-01-02,9.25,Selic Meta (% a.a.),432
+2022-01-03,9.25,Selic Meta (% a.a.),432
+2022-01-04,9.25,Selic Meta (% a.a.),432
+2022-01-05,9.25,Selic Meta (% a.a.),432
+2022-01-06,9.25,Selic Meta (% a.a.),432
+2022-01-07,9.25,Selic Meta (% a.a.),432
+2022-01-08,9.25,Selic Meta (% a.a.),432
+2022-01-09,9.25,Selic Meta (% a.a.),432
+2022-01-10,9.25,Selic Meta (% a.a.),432
+2022-01-11,9.25,Selic Meta (% a.a.),432
+2022-01-12,9.25,Selic Meta (% a.a.),432
+2022-01-13,9.25,Selic Meta (% a.a.),432
+2022-01-14,9.25,Selic Meta (% a.a.),432
+2022-01-15,9.25,Selic Meta (% a.a.),432
+2022-01-16,9.25,Selic Meta (% a.a.),432
+2022-01-17,9.25,Selic Meta (% a.a.),432
+2022-01-18,9.25,Selic Meta (% a.a.),432
+2022-01-19,9.25,Selic Meta (% a.a.),432
+2022-01-20,9.25,Selic Meta (% a.a.),432
+2022-01-21,9.25,Selic Meta (% a.a.),432
+2022-01-22,9.25,Selic Meta (% a.a.),432
+2022-01-23,9.25,Selic Meta (% a.a.),432
+2022-01-24,9.25,Selic Meta (% a.a.),432
+2022-01-25,9.25,Selic Meta (% a.a.),432
+2022-01-26,9.25,Selic Meta (% a.a.),432
+2022-01-27,9.25,Selic Meta (% a.a.),432
+2022-01-28,9.25,Selic Meta (% a.a.),432
+2022-01-29,9.25,Selic Meta (% a.a.),432
+2022-01-30,9.25,Selic Meta (% a.a.),432
+2022-01-31,9.25,Selic Meta (% a.a.),432
+2022-02-01,9.25,Selic Meta (% a.a.),432
+2022-02-02,9.25,Selic Meta (% a.a.),432
+2022-02-03,10.75,Selic Meta (% a.a.),432
+2022-02-04,10.75,Selic Meta (% a.a.),432
+2022-02-05,10.75,Selic Meta (% a.a.),432
+2022-02-06,10.75,Selic Meta (% a.a.),432
+2022-02-07,10.75,Selic Meta (% a.a.),432
+2022-02-08,10.75,Selic Meta (% a.a.),432
+2022-02-09,10.75,Selic Meta (% a.a.),432
+2022-02-10,10.75,Selic Meta (% a.a.),432
+2022-02-11,10.75,Selic Meta (% a.a.),432
+2022-02-12,10.75,Selic Meta (% a.a.),432
+2022-02-13,10.75,Selic Meta (% a.a.),432
+2022-02-14,10.75,Selic Meta (% a.a.),432
+2022-02-15,10.75,Selic Meta (% a.a.),432
+2022-02-16,10.75,Selic Meta (% a.a.),432
+2022-02-17,10.75,Selic Meta (% a.a.),432
+2022-02-18,10.75,Selic Meta (% a.a.),432
+2022-02-19,10.75,Selic Meta (% a.a.),432
+2022-02-20,10.75,Selic Meta (% a.a.),432
+2022-02-21,10.75,Selic Meta (% a.a.),432
+2022-02-22,10.75,Selic Meta (% a.a.),432
+2022-02-23,10.75,Selic Meta (% a.a.),432
+2022-02-24,10.75,Selic Meta (% a.a.),432
+2022-02-25,10.75,Selic Meta (% a.a.),432
+2022-02-26,10.75,Selic Meta (% a.a.),432
+2022-02-27,10.75,Selic Meta (% a.a.),432
+2022-02-28,10.75,Selic Meta (% a.a.),432
+2022-03-01,10.75,Selic Meta (% a.a.),432
+2022-03-02,10.75,Selic Meta (% a.a.),432
+2022-03-03,10.75,Selic Meta (% a.a.),432
+2022-03-04,10.75,Selic Meta (% a.a.),432
+2022-03-05,10.75,Selic Meta (% a.a.),432
+2022-03-06,10.75,Selic Meta (% a.a.),432
+2022-03-07,10.75,Selic Meta (% a.a.),432
+2022-03-08,10.75,Selic Meta (% a.a.),432
+2022-03-09,10.75,Selic Meta (% a.a.),432
+2022-03-10,10.75,Selic Meta (% a.a.),432
+2022-03-11,10.75,Selic Meta (% a.a.),432
+2022-03-12,10.75,Selic Meta (% a.a.),432
+2022-03-13,10.75,Selic Meta (% a.a.),432
+2022-03-14,10.75,Selic Meta (% a.a.),432
+2022-03-15,10.75,Selic Meta (% a.a.),432
+2022-03-16,10.75,Selic Meta (% a.a.),432
+2022-03-17,11.75,Selic Meta (% a.a.),432
+2022-03-18,11.75,Selic Meta (% a.a.),432
+2022-03-19,11.75,Selic Meta (% a.a.),432
+2022-03-20,11.75,Selic Meta (% a.a.),432
+2022-03-21,11.75,Selic Meta (% a.a.),432
+2022-03-22,11.75,Selic Meta (% a.a.),432
+2022-03-23,11.75,Selic Meta (% a.a.),432
+2022-03-24,11.75,Selic Meta (% a.a.),432
+2022-03-25,11.75,Selic Meta (% a.a.),432
+2022-03-26,11.75,Selic Meta (% a.a.),432
+2022-03-27,11.75,Selic Meta (% a.a.),432
+2022-03-28,11.75,Selic Meta (% a.a.),432
+2022-03-29,11.75,Selic Meta (% a.a.),432
+2022-03-30,11.75,Selic Meta (% a.a.),432
+2022-03-31,11.75,Selic Meta (% a.a.),432
+2022-04-01,11.75,Selic Meta (% a.a.),432
+2022-04-02,11.75,Selic Meta (% a.a.),432
+2022-04-03,11.75,Selic Meta (% a.a.),432
+2022-04-04,11.75,Selic Meta (% a.a.),432
+2022-04-05,11.75,Selic Meta (% a.a.),432
+2022-04-06,11.75,Selic Meta (% a.a.),432
+2022-04-07,11.75,Selic Meta (% a.a.),432
+2022-04-08,11.75,Selic Meta (% a.a.),432
+2022-04-09,11.75,Selic Meta (% a.a.),432
+2022-04-10,11.75,Selic Meta (% a.a.),432
+2022-04-11,11.75,Selic Meta (% a.a.),432
+2022-04-12,11.75,Selic Meta (% a.a.),432
+2022-04-13,11.75,Selic Meta (% a.a.),432
+2022-04-14,11.75,Selic Meta (% a.a.),432
+2022-04-15,11.75,Selic Meta (% a.a.),432
+2022-04-16,11.75,Selic Meta (% a.a.),432
+2022-04-17,11.75,Selic Meta (% a.a.),432
+2022-04-18,11.75,Selic Meta (% a.a.),432
+2022-04-19,11.75,Selic Meta (% a.a.),432
+2022-04-20,11.75,Selic Meta (% a.a.),432
+2022-04-21,11.75,Selic Meta (% a.a.),432
+2022-04-22,11.75,Selic Meta (% a.a.),432
+2022-04-23,11.75,Selic Meta (% a.a.),432
+2022-04-24,11.75,Selic Meta (% a.a.),432
+2022-04-25,11.75,Selic Meta (% a.a.),432
+2022-04-26,11.75,Selic Meta (% a.a.),432
+2022-04-27,11.75,Selic Meta (% a.a.),432
+2022-04-28,11.75,Selic Meta (% a.a.),432
+2022-04-29,11.75,Selic Meta (% a.a.),432
+2022-04-30,11.75,Selic Meta (% a.a.),432
+2022-05-01,11.75,Selic Meta (% a.a.),432
+2022-05-02,11.75,Selic Meta (% a.a.),432
+2022-05-03,11.75,Selic Meta (% a.a.),432
+2022-05-04,11.75,Selic Meta (% a.a.),432
+2022-05-05,12.75,Selic Meta (% a.a.),432
+2022-05-06,12.75,Selic Meta (% a.a.),432
+2022-05-07,12.75,Selic Meta (% a.a.),432
+2022-05-08,12.75,Selic Meta (% a.a.),432
+2022-05-09,12.75,Selic Meta (% a.a.),432
+2022-05-10,12.75,Selic Meta (% a.a.),432
+2022-05-11,12.75,Selic Meta (% a.a.),432
+2022-05-12,12.75,Selic Meta (% a.a.),432
+2022-05-13,12.75,Selic Meta (% a.a.),432
+2022-05-14,12.75,Selic Meta (% a.a.),432
+2022-05-15,12.75,Selic Meta (% a.a.),432
+2022-05-16,12.75,Selic Meta (% a.a.),432
+2022-05-17,12.75,Selic Meta (% a.a.),432
+2022-05-18,12.75,Selic Meta (% a.a.),432
+2022-05-19,12.75,Selic Meta (% a.a.),432
+2022-05-20,12.75,Selic Meta (% a.a.),432
+2022-05-21,12.75,Selic Meta (% a.a.),432
+2022-05-22,12.75,Selic Meta (% a.a.),432
+2022-05-23,12.75,Selic Meta (% a.a.),432
+2022-05-24,12.75,Selic Meta (% a.a.),432
+2022-05-25,12.75,Selic Meta (% a.a.),432
+2022-05-26,12.75,Selic Meta (% a.a.),432
+2022-05-27,12.75,Selic Meta (% a.a.),432
+2022-05-28,12.75,Selic Meta (% a.a.),432
+2022-05-29,12.75,Selic Meta (% a.a.),432
+2022-05-30,12.75,Selic Meta (% a.a.),432
+2022-05-31,12.75,Selic Meta (% a.a.),432
+2022-06-01,12.75,Selic Meta (% a.a.),432
+2022-06-02,12.75,Selic Meta (% a.a.),432
+2022-06-03,12.75,Selic Meta (% a.a.),432
+2022-06-04,12.75,Selic Meta (% a.a.),432
+2022-06-05,12.75,Selic Meta (% a.a.),432
+2022-06-06,12.75,Selic Meta (% a.a.),432
+2022-06-07,12.75,Selic Meta (% a.a.),432
+2022-06-08,12.75,Selic Meta (% a.a.),432
+2022-06-09,12.75,Selic Meta (% a.a.),432
+2022-06-10,12.75,Selic Meta (% a.a.),432
+2022-06-11,12.75,Selic Meta (% a.a.),432
+2022-06-12,12.75,Selic Meta (% a.a.),432
+2022-06-13,12.75,Selic Meta (% a.a.),432
+2022-06-14,12.75,Selic Meta (% a.a.),432
+2022-06-15,12.75,Selic Meta (% a.a.),432
+2022-06-16,13.25,Selic Meta (% a.a.),432
+2022-06-17,13.25,Selic Meta (% a.a.),432
+2022-06-18,13.25,Selic Meta (% a.a.),432
+2022-06-19,13.25,Selic Meta (% a.a.),432
+2022-06-20,13.25,Selic Meta (% a.a.),432
+2022-06-21,13.25,Selic Meta (% a.a.),432
+2022-06-22,13.25,Selic Meta (% a.a.),432
+2022-06-23,13.25,Selic Meta (% a.a.),432
+2022-06-24,13.25,Selic Meta (% a.a.),432
+2022-06-25,13.25,Selic Meta (% a.a.),432
+2022-06-26,13.25,Selic Meta (% a.a.),432
+2022-06-27,13.25,Selic Meta (% a.a.),432
+2022-06-28,13.25,Selic Meta (% a.a.),432
+2022-06-29,13.25,Selic Meta (% a.a.),432
+2022-06-30,13.25,Selic Meta (% a.a.),432
+2022-07-01,13.25,Selic Meta (% a.a.),432
+2022-07-02,13.25,Selic Meta (% a.a.),432
+2022-07-03,13.25,Selic Meta (% a.a.),432
+2022-07-04,13.25,Selic Meta (% a.a.),432
+2022-07-05,13.25,Selic Meta (% a.a.),432
+2022-07-06,13.25,Selic Meta (% a.a.),432
+2022-07-07,13.25,Selic Meta (% a.a.),432
+2022-07-08,13.25,Selic Meta (% a.a.),432
+2022-07-09,13.25,Selic Meta (% a.a.),432
+2022-07-10,13.25,Selic Meta (% a.a.),432
+2022-07-11,13.25,Selic Meta (% a.a.),432
+2022-07-12,13.25,Selic Meta (% a.a.),432
+2022-07-13,13.25,Selic Meta (% a.a.),432
+2022-07-14,13.25,Selic Meta (% a.a.),432
+2022-07-15,13.25,Selic Meta (% a.a.),432
+2022-07-16,13.25,Selic Meta (% a.a.),432
+2022-07-17,13.25,Selic Meta (% a.a.),432
+2022-07-18,13.25,Selic Meta (% a.a.),432
+2022-07-19,13.25,Selic Meta (% a.a.),432
+2022-07-20,13.25,Selic Meta (% a.a.),432
+2022-07-21,13.25,Selic Meta (% a.a.),432
+2022-07-22,13.25,Selic Meta (% a.a.),432
+2022-07-23,13.25,Selic Meta (% a.a.),432
+2022-07-24,13.25,Selic Meta (% a.a.),432
+2022-07-25,13.25,Selic Meta (% a.a.),432
+2022-07-26,13.25,Selic Meta (% a.a.),432
+2022-07-27,13.25,Selic Meta (% a.a.),432
+2022-07-28,13.25,Selic Meta (% a.a.),432
+2022-07-29,13.25,Selic Meta (% a.a.),432
+2022-07-30,13.25,Selic Meta (% a.a.),432
+2022-07-31,13.25,Selic Meta (% a.a.),432
+2022-08-01,13.25,Selic Meta (% a.a.),432
+2022-08-02,13.25,Selic Meta (% a.a.),432
+2022-08-03,13.25,Selic Meta (% a.a.),432
+2022-08-04,13.75,Selic Meta (% a.a.),432
+2022-08-05,13.75,Selic Meta (% a.a.),432
+2022-08-06,13.75,Selic Meta (% a.a.),432
+2022-08-07,13.75,Selic Meta (% a.a.),432
+2022-08-08,13.75,Selic Meta (% a.a.),432
+2022-08-09,13.75,Selic Meta (% a.a.),432
+2022-08-10,13.75,Selic Meta (% a.a.),432
+2022-08-11,13.75,Selic Meta (% a.a.),432
+2022-08-12,13.75,Selic Meta (% a.a.),432
+2022-08-13,13.75,Selic Meta (% a.a.),432
+2022-08-14,13.75,Selic Meta (% a.a.),432
+2022-08-15,13.75,Selic Meta (% a.a.),432
+2022-08-16,13.75,Selic Meta (% a.a.),432
+2022-08-17,13.75,Selic Meta (% a.a.),432
+2022-08-18,13.75,Selic Meta (% a.a.),432
+2022-08-19,13.75,Selic Meta (% a.a.),432
+2022-08-20,13.75,Selic Meta (% a.a.),432
+2022-08-21,13.75,Selic Meta (% a.a.),432
+2022-08-22,13.75,Selic Meta (% a.a.),432
+2022-08-23,13.75,Selic Meta (% a.a.),432
+2022-08-24,13.75,Selic Meta (% a.a.),432
+2022-08-25,13.75,Selic Meta (% a.a.),432
+2022-08-26,13.75,Selic Meta (% a.a.),432
+2022-08-27,13.75,Selic Meta (% a.a.),432
+2022-08-28,13.75,Selic Meta (% a.a.),432
+2022-08-29,13.75,Selic Meta (% a.a.),432
+2022-08-30,13.75,Selic Meta (% a.a.),432
+2022-08-31,13.75,Selic Meta (% a.a.),432
+2022-09-01,13.75,Selic Meta (% a.a.),432
+2022-09-02,13.75,Selic Meta (% a.a.),432
+2022-09-03,13.75,Selic Meta (% a.a.),432
+2022-09-04,13.75,Selic Meta (% a.a.),432
+2022-09-05,13.75,Selic Meta (% a.a.),432
+2022-09-06,13.75,Selic Meta (% a.a.),432
+2022-09-07,13.75,Selic Meta (% a.a.),432
+2022-09-08,13.75,Selic Meta (% a.a.),432
+2022-09-09,13.75,Selic Meta (% a.a.),432
+2022-09-10,13.75,Selic Meta (% a.a.),432
+2022-09-11,13.75,Selic Meta (% a.a.),432
+2022-09-12,13.75,Selic Meta (% a.a.),432
+2022-09-13,13.75,Selic Meta (% a.a.),432
+2022-09-14,13.75,Selic Meta (% a.a.),432
+2022-09-15,13.75,Selic Meta (% a.a.),432
+2022-09-16,13.75,Selic Meta (% a.a.),432
+2022-09-17,13.75,Selic Meta (% a.a.),432
+2022-09-18,13.75,Selic Meta (% a.a.),432
+2022-09-19,13.75,Selic Meta (% a.a.),432
+2022-09-20,13.75,Selic Meta (% a.a.),432
+2022-09-21,13.75,Selic Meta (% a.a.),432
+2022-09-22,13.75,Selic Meta (% a.a.),432
+2022-09-23,13.75,Selic Meta (% a.a.),432
+2022-09-24,13.75,Selic Meta (% a.a.),432
+2022-09-25,13.75,Selic Meta (% a.a.),432
+2022-09-26,13.75,Selic Meta (% a.a.),432
+2022-09-27,13.75,Selic Meta (% a.a.),432
+2022-09-28,13.75,Selic Meta (% a.a.),432
+2022-09-29,13.75,Selic Meta (% a.a.),432
+2022-09-30,13.75,Selic Meta (% a.a.),432
+2022-10-01,13.75,Selic Meta (% a.a.),432
+2022-10-02,13.75,Selic Meta (% a.a.),432
+2022-10-03,13.75,Selic Meta (% a.a.),432
+2022-10-04,13.75,Selic Meta (% a.a.),432
+2022-10-05,13.75,Selic Meta (% a.a.),432
+2022-10-06,13.75,Selic Meta (% a.a.),432
+2022-10-07,13.75,Selic Meta (% a.a.),432
+2022-10-08,13.75,Selic Meta (% a.a.),432
+2022-10-09,13.75,Selic Meta (% a.a.),432
+2022-10-10,13.75,Selic Meta (% a.a.),432
+2022-10-11,13.75,Selic Meta (% a.a.),432
+2022-10-12,13.75,Selic Meta (% a.a.),432
+2022-10-13,13.75,Selic Meta (% a.a.),432
+2022-10-14,13.75,Selic Meta (% a.a.),432
+2022-10-15,13.75,Selic Meta (% a.a.),432
+2022-10-16,13.75,Selic Meta (% a.a.),432
+2022-10-17,13.75,Selic Meta (% a.a.),432
+2022-10-18,13.75,Selic Meta (% a.a.),432
+2022-10-19,13.75,Selic Meta (% a.a.),432
+2022-10-20,13.75,Selic Meta (% a.a.),432
+2022-10-21,13.75,Selic Meta (% a.a.),432
+2022-10-22,13.75,Selic Meta (% a.a.),432
+2022-10-23,13.75,Selic Meta (% a.a.),432
+2022-10-24,13.75,Selic Meta (% a.a.),432
+2022-10-25,13.75,Selic Meta (% a.a.),432
+2022-10-26,13.75,Selic Meta (% a.a.),432
+2022-10-27,13.75,Selic Meta (% a.a.),432
+2022-10-28,13.75,Selic Meta (% a.a.),432
+2022-10-29,13.75,Selic Meta (% a.a.),432
+2022-10-30,13.75,Selic Meta (% a.a.),432
+2022-10-31,13.75,Selic Meta (% a.a.),432
+2022-11-01,13.75,Selic Meta (% a.a.),432
+2022-11-02,13.75,Selic Meta (% a.a.),432
+2022-11-03,13.75,Selic Meta (% a.a.),432
+2022-11-04,13.75,Selic Meta (% a.a.),432
+2022-11-05,13.75,Selic Meta (% a.a.),432
+2022-11-06,13.75,Selic Meta (% a.a.),432
+2022-11-07,13.75,Selic Meta (% a.a.),432
+2022-11-08,13.75,Selic Meta (% a.a.),432
+2022-11-09,13.75,Selic Meta (% a.a.),432
+2022-11-10,13.75,Selic Meta (% a.a.),432
+2022-11-11,13.75,Selic Meta (% a.a.),432
+2022-11-12,13.75,Selic Meta (% a.a.),432
+2022-11-13,13.75,Selic Meta (% a.a.),432
+2022-11-14,13.75,Selic Meta (% a.a.),432
+2022-11-15,13.75,Selic Meta (% a.a.),432
+2022-11-16,13.75,Selic Meta (% a.a.),432
+2022-11-17,13.75,Selic Meta (% a.a.),432
+2022-11-18,13.75,Selic Meta (% a.a.),432
+2022-11-19,13.75,Selic Meta (% a.a.),432
+2022-11-20,13.75,Selic Meta (% a.a.),432
+2022-11-21,13.75,Selic Meta (% a.a.),432
+2022-11-22,13.75,Selic Meta (% a.a.),432
+2022-11-23,13.75,Selic Meta (% a.a.),432
+2022-11-24,13.75,Selic Meta (% a.a.),432
+2022-11-25,13.75,Selic Meta (% a.a.),432
+2022-11-26,13.75,Selic Meta (% a.a.),432
+2022-11-27,13.75,Selic Meta (% a.a.),432
+2022-11-28,13.75,Selic Meta (% a.a.),432
+2022-11-29,13.75,Selic Meta (% a.a.),432
+2022-11-30,13.75,Selic Meta (% a.a.),432
+2022-12-01,13.75,Selic Meta (% a.a.),432
+2022-12-02,13.75,Selic Meta (% a.a.),432
+2022-12-03,13.75,Selic Meta (% a.a.),432
+2022-12-04,13.75,Selic Meta (% a.a.),432
+2022-12-05,13.75,Selic Meta (% a.a.),432
+2022-12-06,13.75,Selic Meta (% a.a.),432
+2022-12-07,13.75,Selic Meta (% a.a.),432
+2022-12-08,13.75,Selic Meta (% a.a.),432
+2022-12-09,13.75,Selic Meta (% a.a.),432
+2022-12-10,13.75,Selic Meta (% a.a.),432
+2022-12-11,13.75,Selic Meta (% a.a.),432
+2022-12-12,13.75,Selic Meta (% a.a.),432
+2022-12-13,13.75,Selic Meta (% a.a.),432
+2022-12-14,13.75,Selic Meta (% a.a.),432
+2022-12-15,13.75,Selic Meta (% a.a.),432
+2022-12-16,13.75,Selic Meta (% a.a.),432
+2022-12-17,13.75,Selic Meta (% a.a.),432
+2022-12-18,13.75,Selic Meta (% a.a.),432
+2022-12-19,13.75,Selic Meta (% a.a.),432
+2022-12-20,13.75,Selic Meta (% a.a.),432
+2022-12-21,13.75,Selic Meta (% a.a.),432
+2022-12-22,13.75,Selic Meta (% a.a.),432
+2022-12-23,13.75,Selic Meta (% a.a.),432
+2022-12-24,13.75,Selic Meta (% a.a.),432
+2022-12-25,13.75,Selic Meta (% a.a.),432
+2022-12-26,13.75,Selic Meta (% a.a.),432
+2022-12-27,13.75,Selic Meta (% a.a.),432
+2022-12-28,13.75,Selic Meta (% a.a.),432
+2022-12-29,13.75,Selic Meta (% a.a.),432
+2022-12-30,13.75,Selic Meta (% a.a.),432
+2022-12-31,13.75,Selic Meta (% a.a.),432
+2023-01-01,13.75,Selic Meta (% a.a.),432
+2023-01-02,13.75,Selic Meta (% a.a.),432
+2023-01-03,13.75,Selic Meta (% a.a.),432
+2023-01-04,13.75,Selic Meta (% a.a.),432
+2023-01-05,13.75,Selic Meta (% a.a.),432
+2023-01-06,13.75,Selic Meta (% a.a.),432
+2023-01-07,13.75,Selic Meta (% a.a.),432
+2023-01-08,13.75,Selic Meta (% a.a.),432
+2023-01-09,13.75,Selic Meta (% a.a.),432
+2023-01-10,13.75,Selic Meta (% a.a.),432
+2023-01-11,13.75,Selic Meta (% a.a.),432
+2023-01-12,13.75,Selic Meta (% a.a.),432
+2023-01-13,13.75,Selic Meta (% a.a.),432
+2023-01-14,13.75,Selic Meta (% a.a.),432
+2023-01-15,13.75,Selic Meta (% a.a.),432
+2023-01-16,13.75,Selic Meta (% a.a.),432
+2023-01-17,13.75,Selic Meta (% a.a.),432
+2023-01-18,13.75,Selic Meta (% a.a.),432
+2023-01-19,13.75,Selic Meta (% a.a.),432
+2023-01-20,13.75,Selic Meta (% a.a.),432
+2023-01-21,13.75,Selic Meta (% a.a.),432
+2023-01-22,13.75,Selic Meta (% a.a.),432
+2023-01-23,13.75,Selic Meta (% a.a.),432
+2023-01-24,13.75,Selic Meta (% a.a.),432
+2023-01-25,13.75,Selic Meta (% a.a.),432
+2023-01-26,13.75,Selic Meta (% a.a.),432
+2023-01-27,13.75,Selic Meta (% a.a.),432
+2023-01-28,13.75,Selic Meta (% a.a.),432
+2023-01-29,13.75,Selic Meta (% a.a.),432
+2023-01-30,13.75,Selic Meta (% a.a.),432
+2023-01-31,13.75,Selic Meta (% a.a.),432
+2023-02-01,13.75,Selic Meta (% a.a.),432
+2023-02-02,13.75,Selic Meta (% a.a.),432
+2023-02-03,13.75,Selic Meta (% a.a.),432
+2023-02-04,13.75,Selic Meta (% a.a.),432
+2023-02-05,13.75,Selic Meta (% a.a.),432
+2023-02-06,13.75,Selic Meta (% a.a.),432
+2023-02-07,13.75,Selic Meta (% a.a.),432
+2023-02-08,13.75,Selic Meta (% a.a.),432
+2023-02-09,13.75,Selic Meta (% a.a.),432
+2023-02-10,13.75,Selic Meta (% a.a.),432
+2023-02-11,13.75,Selic Meta (% a.a.),432
+2023-02-12,13.75,Selic Meta (% a.a.),432
+2023-02-13,13.75,Selic Meta (% a.a.),432
+2023-02-14,13.75,Selic Meta (% a.a.),432
+2023-02-15,13.75,Selic Meta (% a.a.),432
+2023-02-16,13.75,Selic Meta (% a.a.),432
+2023-02-17,13.75,Selic Meta (% a.a.),432
+2023-02-18,13.75,Selic Meta (% a.a.),432
+2023-02-19,13.75,Selic Meta (% a.a.),432
+2023-02-20,13.75,Selic Meta (% a.a.),432
+2023-02-21,13.75,Selic Meta (% a.a.),432
+2023-02-22,13.75,Selic Meta (% a.a.),432
+2023-02-23,13.75,Selic Meta (% a.a.),432
+2023-02-24,13.75,Selic Meta (% a.a.),432
+2023-02-25,13.75,Selic Meta (% a.a.),432
+2023-02-26,13.75,Selic Meta (% a.a.),432
+2023-02-27,13.75,Selic Meta (% a.a.),432
+2023-02-28,13.75,Selic Meta (% a.a.),432
+2023-03-01,13.75,Selic Meta (% a.a.),432
+2023-03-02,13.75,Selic Meta (% a.a.),432
+2023-03-03,13.75,Selic Meta (% a.a.),432
+2023-03-04,13.75,Selic Meta (% a.a.),432
+2023-03-05,13.75,Selic Meta (% a.a.),432
+2023-03-06,13.75,Selic Meta (% a.a.),432
+2023-03-07,13.75,Selic Meta (% a.a.),432
+2023-03-08,13.75,Selic Meta (% a.a.),432
+2023-03-09,13.75,Selic Meta (% a.a.),432
+2023-03-10,13.75,Selic Meta (% a.a.),432
+2023-03-11,13.75,Selic Meta (% a.a.),432
+2023-03-12,13.75,Selic Meta (% a.a.),432
+2023-03-13,13.75,Selic Meta (% a.a.),432
+2023-03-14,13.75,Selic Meta (% a.a.),432
+2023-03-15,13.75,Selic Meta (% a.a.),432
+2023-03-16,13.75,Selic Meta (% a.a.),432
+2023-03-17,13.75,Selic Meta (% a.a.),432
+2023-03-18,13.75,Selic Meta (% a.a.),432
+2023-03-19,13.75,Selic Meta (% a.a.),432
+2023-03-20,13.75,Selic Meta (% a.a.),432
+2023-03-21,13.75,Selic Meta (% a.a.),432
+2023-03-22,13.75,Selic Meta (% a.a.),432
+2023-03-23,13.75,Selic Meta (% a.a.),432
+2023-03-24,13.75,Selic Meta (% a.a.),432
+2023-03-25,13.75,Selic Meta (% a.a.),432
+2023-03-26,13.75,Selic Meta (% a.a.),432
+2023-03-27,13.75,Selic Meta (% a.a.),432
+2023-03-28,13.75,Selic Meta (% a.a.),432
+2023-03-29,13.75,Selic Meta (% a.a.),432
+2023-03-30,13.75,Selic Meta (% a.a.),432
+2023-03-31,13.75,Selic Meta (% a.a.),432
+2023-04-01,13.75,Selic Meta (% a.a.),432
+2023-04-02,13.75,Selic Meta (% a.a.),432
+2023-04-03,13.75,Selic Meta (% a.a.),432
+2023-04-04,13.75,Selic Meta (% a.a.),432
+2023-04-05,13.75,Selic Meta (% a.a.),432
+2023-04-06,13.75,Selic Meta (% a.a.),432
+2023-04-07,13.75,Selic Meta (% a.a.),432
+2023-04-08,13.75,Selic Meta (% a.a.),432
+2023-04-09,13.75,Selic Meta (% a.a.),432
+2023-04-10,13.75,Selic Meta (% a.a.),432
+2023-04-11,13.75,Selic Meta (% a.a.),432
+2023-04-12,13.75,Selic Meta (% a.a.),432
+2023-04-13,13.75,Selic Meta (% a.a.),432
+2023-04-14,13.75,Selic Meta (% a.a.),432
+2023-04-15,13.75,Selic Meta (% a.a.),432
+2023-04-16,13.75,Selic Meta (% a.a.),432
+2023-04-17,13.75,Selic Meta (% a.a.),432
+2023-04-18,13.75,Selic Meta (% a.a.),432
+2023-04-19,13.75,Selic Meta (% a.a.),432
+2023-04-20,13.75,Selic Meta (% a.a.),432
+2023-04-21,13.75,Selic Meta (% a.a.),432
+2023-04-22,13.75,Selic Meta (% a.a.),432
+2023-04-23,13.75,Selic Meta (% a.a.),432
+2023-04-24,13.75,Selic Meta (% a.a.),432
+2023-04-25,13.75,Selic Meta (% a.a.),432
+2023-04-26,13.75,Selic Meta (% a.a.),432
+2023-04-27,13.75,Selic Meta (% a.a.),432
+2023-04-28,13.75,Selic Meta (% a.a.),432
+2023-04-29,13.75,Selic Meta (% a.a.),432
+2023-04-30,13.75,Selic Meta (% a.a.),432
+2023-05-01,13.75,Selic Meta (% a.a.),432
+2023-05-02,13.75,Selic Meta (% a.a.),432
+2023-05-03,13.75,Selic Meta (% a.a.),432
+2023-05-04,13.75,Selic Meta (% a.a.),432
+2023-05-05,13.75,Selic Meta (% a.a.),432
+2023-05-06,13.75,Selic Meta (% a.a.),432
+2023-05-07,13.75,Selic Meta (% a.a.),432
+2023-05-08,13.75,Selic Meta (% a.a.),432
+2023-05-09,13.75,Selic Meta (% a.a.),432
+2023-05-10,13.75,Selic Meta (% a.a.),432
+2023-05-11,13.75,Selic Meta (% a.a.),432
+2023-05-12,13.75,Selic Meta (% a.a.),432
+2023-05-13,13.75,Selic Meta (% a.a.),432
+2023-05-14,13.75,Selic Meta (% a.a.),432
+2023-05-15,13.75,Selic Meta (% a.a.),432
+2023-05-16,13.75,Selic Meta (% a.a.),432
+2023-05-17,13.75,Selic Meta (% a.a.),432
+2023-05-18,13.75,Selic Meta (% a.a.),432
+2023-05-19,13.75,Selic Meta (% a.a.),432
+2023-05-20,13.75,Selic Meta (% a.a.),432
+2023-05-21,13.75,Selic Meta (% a.a.),432
+2023-05-22,13.75,Selic Meta (% a.a.),432
+2023-05-23,13.75,Selic Meta (% a.a.),432
+2023-05-24,13.75,Selic Meta (% a.a.),432
+2023-05-25,13.75,Selic Meta (% a.a.),432
+2023-05-26,13.75,Selic Meta (% a.a.),432
+2023-05-27,13.75,Selic Meta (% a.a.),432
+2023-05-28,13.75,Selic Meta (% a.a.),432
+2023-05-29,13.75,Selic Meta (% a.a.),432
+2023-05-30,13.75,Selic Meta (% a.a.),432
+2023-05-31,13.75,Selic Meta (% a.a.),432
+2023-06-01,13.75,Selic Meta (% a.a.),432
+2023-06-02,13.75,Selic Meta (% a.a.),432
+2023-06-03,13.75,Selic Meta (% a.a.),432
+2023-06-04,13.75,Selic Meta (% a.a.),432
+2023-06-05,13.75,Selic Meta (% a.a.),432
+2023-06-06,13.75,Selic Meta (% a.a.),432
+2023-06-07,13.75,Selic Meta (% a.a.),432
+2023-06-08,13.75,Selic Meta (% a.a.),432
+2023-06-09,13.75,Selic Meta (% a.a.),432
+2023-06-10,13.75,Selic Meta (% a.a.),432
+2023-06-11,13.75,Selic Meta (% a.a.),432
+2023-06-12,13.75,Selic Meta (% a.a.),432
+2023-06-13,13.75,Selic Meta (% a.a.),432
+2023-06-14,13.75,Selic Meta (% a.a.),432
+2023-06-15,13.75,Selic Meta (% a.a.),432
+2023-06-16,13.75,Selic Meta (% a.a.),432
+2023-06-17,13.75,Selic Meta (% a.a.),432
+2023-06-18,13.75,Selic Meta (% a.a.),432
+2023-06-19,13.75,Selic Meta (% a.a.),432
+2023-06-20,13.75,Selic Meta (% a.a.),432
+2023-06-21,13.75,Selic Meta (% a.a.),432
+2023-06-22,13.75,Selic Meta (% a.a.),432
+2023-06-23,13.75,Selic Meta (% a.a.),432
+2023-06-24,13.75,Selic Meta (% a.a.),432
+2023-06-25,13.75,Selic Meta (% a.a.),432
+2023-06-26,13.75,Selic Meta (% a.a.),432
+2023-06-27,13.75,Selic Meta (% a.a.),432
+2023-06-28,13.75,Selic Meta (% a.a.),432
+2023-06-29,13.75,Selic Meta (% a.a.),432
+2023-06-30,13.75,Selic Meta (% a.a.),432
+2023-07-01,13.75,Selic Meta (% a.a.),432
+2023-07-02,13.75,Selic Meta (% a.a.),432
+2023-07-03,13.75,Selic Meta (% a.a.),432
+2023-07-04,13.75,Selic Meta (% a.a.),432
+2023-07-05,13.75,Selic Meta (% a.a.),432
+2023-07-06,13.75,Selic Meta (% a.a.),432
+2023-07-07,13.75,Selic Meta (% a.a.),432
+2023-07-08,13.75,Selic Meta (% a.a.),432
+2023-07-09,13.75,Selic Meta (% a.a.),432
+2023-07-10,13.75,Selic Meta (% a.a.),432
+2023-07-11,13.75,Selic Meta (% a.a.),432
+2023-07-12,13.75,Selic Meta (% a.a.),432
+2023-07-13,13.75,Selic Meta (% a.a.),432
+2023-07-14,13.75,Selic Meta (% a.a.),432
+2023-07-15,13.75,Selic Meta (% a.a.),432
+2023-07-16,13.75,Selic Meta (% a.a.),432
+2023-07-17,13.75,Selic Meta (% a.a.),432
+2023-07-18,13.75,Selic Meta (% a.a.),432
+2023-07-19,13.75,Selic Meta (% a.a.),432
+2023-07-20,13.75,Selic Meta (% a.a.),432
+2023-07-21,13.75,Selic Meta (% a.a.),432
+2023-07-22,13.75,Selic Meta (% a.a.),432
+2023-07-23,13.75,Selic Meta (% a.a.),432
+2023-07-24,13.75,Selic Meta (% a.a.),432
+2023-07-25,13.75,Selic Meta (% a.a.),432
+2023-07-26,13.75,Selic Meta (% a.a.),432
+2023-07-27,13.75,Selic Meta (% a.a.),432
+2023-07-28,13.75,Selic Meta (% a.a.),432
+2023-07-29,13.75,Selic Meta (% a.a.),432
+2023-07-30,13.75,Selic Meta (% a.a.),432
+2023-07-31,13.75,Selic Meta (% a.a.),432
+2023-08-01,13.75,Selic Meta (% a.a.),432
+2023-08-02,13.75,Selic Meta (% a.a.),432
+2023-08-03,13.25,Selic Meta (% a.a.),432
+2023-08-04,13.25,Selic Meta (% a.a.),432
+2023-08-05,13.25,Selic Meta (% a.a.),432
+2023-08-06,13.25,Selic Meta (% a.a.),432
+2023-08-07,13.25,Selic Meta (% a.a.),432
+2023-08-08,13.25,Selic Meta (% a.a.),432
+2023-08-09,13.25,Selic Meta (% a.a.),432
+2023-08-10,13.25,Selic Meta (% a.a.),432
+2023-08-11,13.25,Selic Meta (% a.a.),432
+2023-08-12,13.25,Selic Meta (% a.a.),432
+2023-08-13,13.25,Selic Meta (% a.a.),432
+2023-08-14,13.25,Selic Meta (% a.a.),432
+2023-08-15,13.25,Selic Meta (% a.a.),432
+2023-08-16,13.25,Selic Meta (% a.a.),432
+2023-08-17,13.25,Selic Meta (% a.a.),432
+2023-08-18,13.25,Selic Meta (% a.a.),432
+2023-08-19,13.25,Selic Meta (% a.a.),432
+2023-08-20,13.25,Selic Meta (% a.a.),432
+2023-08-21,13.25,Selic Meta (% a.a.),432
+2023-08-22,13.25,Selic Meta (% a.a.),432
+2023-08-23,13.25,Selic Meta (% a.a.),432
+2023-08-24,13.25,Selic Meta (% a.a.),432
+2023-08-25,13.25,Selic Meta (% a.a.),432
+2023-08-26,13.25,Selic Meta (% a.a.),432
+2023-08-27,13.25,Selic Meta (% a.a.),432
+2023-08-28,13.25,Selic Meta (% a.a.),432
+2023-08-29,13.25,Selic Meta (% a.a.),432
+2023-08-30,13.25,Selic Meta (% a.a.),432
+2023-08-31,13.25,Selic Meta (% a.a.),432
+2023-09-01,13.25,Selic Meta (% a.a.),432
+2023-09-02,13.25,Selic Meta (% a.a.),432
+2023-09-03,13.25,Selic Meta (% a.a.),432
+2023-09-04,13.25,Selic Meta (% a.a.),432
+2023-09-05,13.25,Selic Meta (% a.a.),432
+2023-09-06,13.25,Selic Meta (% a.a.),432
+2023-09-07,13.25,Selic Meta (% a.a.),432
+2023-09-08,13.25,Selic Meta (% a.a.),432
+2023-09-09,13.25,Selic Meta (% a.a.),432
+2023-09-10,13.25,Selic Meta (% a.a.),432
+2023-09-11,13.25,Selic Meta (% a.a.),432
+2023-09-12,13.25,Selic Meta (% a.a.),432
+2023-09-13,13.25,Selic Meta (% a.a.),432
+2023-09-14,13.25,Selic Meta (% a.a.),432
+2023-09-15,13.25,Selic Meta (% a.a.),432
+2023-09-16,13.25,Selic Meta (% a.a.),432
+2023-09-17,13.25,Selic Meta (% a.a.),432
+2023-09-18,13.25,Selic Meta (% a.a.),432
+2023-09-19,13.25,Selic Meta (% a.a.),432
+2023-09-20,13.25,Selic Meta (% a.a.),432
+2023-09-21,12.75,Selic Meta (% a.a.),432
+2023-09-22,12.75,Selic Meta (% a.a.),432
+2023-09-23,12.75,Selic Meta (% a.a.),432
+2023-09-24,12.75,Selic Meta (% a.a.),432
+2023-09-25,12.75,Selic Meta (% a.a.),432
+2023-09-26,12.75,Selic Meta (% a.a.),432
+2023-09-27,12.75,Selic Meta (% a.a.),432
+2023-09-28,12.75,Selic Meta (% a.a.),432
+2023-09-29,12.75,Selic Meta (% a.a.),432
+2023-09-30,12.75,Selic Meta (% a.a.),432
+2023-10-01,12.75,Selic Meta (% a.a.),432
+2023-10-02,12.75,Selic Meta (% a.a.),432
+2023-10-03,12.75,Selic Meta (% a.a.),432
+2023-10-04,12.75,Selic Meta (% a.a.),432
+2023-10-05,12.75,Selic Meta (% a.a.),432
+2023-10-06,12.75,Selic Meta (% a.a.),432
+2023-10-07,12.75,Selic Meta (% a.a.),432
+2023-10-08,12.75,Selic Meta (% a.a.),432
+2023-10-09,12.75,Selic Meta (% a.a.),432
+2023-10-10,12.75,Selic Meta (% a.a.),432
+2023-10-11,12.75,Selic Meta (% a.a.),432
+2023-10-12,12.75,Selic Meta (% a.a.),432
+2023-10-13,12.75,Selic Meta (% a.a.),432
+2023-10-14,12.75,Selic Meta (% a.a.),432
+2023-10-15,12.75,Selic Meta (% a.a.),432
+2023-10-16,12.75,Selic Meta (% a.a.),432
+2023-10-17,12.75,Selic Meta (% a.a.),432
+2023-10-18,12.75,Selic Meta (% a.a.),432
+2023-10-19,12.75,Selic Meta (% a.a.),432
+2023-10-20,12.75,Selic Meta (% a.a.),432
+2023-10-21,12.75,Selic Meta (% a.a.),432
+2023-10-22,12.75,Selic Meta (% a.a.),432
+2023-10-23,12.75,Selic Meta (% a.a.),432
+2023-10-24,12.75,Selic Meta (% a.a.),432
+2023-10-25,12.75,Selic Meta (% a.a.),432
+2023-10-26,12.75,Selic Meta (% a.a.),432
+2023-10-27,12.75,Selic Meta (% a.a.),432
+2023-10-28,12.75,Selic Meta (% a.a.),432
+2023-10-29,12.75,Selic Meta (% a.a.),432
+2023-10-30,12.75,Selic Meta (% a.a.),432
+2023-10-31,12.75,Selic Meta (% a.a.),432
+2023-11-01,12.75,Selic Meta (% a.a.),432
+2023-11-02,12.25,Selic Meta (% a.a.),432
+2023-11-03,12.25,Selic Meta (% a.a.),432
+2023-11-04,12.25,Selic Meta (% a.a.),432
+2023-11-05,12.25,Selic Meta (% a.a.),432
+2023-11-06,12.25,Selic Meta (% a.a.),432
+2023-11-07,12.25,Selic Meta (% a.a.),432
+2023-11-08,12.25,Selic Meta (% a.a.),432
+2023-11-09,12.25,Selic Meta (% a.a.),432
+2023-11-10,12.25,Selic Meta (% a.a.),432
+2023-11-11,12.25,Selic Meta (% a.a.),432
+2023-11-12,12.25,Selic Meta (% a.a.),432
+2023-11-13,12.25,Selic Meta (% a.a.),432
+2023-11-14,12.25,Selic Meta (% a.a.),432
+2023-11-15,12.25,Selic Meta (% a.a.),432
+2023-11-16,12.25,Selic Meta (% a.a.),432
+2023-11-17,12.25,Selic Meta (% a.a.),432
+2023-11-18,12.25,Selic Meta (% a.a.),432
+2023-11-19,12.25,Selic Meta (% a.a.),432
+2023-11-20,12.25,Selic Meta (% a.a.),432
+2023-11-21,12.25,Selic Meta (% a.a.),432
+2023-11-22,12.25,Selic Meta (% a.a.),432
+2023-11-23,12.25,Selic Meta (% a.a.),432
+2023-11-24,12.25,Selic Meta (% a.a.),432
+2023-11-25,12.25,Selic Meta (% a.a.),432
+2023-11-26,12.25,Selic Meta (% a.a.),432
+2023-11-27,12.25,Selic Meta (% a.a.),432
+2023-11-28,12.25,Selic Meta (% a.a.),432
+2023-11-29,12.25,Selic Meta (% a.a.),432
+2023-11-30,12.25,Selic Meta (% a.a.),432
+2023-12-01,12.25,Selic Meta (% a.a.),432
+2023-12-02,12.25,Selic Meta (% a.a.),432
+2023-12-03,12.25,Selic Meta (% a.a.),432
+2023-12-04,12.25,Selic Meta (% a.a.),432
+2023-12-05,12.25,Selic Meta (% a.a.),432
+2023-12-06,12.25,Selic Meta (% a.a.),432
+2023-12-07,12.25,Selic Meta (% a.a.),432
+2023-12-08,12.25,Selic Meta (% a.a.),432
+2023-12-09,12.25,Selic Meta (% a.a.),432
+2023-12-10,12.25,Selic Meta (% a.a.),432
+2023-12-11,12.25,Selic Meta (% a.a.),432
+2023-12-12,12.25,Selic Meta (% a.a.),432
+2023-12-13,12.25,Selic Meta (% a.a.),432
+2023-12-14,11.75,Selic Meta (% a.a.),432
+2023-12-15,11.75,Selic Meta (% a.a.),432
+2023-12-16,11.75,Selic Meta (% a.a.),432
+2023-12-17,11.75,Selic Meta (% a.a.),432
+2023-12-18,11.75,Selic Meta (% a.a.),432
+2023-12-19,11.75,Selic Meta (% a.a.),432
+2023-12-20,11.75,Selic Meta (% a.a.),432
+2023-12-21,11.75,Selic Meta (% a.a.),432
+2023-12-22,11.75,Selic Meta (% a.a.),432
+2023-12-23,11.75,Selic Meta (% a.a.),432
+2023-12-24,11.75,Selic Meta (% a.a.),432
+2023-12-25,11.75,Selic Meta (% a.a.),432
+2023-12-26,11.75,Selic Meta (% a.a.),432
+2023-12-27,11.75,Selic Meta (% a.a.),432
+2023-12-28,11.75,Selic Meta (% a.a.),432
+2023-12-29,11.75,Selic Meta (% a.a.),432
+2023-12-30,11.75,Selic Meta (% a.a.),432
+2023-12-31,11.75,Selic Meta (% a.a.),432
+2024-01-01,11.75,Selic Meta (% a.a.),432
+2024-01-02,11.75,Selic Meta (% a.a.),432
+2024-01-03,11.75,Selic Meta (% a.a.),432
+2024-01-04,11.75,Selic Meta (% a.a.),432
+2024-01-05,11.75,Selic Meta (% a.a.),432
+2024-01-06,11.75,Selic Meta (% a.a.),432
+2024-01-07,11.75,Selic Meta (% a.a.),432
+2024-01-08,11.75,Selic Meta (% a.a.),432
+2024-01-09,11.75,Selic Meta (% a.a.),432
+2024-01-10,11.75,Selic Meta (% a.a.),432
+2024-01-11,11.75,Selic Meta (% a.a.),432
+2024-01-12,11.75,Selic Meta (% a.a.),432
+2024-01-13,11.75,Selic Meta (% a.a.),432
+2024-01-14,11.75,Selic Meta (% a.a.),432
+2024-01-15,11.75,Selic Meta (% a.a.),432
+2024-01-16,11.75,Selic Meta (% a.a.),432
+2024-01-17,11.75,Selic Meta (% a.a.),432
+2024-01-18,11.75,Selic Meta (% a.a.),432
+2024-01-19,11.75,Selic Meta (% a.a.),432
+2024-01-20,11.75,Selic Meta (% a.a.),432
+2024-01-21,11.75,Selic Meta (% a.a.),432
+2024-01-22,11.75,Selic Meta (% a.a.),432
+2024-01-23,11.75,Selic Meta (% a.a.),432
+2024-01-24,11.75,Selic Meta (% a.a.),432
+2024-01-25,11.75,Selic Meta (% a.a.),432
+2024-01-26,11.75,Selic Meta (% a.a.),432
+2024-01-27,11.75,Selic Meta (% a.a.),432
+2024-01-28,11.75,Selic Meta (% a.a.),432
+2024-01-29,11.75,Selic Meta (% a.a.),432
+2024-01-30,11.75,Selic Meta (% a.a.),432
+2024-01-31,11.75,Selic Meta (% a.a.),432
+2024-02-01,11.25,Selic Meta (% a.a.),432
+2024-02-02,11.25,Selic Meta (% a.a.),432
+2024-02-03,11.25,Selic Meta (% a.a.),432
+2024-02-04,11.25,Selic Meta (% a.a.),432
+2024-02-05,11.25,Selic Meta (% a.a.),432
+2024-02-06,11.25,Selic Meta (% a.a.),432
+2024-02-07,11.25,Selic Meta (% a.a.),432
+2024-02-08,11.25,Selic Meta (% a.a.),432
+2024-02-09,11.25,Selic Meta (% a.a.),432
+2024-02-10,11.25,Selic Meta (% a.a.),432
+2024-02-11,11.25,Selic Meta (% a.a.),432
+2024-02-12,11.25,Selic Meta (% a.a.),432
+2024-02-13,11.25,Selic Meta (% a.a.),432
+2024-02-14,11.25,Selic Meta (% a.a.),432
+2024-02-15,11.25,Selic Meta (% a.a.),432
+2024-02-16,11.25,Selic Meta (% a.a.),432
+2024-02-17,11.25,Selic Meta (% a.a.),432
+2024-02-18,11.25,Selic Meta (% a.a.),432
+2024-02-19,11.25,Selic Meta (% a.a.),432
+2024-02-20,11.25,Selic Meta (% a.a.),432
+2024-02-21,11.25,Selic Meta (% a.a.),432
+2024-02-22,11.25,Selic Meta (% a.a.),432
+2024-02-23,11.25,Selic Meta (% a.a.),432
+2024-02-24,11.25,Selic Meta (% a.a.),432
+2024-02-25,11.25,Selic Meta (% a.a.),432
+2024-02-26,11.25,Selic Meta (% a.a.),432
+2024-02-27,11.25,Selic Meta (% a.a.),432
+2024-02-28,11.25,Selic Meta (% a.a.),432
+2024-02-29,11.25,Selic Meta (% a.a.),432
+2024-03-01,11.25,Selic Meta (% a.a.),432
+2024-03-02,11.25,Selic Meta (% a.a.),432
+2024-03-03,11.25,Selic Meta (% a.a.),432
+2024-03-04,11.25,Selic Meta (% a.a.),432
+2024-03-05,11.25,Selic Meta (% a.a.),432
+2024-03-06,11.25,Selic Meta (% a.a.),432
+2024-03-07,11.25,Selic Meta (% a.a.),432
+2024-03-08,11.25,Selic Meta (% a.a.),432
+2024-03-09,11.25,Selic Meta (% a.a.),432
+2024-03-10,11.25,Selic Meta (% a.a.),432
+2024-03-11,11.25,Selic Meta (% a.a.),432
+2024-03-12,11.25,Selic Meta (% a.a.),432
+2024-03-13,11.25,Selic Meta (% a.a.),432
+2024-03-14,11.25,Selic Meta (% a.a.),432
+2024-03-15,11.25,Selic Meta (% a.a.),432
+2024-03-16,11.25,Selic Meta (% a.a.),432
+2024-03-17,11.25,Selic Meta (% a.a.),432
+2024-03-18,11.25,Selic Meta (% a.a.),432
+2024-03-19,11.25,Selic Meta (% a.a.),432
+2024-03-20,11.25,Selic Meta (% a.a.),432
+2024-03-21,10.75,Selic Meta (% a.a.),432
+2024-03-22,10.75,Selic Meta (% a.a.),432
+2024-03-23,10.75,Selic Meta (% a.a.),432
+2024-03-24,10.75,Selic Meta (% a.a.),432
+2024-03-25,10.75,Selic Meta (% a.a.),432
+2024-03-26,10.75,Selic Meta (% a.a.),432
+2024-03-27,10.75,Selic Meta (% a.a.),432
+2024-03-28,10.75,Selic Meta (% a.a.),432
+2024-03-29,10.75,Selic Meta (% a.a.),432
+2024-03-30,10.75,Selic Meta (% a.a.),432
+2024-03-31,10.75,Selic Meta (% a.a.),432
+2024-04-01,10.75,Selic Meta (% a.a.),432
+2024-04-02,10.75,Selic Meta (% a.a.),432
+2024-04-03,10.75,Selic Meta (% a.a.),432
+2024-04-04,10.75,Selic Meta (% a.a.),432
+2024-04-05,10.75,Selic Meta (% a.a.),432
+2024-04-06,10.75,Selic Meta (% a.a.),432
+2024-04-07,10.75,Selic Meta (% a.a.),432
+2024-04-08,10.75,Selic Meta (% a.a.),432
+2024-04-09,10.75,Selic Meta (% a.a.),432
+2024-04-10,10.75,Selic Meta (% a.a.),432
+2024-04-11,10.75,Selic Meta (% a.a.),432
+2024-04-12,10.75,Selic Meta (% a.a.),432
+2024-04-13,10.75,Selic Meta (% a.a.),432
+2024-04-14,10.75,Selic Meta (% a.a.),432
+2024-04-15,10.75,Selic Meta (% a.a.),432
+2024-04-16,10.75,Selic Meta (% a.a.),432
+2024-04-17,10.75,Selic Meta (% a.a.),432
+2024-04-18,10.75,Selic Meta (% a.a.),432
+2024-04-19,10.75,Selic Meta (% a.a.),432
+2024-04-20,10.75,Selic Meta (% a.a.),432
+2024-04-21,10.75,Selic Meta (% a.a.),432
+2024-04-22,10.75,Selic Meta (% a.a.),432
+2024-04-23,10.75,Selic Meta (% a.a.),432
+2024-04-24,10.75,Selic Meta (% a.a.),432
+2024-04-25,10.75,Selic Meta (% a.a.),432
+2024-04-26,10.75,Selic Meta (% a.a.),432
+2024-04-27,10.75,Selic Meta (% a.a.),432
+2024-04-28,10.75,Selic Meta (% a.a.),432
+2024-04-29,10.75,Selic Meta (% a.a.),432
+2024-04-30,10.75,Selic Meta (% a.a.),432
+2024-05-01,10.75,Selic Meta (% a.a.),432
+2024-05-02,10.75,Selic Meta (% a.a.),432
+2024-05-03,10.75,Selic Meta (% a.a.),432
+2024-05-04,10.75,Selic Meta (% a.a.),432
+2024-05-05,10.75,Selic Meta (% a.a.),432
+2024-05-06,10.75,Selic Meta (% a.a.),432
+2024-05-07,10.75,Selic Meta (% a.a.),432
+2024-05-08,10.75,Selic Meta (% a.a.),432
+2024-05-09,10.5,Selic Meta (% a.a.),432
+2024-05-10,10.5,Selic Meta (% a.a.),432
+2024-05-11,10.5,Selic Meta (% a.a.),432
+2024-05-12,10.5,Selic Meta (% a.a.),432
+2024-05-13,10.5,Selic Meta (% a.a.),432
+2024-05-14,10.5,Selic Meta (% a.a.),432
+2024-05-15,10.5,Selic Meta (% a.a.),432
+2024-05-16,10.5,Selic Meta (% a.a.),432
+2024-05-17,10.5,Selic Meta (% a.a.),432
+2024-05-18,10.5,Selic Meta (% a.a.),432
+2024-05-19,10.5,Selic Meta (% a.a.),432
+2024-05-20,10.5,Selic Meta (% a.a.),432
+2024-05-21,10.5,Selic Meta (% a.a.),432
+2024-05-22,10.5,Selic Meta (% a.a.),432
+2024-05-23,10.5,Selic Meta (% a.a.),432
+2024-05-24,10.5,Selic Meta (% a.a.),432
+2024-05-25,10.5,Selic Meta (% a.a.),432
+2024-05-26,10.5,Selic Meta (% a.a.),432
+2024-05-27,10.5,Selic Meta (% a.a.),432
+2024-05-28,10.5,Selic Meta (% a.a.),432
+2024-05-29,10.5,Selic Meta (% a.a.),432
+2024-05-30,10.5,Selic Meta (% a.a.),432
+2024-05-31,10.5,Selic Meta (% a.a.),432
+2024-06-01,10.5,Selic Meta (% a.a.),432
+2024-06-02,10.5,Selic Meta (% a.a.),432
+2024-06-03,10.5,Selic Meta (% a.a.),432
+2024-06-04,10.5,Selic Meta (% a.a.),432
+2024-06-05,10.5,Selic Meta (% a.a.),432
+2024-06-06,10.5,Selic Meta (% a.a.),432
+2024-06-07,10.5,Selic Meta (% a.a.),432
+2024-06-08,10.5,Selic Meta (% a.a.),432
+2024-06-09,10.5,Selic Meta (% a.a.),432
+2024-06-10,10.5,Selic Meta (% a.a.),432
+2024-06-11,10.5,Selic Meta (% a.a.),432
+2024-06-12,10.5,Selic Meta (% a.a.),432
+2024-06-13,10.5,Selic Meta (% a.a.),432
+2024-06-14,10.5,Selic Meta (% a.a.),432
+2024-06-15,10.5,Selic Meta (% a.a.),432
+2024-06-16,10.5,Selic Meta (% a.a.),432
+2024-06-17,10.5,Selic Meta (% a.a.),432
+2024-06-18,10.5,Selic Meta (% a.a.),432
+2024-06-19,10.5,Selic Meta (% a.a.),432
+2024-06-20,10.5,Selic Meta (% a.a.),432
+2024-06-21,10.5,Selic Meta (% a.a.),432
+2024-06-22,10.5,Selic Meta (% a.a.),432
+2024-06-23,10.5,Selic Meta (% a.a.),432
+2024-06-24,10.5,Selic Meta (% a.a.),432
+2024-06-25,10.5,Selic Meta (% a.a.),432
+2024-06-26,10.5,Selic Meta (% a.a.),432
+2024-06-27,10.5,Selic Meta (% a.a.),432
+2024-06-28,10.5,Selic Meta (% a.a.),432
+2024-06-29,10.5,Selic Meta (% a.a.),432
+2024-06-30,10.5,Selic Meta (% a.a.),432
+2024-07-01,10.5,Selic Meta (% a.a.),432
+2024-07-02,10.5,Selic Meta (% a.a.),432
+2024-07-03,10.5,Selic Meta (% a.a.),432
+2024-07-04,10.5,Selic Meta (% a.a.),432
+2024-07-05,10.5,Selic Meta (% a.a.),432
+2024-07-06,10.5,Selic Meta (% a.a.),432
+2024-07-07,10.5,Selic Meta (% a.a.),432
+2024-07-08,10.5,Selic Meta (% a.a.),432
+2024-07-09,10.5,Selic Meta (% a.a.),432
+2024-07-10,10.5,Selic Meta (% a.a.),432
+2024-07-11,10.5,Selic Meta (% a.a.),432
+2024-07-12,10.5,Selic Meta (% a.a.),432
+2024-07-13,10.5,Selic Meta (% a.a.),432
+2024-07-14,10.5,Selic Meta (% a.a.),432
+2024-07-15,10.5,Selic Meta (% a.a.),432
+2024-07-16,10.5,Selic Meta (% a.a.),432
+2024-07-17,10.5,Selic Meta (% a.a.),432
+2024-07-18,10.5,Selic Meta (% a.a.),432
+2024-07-19,10.5,Selic Meta (% a.a.),432
+2024-07-20,10.5,Selic Meta (% a.a.),432
+2024-07-21,10.5,Selic Meta (% a.a.),432
+2024-07-22,10.5,Selic Meta (% a.a.),432
+2024-07-23,10.5,Selic Meta (% a.a.),432
+2024-07-24,10.5,Selic Meta (% a.a.),432
+2024-07-25,10.5,Selic Meta (% a.a.),432
+2024-07-26,10.5,Selic Meta (% a.a.),432
+2024-07-27,10.5,Selic Meta (% a.a.),432
+2024-07-28,10.5,Selic Meta (% a.a.),432
+2024-07-29,10.5,Selic Meta (% a.a.),432
+2024-07-30,10.5,Selic Meta (% a.a.),432
+2024-07-31,10.5,Selic Meta (% a.a.),432
+2024-08-01,10.5,Selic Meta (% a.a.),432
+2024-08-02,10.5,Selic Meta (% a.a.),432
+2024-08-03,10.5,Selic Meta (% a.a.),432
+2024-08-04,10.5,Selic Meta (% a.a.),432
+2024-08-05,10.5,Selic Meta (% a.a.),432
+2024-08-06,10.5,Selic Meta (% a.a.),432
+2024-08-07,10.5,Selic Meta (% a.a.),432
+2024-08-08,10.5,Selic Meta (% a.a.),432
+2024-08-09,10.5,Selic Meta (% a.a.),432
+2024-08-10,10.5,Selic Meta (% a.a.),432
+2024-08-11,10.5,Selic Meta (% a.a.),432
+2024-08-12,10.5,Selic Meta (% a.a.),432
+2024-08-13,10.5,Selic Meta (% a.a.),432
+2024-08-14,10.5,Selic Meta (% a.a.),432
+2024-08-15,10.5,Selic Meta (% a.a.),432
+2024-08-16,10.5,Selic Meta (% a.a.),432
+2024-08-17,10.5,Selic Meta (% a.a.),432
+2024-08-18,10.5,Selic Meta (% a.a.),432
+2024-08-19,10.5,Selic Meta (% a.a.),432
+2024-08-20,10.5,Selic Meta (% a.a.),432
+2024-08-21,10.5,Selic Meta (% a.a.),432
+2024-08-22,10.5,Selic Meta (% a.a.),432
+2024-08-23,10.5,Selic Meta (% a.a.),432
+2024-08-24,10.5,Selic Meta (% a.a.),432
+2024-08-25,10.5,Selic Meta (% a.a.),432
+2024-08-26,10.5,Selic Meta (% a.a.),432
+2024-08-27,10.5,Selic Meta (% a.a.),432
+2024-08-28,10.5,Selic Meta (% a.a.),432
+2024-08-29,10.5,Selic Meta (% a.a.),432
+2024-08-30,10.5,Selic Meta (% a.a.),432
+2024-08-31,10.5,Selic Meta (% a.a.),432
+2024-09-01,10.5,Selic Meta (% a.a.),432
+2024-09-02,10.5,Selic Meta (% a.a.),432
+2024-09-03,10.5,Selic Meta (% a.a.),432
+2024-09-04,10.5,Selic Meta (% a.a.),432
+2024-09-05,10.5,Selic Meta (% a.a.),432
+2024-09-06,10.5,Selic Meta (% a.a.),432
+2024-09-07,10.5,Selic Meta (% a.a.),432
+2024-09-08,10.5,Selic Meta (% a.a.),432
+2024-09-09,10.5,Selic Meta (% a.a.),432
+2024-09-10,10.5,Selic Meta (% a.a.),432
+2024-09-11,10.5,Selic Meta (% a.a.),432
+2024-09-12,10.5,Selic Meta (% a.a.),432
+2024-09-13,10.5,Selic Meta (% a.a.),432
+2024-09-14,10.5,Selic Meta (% a.a.),432
+2024-09-15,10.5,Selic Meta (% a.a.),432
+2024-09-16,10.5,Selic Meta (% a.a.),432
+2024-09-17,10.5,Selic Meta (% a.a.),432
+2024-09-18,10.5,Selic Meta (% a.a.),432
+2024-09-19,10.75,Selic Meta (% a.a.),432
+2024-09-20,10.75,Selic Meta (% a.a.),432
+2024-09-21,10.75,Selic Meta (% a.a.),432
+2024-09-22,10.75,Selic Meta (% a.a.),432
+2024-09-23,10.75,Selic Meta (% a.a.),432
+2024-09-24,10.75,Selic Meta (% a.a.),432
+2024-09-25,10.75,Selic Meta (% a.a.),432
+2024-09-26,10.75,Selic Meta (% a.a.),432
+2024-09-27,10.75,Selic Meta (% a.a.),432
+2024-09-28,10.75,Selic Meta (% a.a.),432
+2024-09-29,10.75,Selic Meta (% a.a.),432
+2024-09-30,10.75,Selic Meta (% a.a.),432
+2024-10-01,10.75,Selic Meta (% a.a.),432
+2024-10-02,10.75,Selic Meta (% a.a.),432
+2024-10-03,10.75,Selic Meta (% a.a.),432
+2024-10-04,10.75,Selic Meta (% a.a.),432
+2024-10-05,10.75,Selic Meta (% a.a.),432
+2024-10-06,10.75,Selic Meta (% a.a.),432
+2024-10-07,10.75,Selic Meta (% a.a.),432
+2024-10-08,10.75,Selic Meta (% a.a.),432
+2024-10-09,10.75,Selic Meta (% a.a.),432
+2024-10-10,10.75,Selic Meta (% a.a.),432
+2024-10-11,10.75,Selic Meta (% a.a.),432
+2024-10-12,10.75,Selic Meta (% a.a.),432
+2024-10-13,10.75,Selic Meta (% a.a.),432
+2024-10-14,10.75,Selic Meta (% a.a.),432
+2024-10-15,10.75,Selic Meta (% a.a.),432
+2024-10-16,10.75,Selic Meta (% a.a.),432
+2024-10-17,10.75,Selic Meta (% a.a.),432
+2024-10-18,10.75,Selic Meta (% a.a.),432
+2024-10-19,10.75,Selic Meta (% a.a.),432
+2024-10-20,10.75,Selic Meta (% a.a.),432
+2024-10-21,10.75,Selic Meta (% a.a.),432
+2024-10-22,10.75,Selic Meta (% a.a.),432
+2024-10-23,10.75,Selic Meta (% a.a.),432
+2024-10-24,10.75,Selic Meta (% a.a.),432
+2024-10-25,10.75,Selic Meta (% a.a.),432
+2024-10-26,10.75,Selic Meta (% a.a.),432
+2024-10-27,10.75,Selic Meta (% a.a.),432
+2024-10-28,10.75,Selic Meta (% a.a.),432
+2024-10-29,10.75,Selic Meta (% a.a.),432
+2024-10-30,10.75,Selic Meta (% a.a.),432
+2024-10-31,10.75,Selic Meta (% a.a.),432
+2024-11-01,10.75,Selic Meta (% a.a.),432
+2024-11-02,10.75,Selic Meta (% a.a.),432
+2024-11-03,10.75,Selic Meta (% a.a.),432
+2024-11-04,10.75,Selic Meta (% a.a.),432
+2024-11-05,10.75,Selic Meta (% a.a.),432
+2024-11-06,10.75,Selic Meta (% a.a.),432
+2024-11-07,11.25,Selic Meta (% a.a.),432
+2024-11-08,11.25,Selic Meta (% a.a.),432
+2024-11-09,11.25,Selic Meta (% a.a.),432
+2024-11-10,11.25,Selic Meta (% a.a.),432
+2024-11-11,11.25,Selic Meta (% a.a.),432
+2024-11-12,11.25,Selic Meta (% a.a.),432
+2024-11-13,11.25,Selic Meta (% a.a.),432
+2024-11-14,11.25,Selic Meta (% a.a.),432
+2024-11-15,11.25,Selic Meta (% a.a.),432
+2024-11-16,11.25,Selic Meta (% a.a.),432
+2024-11-17,11.25,Selic Meta (% a.a.),432
+2024-11-18,11.25,Selic Meta (% a.a.),432
+2024-11-19,11.25,Selic Meta (% a.a.),432
+2024-11-20,11.25,Selic Meta (% a.a.),432
+2024-11-21,11.25,Selic Meta (% a.a.),432
+2024-11-22,11.25,Selic Meta (% a.a.),432
+2024-11-23,11.25,Selic Meta (% a.a.),432
+2024-11-24,11.25,Selic Meta (% a.a.),432
+2024-11-25,11.25,Selic Meta (% a.a.),432
+2024-11-26,11.25,Selic Meta (% a.a.),432
+2024-11-27,11.25,Selic Meta (% a.a.),432
+2024-11-28,11.25,Selic Meta (% a.a.),432
+2024-11-29,11.25,Selic Meta (% a.a.),432
+2024-11-30,11.25,Selic Meta (% a.a.),432
+2024-12-01,11.25,Selic Meta (% a.a.),432
+2024-12-02,11.25,Selic Meta (% a.a.),432
+2024-12-03,11.25,Selic Meta (% a.a.),432
+2024-12-04,11.25,Selic Meta (% a.a.),432
+2024-12-05,11.25,Selic Meta (% a.a.),432
+2024-12-06,11.25,Selic Meta (% a.a.),432
+2024-12-07,11.25,Selic Meta (% a.a.),432
+2024-12-08,11.25,Selic Meta (% a.a.),432
+2024-12-09,11.25,Selic Meta (% a.a.),432
+2024-12-10,11.25,Selic Meta (% a.a.),432
+2024-12-11,11.25,Selic Meta (% a.a.),432
+2024-12-12,12.25,Selic Meta (% a.a.),432
+2024-12-13,12.25,Selic Meta (% a.a.),432
+2024-12-14,12.25,Selic Meta (% a.a.),432
+2024-12-15,12.25,Selic Meta (% a.a.),432
+2024-12-16,12.25,Selic Meta (% a.a.),432
+2024-12-17,12.25,Selic Meta (% a.a.),432
+2024-12-18,12.25,Selic Meta (% a.a.),432
+2024-12-19,12.25,Selic Meta (% a.a.),432
+2024-12-20,12.25,Selic Meta (% a.a.),432
+2024-12-21,12.25,Selic Meta (% a.a.),432
+2024-12-22,12.25,Selic Meta (% a.a.),432
+2024-12-23,12.25,Selic Meta (% a.a.),432
+2024-12-24,12.25,Selic Meta (% a.a.),432
+2024-12-25,12.25,Selic Meta (% a.a.),432
+2024-12-26,12.25,Selic Meta (% a.a.),432
+2024-12-27,12.25,Selic Meta (% a.a.),432
+2024-12-28,12.25,Selic Meta (% a.a.),432
+2024-12-29,12.25,Selic Meta (% a.a.),432
+2024-12-30,12.25,Selic Meta (% a.a.),432
+2024-12-31,12.25,Selic Meta (% a.a.),432
+2025-01-01,12.25,Selic Meta (% a.a.),432
+2025-01-02,12.25,Selic Meta (% a.a.),432
+2025-01-03,12.25,Selic Meta (% a.a.),432
+2025-01-04,12.25,Selic Meta (% a.a.),432
+2025-01-05,12.25,Selic Meta (% a.a.),432
+2025-01-06,12.25,Selic Meta (% a.a.),432
+2025-01-07,12.25,Selic Meta (% a.a.),432
+2025-01-08,12.25,Selic Meta (% a.a.),432
+2025-01-09,12.25,Selic Meta (% a.a.),432
+2025-01-10,12.25,Selic Meta (% a.a.),432
+2025-01-11,12.25,Selic Meta (% a.a.),432
+2025-01-12,12.25,Selic Meta (% a.a.),432
+2025-01-13,12.25,Selic Meta (% a.a.),432
+2025-01-14,12.25,Selic Meta (% a.a.),432
+2025-01-15,12.25,Selic Meta (% a.a.),432
+2025-01-16,12.25,Selic Meta (% a.a.),432
+2025-01-17,12.25,Selic Meta (% a.a.),432
+2025-01-18,12.25,Selic Meta (% a.a.),432
+2025-01-19,12.25,Selic Meta (% a.a.),432
+2025-01-20,12.25,Selic Meta (% a.a.),432
+2025-01-21,12.25,Selic Meta (% a.a.),432
+2025-01-22,12.25,Selic Meta (% a.a.),432
+2025-01-23,12.25,Selic Meta (% a.a.),432
+2025-01-24,12.25,Selic Meta (% a.a.),432
+2025-01-25,12.25,Selic Meta (% a.a.),432
+2025-01-26,12.25,Selic Meta (% a.a.),432
+2025-01-27,12.25,Selic Meta (% a.a.),432
+2025-01-28,12.25,Selic Meta (% a.a.),432
+2025-01-29,12.25,Selic Meta (% a.a.),432
+2025-01-30,13.25,Selic Meta (% a.a.),432
+2025-01-31,13.25,Selic Meta (% a.a.),432
+2025-02-01,13.25,Selic Meta (% a.a.),432
+2025-02-02,13.25,Selic Meta (% a.a.),432
+2025-02-03,13.25,Selic Meta (% a.a.),432
+2025-02-04,13.25,Selic Meta (% a.a.),432
+2025-02-05,13.25,Selic Meta (% a.a.),432
+2025-02-06,13.25,Selic Meta (% a.a.),432
+2025-02-07,13.25,Selic Meta (% a.a.),432
+2025-02-08,13.25,Selic Meta (% a.a.),432
+2025-02-09,13.25,Selic Meta (% a.a.),432
+2025-02-10,13.25,Selic Meta (% a.a.),432
+2025-02-11,13.25,Selic Meta (% a.a.),432
+2025-02-12,13.25,Selic Meta (% a.a.),432
+2025-02-13,13.25,Selic Meta (% a.a.),432
+2025-02-14,13.25,Selic Meta (% a.a.),432
+2025-02-15,13.25,Selic Meta (% a.a.),432
+2025-02-16,13.25,Selic Meta (% a.a.),432
+2025-02-17,13.25,Selic Meta (% a.a.),432
+2025-02-18,13.25,Selic Meta (% a.a.),432
+2025-02-19,13.25,Selic Meta (% a.a.),432
+2025-02-20,13.25,Selic Meta (% a.a.),432
+2025-02-21,13.25,Selic Meta (% a.a.),432
+2025-02-22,13.25,Selic Meta (% a.a.),432
+2025-02-23,13.25,Selic Meta (% a.a.),432
+2025-02-24,13.25,Selic Meta (% a.a.),432
+2025-02-25,13.25,Selic Meta (% a.a.),432
+2025-02-26,13.25,Selic Meta (% a.a.),432
+2025-02-27,13.25,Selic Meta (% a.a.),432
+2025-02-28,13.25,Selic Meta (% a.a.),432
+2025-03-01,13.25,Selic Meta (% a.a.),432
+2025-03-02,13.25,Selic Meta (% a.a.),432
+2025-03-03,13.25,Selic Meta (% a.a.),432
+2025-03-04,13.25,Selic Meta (% a.a.),432
+2025-03-05,13.25,Selic Meta (% a.a.),432
+2025-03-06,13.25,Selic Meta (% a.a.),432
+2025-03-07,13.25,Selic Meta (% a.a.),432
+2025-03-08,13.25,Selic Meta (% a.a.),432
+2025-03-09,13.25,Selic Meta (% a.a.),432
+2025-03-10,13.25,Selic Meta (% a.a.),432
+2025-03-11,13.25,Selic Meta (% a.a.),432
+2025-03-12,13.25,Selic Meta (% a.a.),432
+2025-03-13,13.25,Selic Meta (% a.a.),432
+2025-03-14,13.25,Selic Meta (% a.a.),432
+2025-03-15,13.25,Selic Meta (% a.a.),432
+2025-03-16,13.25,Selic Meta (% a.a.),432
+2025-03-17,13.25,Selic Meta (% a.a.),432
+2025-03-18,13.25,Selic Meta (% a.a.),432
+2025-03-19,13.25,Selic Meta (% a.a.),432
+2025-03-20,14.25,Selic Meta (% a.a.),432
+2025-03-21,14.25,Selic Meta (% a.a.),432
+2025-03-22,14.25,Selic Meta (% a.a.),432
+2025-03-23,14.25,Selic Meta (% a.a.),432
+2025-03-24,14.25,Selic Meta (% a.a.),432
+2025-03-25,14.25,Selic Meta (% a.a.),432
+2025-03-26,14.25,Selic Meta (% a.a.),432
+2025-03-27,14.25,Selic Meta (% a.a.),432
+2025-03-28,14.25,Selic Meta (% a.a.),432
+2025-03-29,14.25,Selic Meta (% a.a.),432
+2025-03-30,14.25,Selic Meta (% a.a.),432
+2025-03-31,14.25,Selic Meta (% a.a.),432
+2025-04-01,14.25,Selic Meta (% a.a.),432
+2025-04-02,14.25,Selic Meta (% a.a.),432
+2025-04-03,14.25,Selic Meta (% a.a.),432
+2025-04-04,14.25,Selic Meta (% a.a.),432
+2025-04-05,14.25,Selic Meta (% a.a.),432
+2025-04-06,14.25,Selic Meta (% a.a.),432
+2025-04-07,14.25,Selic Meta (% a.a.),432
+2025-04-08,14.25,Selic Meta (% a.a.),432
+2025-04-09,14.25,Selic Meta (% a.a.),432
+2025-04-10,14.25,Selic Meta (% a.a.),432
+2025-04-11,14.25,Selic Meta (% a.a.),432
+2025-04-12,14.25,Selic Meta (% a.a.),432
+2025-04-13,14.25,Selic Meta (% a.a.),432
+2025-04-14,14.25,Selic Meta (% a.a.),432
+2025-04-15,14.25,Selic Meta (% a.a.),432
+2025-04-16,14.25,Selic Meta (% a.a.),432
+2025-04-17,14.25,Selic Meta (% a.a.),432
+2025-04-18,14.25,Selic Meta (% a.a.),432
+2025-04-19,14.25,Selic Meta (% a.a.),432
+2025-04-20,14.25,Selic Meta (% a.a.),432
+2025-04-21,14.25,Selic Meta (% a.a.),432
+2025-04-22,14.25,Selic Meta (% a.a.),432
+2025-04-23,14.25,Selic Meta (% a.a.),432
+2025-04-24,14.25,Selic Meta (% a.a.),432
+2025-04-25,14.25,Selic Meta (% a.a.),432
+2025-04-26,14.25,Selic Meta (% a.a.),432
+2025-04-27,14.25,Selic Meta (% a.a.),432
+2025-04-28,14.25,Selic Meta (% a.a.),432
+2025-04-29,14.25,Selic Meta (% a.a.),432
+2025-04-30,14.25,Selic Meta (% a.a.),432
+2025-05-01,14.25,Selic Meta (% a.a.),432
+2025-05-02,14.25,Selic Meta (% a.a.),432
+2025-05-03,14.25,Selic Meta (% a.a.),432
+2025-05-04,14.25,Selic Meta (% a.a.),432
+2025-05-05,14.25,Selic Meta (% a.a.),432
+2025-05-06,14.25,Selic Meta (% a.a.),432
+2025-05-07,14.25,Selic Meta (% a.a.),432
+2025-05-08,14.75,Selic Meta (% a.a.),432
+2025-05-09,14.75,Selic Meta (% a.a.),432
+2025-05-10,14.75,Selic Meta (% a.a.),432
+2025-05-11,14.75,Selic Meta (% a.a.),432
+2025-05-12,14.75,Selic Meta (% a.a.),432
+2025-05-13,14.75,Selic Meta (% a.a.),432
+2025-05-14,14.75,Selic Meta (% a.a.),432
+2025-05-15,14.75,Selic Meta (% a.a.),432
+2025-05-16,14.75,Selic Meta (% a.a.),432
+2025-05-17,14.75,Selic Meta (% a.a.),432
+2025-05-18,14.75,Selic Meta (% a.a.),432
+2025-05-19,14.75,Selic Meta (% a.a.),432
+2025-05-20,14.75,Selic Meta (% a.a.),432
+2025-05-21,14.75,Selic Meta (% a.a.),432
+2025-05-22,14.75,Selic Meta (% a.a.),432
+2025-05-23,14.75,Selic Meta (% a.a.),432
+2025-05-24,14.75,Selic Meta (% a.a.),432
+2025-05-25,14.75,Selic Meta (% a.a.),432
+2025-05-26,14.75,Selic Meta (% a.a.),432
+2025-05-27,14.75,Selic Meta (% a.a.),432
+2025-05-28,14.75,Selic Meta (% a.a.),432
+2025-05-29,14.75,Selic Meta (% a.a.),432
+2025-05-30,14.75,Selic Meta (% a.a.),432
+2025-05-31,14.75,Selic Meta (% a.a.),432
+2025-06-01,14.75,Selic Meta (% a.a.),432
+2025-06-02,14.75,Selic Meta (% a.a.),432
+2025-06-03,14.75,Selic Meta (% a.a.),432
+2025-06-04,14.75,Selic Meta (% a.a.),432
+2025-06-05,14.75,Selic Meta (% a.a.),432
+2025-06-06,14.75,Selic Meta (% a.a.),432
+2025-06-07,14.75,Selic Meta (% a.a.),432
+2025-06-08,14.75,Selic Meta (% a.a.),432
+2025-06-09,14.75,Selic Meta (% a.a.),432
+2025-06-10,14.75,Selic Meta (% a.a.),432
+2025-06-11,14.75,Selic Meta (% a.a.),432
+2025-06-12,14.75,Selic Meta (% a.a.),432
+2025-06-13,14.75,Selic Meta (% a.a.),432
+2025-06-14,14.75,Selic Meta (% a.a.),432
+2025-06-15,14.75,Selic Meta (% a.a.),432
+2025-06-16,14.75,Selic Meta (% a.a.),432
+2025-06-17,14.75,Selic Meta (% a.a.),432
+2025-06-18,14.75,Selic Meta (% a.a.),432
+2025-06-19,15.0,Selic Meta (% a.a.),432
+2025-06-20,15.0,Selic Meta (% a.a.),432
+2025-06-21,15.0,Selic Meta (% a.a.),432
+2025-06-22,15.0,Selic Meta (% a.a.),432
+2025-06-23,15.0,Selic Meta (% a.a.),432
+2025-06-24,15.0,Selic Meta (% a.a.),432
+2025-06-25,15.0,Selic Meta (% a.a.),432
+2025-06-26,15.0,Selic Meta (% a.a.),432
+2025-06-27,15.0,Selic Meta (% a.a.),432
+2025-06-28,15.0,Selic Meta (% a.a.),432
+2025-06-29,15.0,Selic Meta (% a.a.),432
+2025-06-30,15.0,Selic Meta (% a.a.),432
+2025-07-01,15.0,Selic Meta (% a.a.),432
+2025-07-02,15.0,Selic Meta (% a.a.),432
+2025-07-03,15.0,Selic Meta (% a.a.),432
+2025-07-04,15.0,Selic Meta (% a.a.),432
+2025-07-05,15.0,Selic Meta (% a.a.),432
+2025-07-06,15.0,Selic Meta (% a.a.),432
+2025-07-07,15.0,Selic Meta (% a.a.),432
+2025-07-08,15.0,Selic Meta (% a.a.),432
+2025-07-09,15.0,Selic Meta (% a.a.),432
+2025-07-10,15.0,Selic Meta (% a.a.),432
+2025-07-11,15.0,Selic Meta (% a.a.),432
+2025-07-12,15.0,Selic Meta (% a.a.),432
+2025-07-13,15.0,Selic Meta (% a.a.),432
+2025-07-14,15.0,Selic Meta (% a.a.),432
+2025-07-15,15.0,Selic Meta (% a.a.),432
+2025-07-16,15.0,Selic Meta (% a.a.),432
+2025-07-17,15.0,Selic Meta (% a.a.),432
+2025-07-18,15.0,Selic Meta (% a.a.),432
+2025-07-19,15.0,Selic Meta (% a.a.),432
+2025-07-20,15.0,Selic Meta (% a.a.),432
+2025-07-21,15.0,Selic Meta (% a.a.),432
+2025-07-22,15.0,Selic Meta (% a.a.),432
+2025-07-23,15.0,Selic Meta (% a.a.),432
+2025-07-24,15.0,Selic Meta (% a.a.),432
+2025-07-25,15.0,Selic Meta (% a.a.),432
+2025-07-26,15.0,Selic Meta (% a.a.),432
+2025-07-27,15.0,Selic Meta (% a.a.),432
+2025-07-28,15.0,Selic Meta (% a.a.),432
+2025-07-29,15.0,Selic Meta (% a.a.),432
+2025-07-30,15.0,Selic Meta (% a.a.),432
+2025-07-31,15.0,Selic Meta (% a.a.),432
+2025-08-01,15.0,Selic Meta (% a.a.),432
+2025-08-02,15.0,Selic Meta (% a.a.),432
+2025-08-03,15.0,Selic Meta (% a.a.),432
+2025-08-04,15.0,Selic Meta (% a.a.),432
+2025-08-05,15.0,Selic Meta (% a.a.),432
+2025-08-06,15.0,Selic Meta (% a.a.),432
+2025-08-07,15.0,Selic Meta (% a.a.),432
+2025-08-08,15.0,Selic Meta (% a.a.),432
+2025-08-09,15.0,Selic Meta (% a.a.),432
+2025-08-10,15.0,Selic Meta (% a.a.),432
+2025-08-11,15.0,Selic Meta (% a.a.),432
+2025-08-12,15.0,Selic Meta (% a.a.),432
+2025-08-13,15.0,Selic Meta (% a.a.),432
+2025-08-14,15.0,Selic Meta (% a.a.),432
+2025-08-15,15.0,Selic Meta (% a.a.),432
+2025-08-16,15.0,Selic Meta (% a.a.),432
+2025-08-17,15.0,Selic Meta (% a.a.),432
+2025-08-18,15.0,Selic Meta (% a.a.),432
+2025-08-19,15.0,Selic Meta (% a.a.),432
+2025-08-20,15.0,Selic Meta (% a.a.),432
+2025-08-21,15.0,Selic Meta (% a.a.),432
+2025-08-22,15.0,Selic Meta (% a.a.),432
+2025-08-23,15.0,Selic Meta (% a.a.),432
+2025-08-24,15.0,Selic Meta (% a.a.),432
+2025-08-25,15.0,Selic Meta (% a.a.),432
+2025-08-26,15.0,Selic Meta (% a.a.),432
+2025-08-27,15.0,Selic Meta (% a.a.),432
+2025-08-28,15.0,Selic Meta (% a.a.),432
+2025-08-29,15.0,Selic Meta (% a.a.),432
+2025-08-30,15.0,Selic Meta (% a.a.),432
+2025-08-31,15.0,Selic Meta (% a.a.),432
+2025-09-01,15.0,Selic Meta (% a.a.),432
+2025-09-02,15.0,Selic Meta (% a.a.),432
+2025-09-03,15.0,Selic Meta (% a.a.),432
+2025-09-04,15.0,Selic Meta (% a.a.),432
+2025-09-05,15.0,Selic Meta (% a.a.),432
+2025-09-06,15.0,Selic Meta (% a.a.),432
+2025-09-07,15.0,Selic Meta (% a.a.),432
+2025-09-08,15.0,Selic Meta (% a.a.),432
+2025-09-09,15.0,Selic Meta (% a.a.),432
+2025-09-10,15.0,Selic Meta (% a.a.),432
+2025-09-11,15.0,Selic Meta (% a.a.),432
+2025-09-12,15.0,Selic Meta (% a.a.),432
+2025-09-13,15.0,Selic Meta (% a.a.),432
+2025-09-14,15.0,Selic Meta (% a.a.),432
+2025-09-15,15.0,Selic Meta (% a.a.),432
+2025-09-16,15.0,Selic Meta (% a.a.),432
+2025-09-17,15.0,Selic Meta (% a.a.),432
+2025-09-18,15.0,Selic Meta (% a.a.),432
+2025-09-19,15.0,Selic Meta (% a.a.),432
+2025-09-20,15.0,Selic Meta (% a.a.),432
+2025-09-21,15.0,Selic Meta (% a.a.),432
+2025-09-22,15.0,Selic Meta (% a.a.),432
+2025-09-23,15.0,Selic Meta (% a.a.),432
+2025-09-24,15.0,Selic Meta (% a.a.),432
+2025-09-25,15.0,Selic Meta (% a.a.),432
+2025-09-26,15.0,Selic Meta (% a.a.),432
+2025-09-27,15.0,Selic Meta (% a.a.),432
+2025-09-28,15.0,Selic Meta (% a.a.),432
+2025-09-29,15.0,Selic Meta (% a.a.),432
+2025-09-30,15.0,Selic Meta (% a.a.),432
+2025-10-01,15.0,Selic Meta (% a.a.),432
+2025-10-02,15.0,Selic Meta (% a.a.),432
+2025-10-03,15.0,Selic Meta (% a.a.),432
+2025-10-04,15.0,Selic Meta (% a.a.),432
+2025-10-05,15.0,Selic Meta (% a.a.),432
+2025-10-06,15.0,Selic Meta (% a.a.),432
+2025-10-07,15.0,Selic Meta (% a.a.),432
+2025-10-08,15.0,Selic Meta (% a.a.),432
+2025-10-09,15.0,Selic Meta (% a.a.),432
+2025-10-10,15.0,Selic Meta (% a.a.),432
+2025-10-11,15.0,Selic Meta (% a.a.),432
+2025-10-12,15.0,Selic Meta (% a.a.),432
+2025-10-13,15.0,Selic Meta (% a.a.),432
+2025-10-14,15.0,Selic Meta (% a.a.),432
+2025-10-15,15.0,Selic Meta (% a.a.),432
+2025-10-16,15.0,Selic Meta (% a.a.),432
+2025-10-17,15.0,Selic Meta (% a.a.),432
+2025-10-18,15.0,Selic Meta (% a.a.),432
+2025-10-19,15.0,Selic Meta (% a.a.),432
+2025-10-20,15.0,Selic Meta (% a.a.),432
+2025-10-21,15.0,Selic Meta (% a.a.),432
+2025-10-22,15.0,Selic Meta (% a.a.),432
+2025-10-23,15.0,Selic Meta (% a.a.),432
+2025-10-24,15.0,Selic Meta (% a.a.),432
+2025-10-25,15.0,Selic Meta (% a.a.),432
+2025-10-26,15.0,Selic Meta (% a.a.),432
+2025-10-27,15.0,Selic Meta (% a.a.),432
+2025-10-28,15.0,Selic Meta (% a.a.),432
+2025-10-29,15.0,Selic Meta (% a.a.),432
+2025-10-30,15.0,Selic Meta (% a.a.),432
+2025-10-31,15.0,Selic Meta (% a.a.),432
+2025-11-01,15.0,Selic Meta (% a.a.),432
+2025-11-02,15.0,Selic Meta (% a.a.),432
+2025-11-03,15.0,Selic Meta (% a.a.),432
+2025-11-04,15.0,Selic Meta (% a.a.),432
+2025-11-05,15.0,Selic Meta (% a.a.),432
+2025-11-06,15.0,Selic Meta (% a.a.),432
+2025-11-07,15.0,Selic Meta (% a.a.),432
+2025-11-08,15.0,Selic Meta (% a.a.),432
+2025-11-09,15.0,Selic Meta (% a.a.),432
+2025-11-10,15.0,Selic Meta (% a.a.),432
+2025-11-11,15.0,Selic Meta (% a.a.),432
+2025-11-12,15.0,Selic Meta (% a.a.),432
+2025-11-13,15.0,Selic Meta (% a.a.),432
+2025-11-14,15.0,Selic Meta (% a.a.),432
+2025-11-15,15.0,Selic Meta (% a.a.),432
+2025-11-16,15.0,Selic Meta (% a.a.),432
+2025-11-17,15.0,Selic Meta (% a.a.),432
+2025-11-18,15.0,Selic Meta (% a.a.),432
+2025-11-19,15.0,Selic Meta (% a.a.),432
+2025-11-20,15.0,Selic Meta (% a.a.),432
+2025-11-21,15.0,Selic Meta (% a.a.),432
+2025-11-22,15.0,Selic Meta (% a.a.),432
+2025-11-23,15.0,Selic Meta (% a.a.),432
+2025-11-24,15.0,Selic Meta (% a.a.),432
+2025-11-25,15.0,Selic Meta (% a.a.),432
+2025-11-26,15.0,Selic Meta (% a.a.),432
+2025-11-27,15.0,Selic Meta (% a.a.),432
+2025-11-28,15.0,Selic Meta (% a.a.),432
+2025-11-29,15.0,Selic Meta (% a.a.),432
+2025-11-30,15.0,Selic Meta (% a.a.),432
+2025-12-01,15.0,Selic Meta (% a.a.),432
+2025-12-02,15.0,Selic Meta (% a.a.),432
+2025-12-03,15.0,Selic Meta (% a.a.),432
+2025-12-04,15.0,Selic Meta (% a.a.),432
+2025-12-05,15.0,Selic Meta (% a.a.),432
+2025-12-06,15.0,Selic Meta (% a.a.),432
+2025-12-07,15.0,Selic Meta (% a.a.),432
+2025-12-08,15.0,Selic Meta (% a.a.),432
+2025-12-09,15.0,Selic Meta (% a.a.),432
+2025-12-10,15.0,Selic Meta (% a.a.),432
+2025-12-11,15.0,Selic Meta (% a.a.),432
+2025-12-12,15.0,Selic Meta (% a.a.),432
+2025-12-13,15.0,Selic Meta (% a.a.),432
+2025-12-14,15.0,Selic Meta (% a.a.),432
+2025-12-15,15.0,Selic Meta (% a.a.),432
+2025-12-16,15.0,Selic Meta (% a.a.),432
+2025-12-17,15.0,Selic Meta (% a.a.),432
+2025-12-18,15.0,Selic Meta (% a.a.),432
+2025-12-19,15.0,Selic Meta (% a.a.),432
+2025-12-20,15.0,Selic Meta (% a.a.),432
+2025-12-21,15.0,Selic Meta (% a.a.),432
+2025-12-22,15.0,Selic Meta (% a.a.),432
+2025-12-23,15.0,Selic Meta (% a.a.),432
+2025-12-24,15.0,Selic Meta (% a.a.),432
+2025-12-25,15.0,Selic Meta (% a.a.),432
+2025-12-26,15.0,Selic Meta (% a.a.),432
+2025-12-27,15.0,Selic Meta (% a.a.),432
+2025-12-28,15.0,Selic Meta (% a.a.),432
+2025-12-29,15.0,Selic Meta (% a.a.),432
+2025-12-30,15.0,Selic Meta (% a.a.),432
+2025-12-31,15.0,Selic Meta (% a.a.),432
+2026-01-01,15.0,Selic Meta (% a.a.),432
+2026-01-02,15.0,Selic Meta (% a.a.),432
+2026-01-03,15.0,Selic Meta (% a.a.),432
+2026-01-04,15.0,Selic Meta (% a.a.),432
+2026-01-05,15.0,Selic Meta (% a.a.),432
+2026-01-06,15.0,Selic Meta (% a.a.),432
+2026-01-07,15.0,Selic Meta (% a.a.),432
+2026-01-08,15.0,Selic Meta (% a.a.),432
+2026-01-09,15.0,Selic Meta (% a.a.),432
+2026-01-10,15.0,Selic Meta (% a.a.),432
+2026-01-11,15.0,Selic Meta (% a.a.),432
+2026-01-12,15.0,Selic Meta (% a.a.),432
+2026-01-13,15.0,Selic Meta (% a.a.),432
+2026-01-14,15.0,Selic Meta (% a.a.),432
+2026-01-15,15.0,Selic Meta (% a.a.),432
+2026-01-16,15.0,Selic Meta (% a.a.),432
+2026-01-17,15.0,Selic Meta (% a.a.),432
+2026-01-18,15.0,Selic Meta (% a.a.),432
+2026-01-19,15.0,Selic Meta (% a.a.),432
+2026-01-20,15.0,Selic Meta (% a.a.),432
+2026-01-21,15.0,Selic Meta (% a.a.),432
+2026-01-22,15.0,Selic Meta (% a.a.),432
+2026-01-23,15.0,Selic Meta (% a.a.),432
+2026-01-24,15.0,Selic Meta (% a.a.),432
+2026-01-25,15.0,Selic Meta (% a.a.),432
+2026-01-26,15.0,Selic Meta (% a.a.),432
+2026-01-27,15.0,Selic Meta (% a.a.),432
+2026-01-28,15.0,Selic Meta (% a.a.),432
+2026-01-29,15.0,Selic Meta (% a.a.),432
+2026-01-30,15.0,Selic Meta (% a.a.),432
+2026-01-31,15.0,Selic Meta (% a.a.),432
+2026-02-01,15.0,Selic Meta (% a.a.),432
+2026-02-02,15.0,Selic Meta (% a.a.),432
+2026-02-03,15.0,Selic Meta (% a.a.),432
+2026-02-04,15.0,Selic Meta (% a.a.),432
+2026-02-05,15.0,Selic Meta (% a.a.),432
+2026-02-06,15.0,Selic Meta (% a.a.),432
+2026-02-07,15.0,Selic Meta (% a.a.),432
+2026-02-08,15.0,Selic Meta (% a.a.),432
+2026-02-09,15.0,Selic Meta (% a.a.),432
+2026-02-10,15.0,Selic Meta (% a.a.),432
+2026-02-11,15.0,Selic Meta (% a.a.),432
+2026-02-12,15.0,Selic Meta (% a.a.),432
+2026-02-13,15.0,Selic Meta (% a.a.),432
+2026-02-14,15.0,Selic Meta (% a.a.),432
+2026-02-15,15.0,Selic Meta (% a.a.),432
+2026-02-16,15.0,Selic Meta (% a.a.),432
+2026-02-17,15.0,Selic Meta (% a.a.),432
+2026-02-18,15.0,Selic Meta (% a.a.),432
+2026-02-19,15.0,Selic Meta (% a.a.),432
+2026-02-20,15.0,Selic Meta (% a.a.),432
+2026-02-21,15.0,Selic Meta (% a.a.),432
+2026-02-22,15.0,Selic Meta (% a.a.),432
+2026-02-23,15.0,Selic Meta (% a.a.),432
+2026-02-24,15.0,Selic Meta (% a.a.),432
+2026-02-25,15.0,Selic Meta (% a.a.),432
+2026-02-26,15.0,Selic Meta (% a.a.),432
+2026-02-27,15.0,Selic Meta (% a.a.),432
+2026-02-28,15.0,Selic Meta (% a.a.),432
+2026-03-01,15.0,Selic Meta (% a.a.),432
+2026-03-02,15.0,Selic Meta (% a.a.),432
+2026-03-03,15.0,Selic Meta (% a.a.),432
+2026-03-04,15.0,Selic Meta (% a.a.),432
+2026-03-05,15.0,Selic Meta (% a.a.),432
+2026-03-06,15.0,Selic Meta (% a.a.),432
+2026-03-07,15.0,Selic Meta (% a.a.),432
+2026-03-08,15.0,Selic Meta (% a.a.),432
+2026-03-09,15.0,Selic Meta (% a.a.),432
+2026-03-10,15.0,Selic Meta (% a.a.),432
+2026-03-11,15.0,Selic Meta (% a.a.),432
+2026-03-12,15.0,Selic Meta (% a.a.),432
+2026-03-13,15.0,Selic Meta (% a.a.),432
+2026-03-14,15.0,Selic Meta (% a.a.),432
+2026-03-15,15.0,Selic Meta (% a.a.),432
+2026-03-16,15.0,Selic Meta (% a.a.),432
+2026-03-17,15.0,Selic Meta (% a.a.),432
+2026-03-18,15.0,Selic Meta (% a.a.),432
+2026-03-19,14.75,Selic Meta (% a.a.),432
+2026-03-20,14.75,Selic Meta (% a.a.),432
+2026-03-21,14.75,Selic Meta (% a.a.),432
+2026-03-22,14.75,Selic Meta (% a.a.),432
+2026-03-23,14.75,Selic Meta (% a.a.),432
+2026-03-24,14.75,Selic Meta (% a.a.),432
+2026-03-25,14.75,Selic Meta (% a.a.),432
+2026-03-26,14.75,Selic Meta (% a.a.),432
+2026-03-27,14.75,Selic Meta (% a.a.),432
+2026-03-28,14.75,Selic Meta (% a.a.),432
+2026-03-29,14.75,Selic Meta (% a.a.),432
+2026-03-30,14.75,Selic Meta (% a.a.),432
+2026-03-31,14.75,Selic Meta (% a.a.),432
+2026-04-01,14.75,Selic Meta (% a.a.),432
+2026-04-02,14.75,Selic Meta (% a.a.),432
+2026-04-03,14.75,Selic Meta (% a.a.),432
+2026-04-04,14.75,Selic Meta (% a.a.),432
+2026-04-05,14.75,Selic Meta (% a.a.),432
+2026-04-06,14.75,Selic Meta (% a.a.),432
+2026-04-07,14.75,Selic Meta (% a.a.),432
+2026-04-08,14.75,Selic Meta (% a.a.),432
+2026-04-09,14.75,Selic Meta (% a.a.),432
+2026-04-10,14.75,Selic Meta (% a.a.),432
+2026-04-11,14.75,Selic Meta (% a.a.),432
+2026-04-12,14.75,Selic Meta (% a.a.),432
+2026-04-13,14.75,Selic Meta (% a.a.),432
+2026-04-14,14.75,Selic Meta (% a.a.),432
+2026-04-15,14.75,Selic Meta (% a.a.),432
+2026-04-16,14.75,Selic Meta (% a.a.),432
+2026-04-17,14.75,Selic Meta (% a.a.),432
+2026-04-18,14.75,Selic Meta (% a.a.),432
+2026-04-19,14.75,Selic Meta (% a.a.),432
+2026-04-20,14.75,Selic Meta (% a.a.),432
+2026-04-21,14.75,Selic Meta (% a.a.),432
+2026-04-22,14.75,Selic Meta (% a.a.),432
+2026-04-23,14.75,Selic Meta (% a.a.),432
+2026-04-24,14.75,Selic Meta (% a.a.),432
+2026-04-25,14.75,Selic Meta (% a.a.),432
+2026-04-26,14.75,Selic Meta (% a.a.),432
+2026-04-27,14.75,Selic Meta (% a.a.),432
+2026-04-28,14.75,Selic Meta (% a.a.),432
+2026-04-29,14.75,Selic Meta (% a.a.),432
+2026-04-30,14.5,Selic Meta (% a.a.),432
+2026-05-01,14.5,Selic Meta (% a.a.),432
+2026-05-02,14.5,Selic Meta (% a.a.),432
+2026-05-03,14.5,Selic Meta (% a.a.),432
+2026-05-04,14.5,Selic Meta (% a.a.),432
+2026-05-05,14.5,Selic Meta (% a.a.),432
+2026-05-06,14.5,Selic Meta (% a.a.),432
+2026-05-07,14.5,Selic Meta (% a.a.),432
+2026-05-08,14.5,Selic Meta (% a.a.),432
+2026-05-09,14.5,Selic Meta (% a.a.),432
+2026-05-10,14.5,Selic Meta (% a.a.),432
+2026-05-11,14.5,Selic Meta (% a.a.),432
+2026-05-12,14.5,Selic Meta (% a.a.),432
+2026-05-13,14.5,Selic Meta (% a.a.),432
+2026-05-14,14.5,Selic Meta (% a.a.),432
+2026-05-15,14.5,Selic Meta (% a.a.),432
+2026-05-16,14.5,Selic Meta (% a.a.),432
+2026-05-17,14.5,Selic Meta (% a.a.),432
+2026-05-18,14.5,Selic Meta (% a.a.),432
+2026-05-19,14.5,Selic Meta (% a.a.),432
+2026-05-20,14.5,Selic Meta (% a.a.),432
+2026-05-21,14.5,Selic Meta (% a.a.),432
+2026-05-22,14.5,Selic Meta (% a.a.),432
+2026-05-23,14.5,Selic Meta (% a.a.),432
+2026-05-24,14.5,Selic Meta (% a.a.),432
+2026-05-25,14.5,Selic Meta (% a.a.),432
+2026-05-26,14.5,Selic Meta (% a.a.),432
+2026-05-27,14.5,Selic Meta (% a.a.),432
+2026-05-28,14.5,Selic Meta (% a.a.),432
+2026-05-29,14.5,Selic Meta (% a.a.),432
+2026-05-30,14.5,Selic Meta (% a.a.),432
+2026-05-31,14.5,Selic Meta (% a.a.),432
+2026-06-01,14.5,Selic Meta (% a.a.),432
+2026-06-02,14.5,Selic Meta (% a.a.),432
+2026-06-03,14.5,Selic Meta (% a.a.),432
+2026-06-04,14.5,Selic Meta (% a.a.),432
+2026-06-05,14.5,Selic Meta (% a.a.),432
+2026-06-06,14.5,Selic Meta (% a.a.),432
+2026-06-07,14.5,Selic Meta (% a.a.),432
+2026-06-08,14.5,Selic Meta (% a.a.),432
+2026-06-09,14.5,Selic Meta (% a.a.),432
+2026-06-10,14.5,Selic Meta (% a.a.),432
+2026-06-11,14.5,Selic Meta (% a.a.),432
+2026-06-12,14.5,Selic Meta (% a.a.),432
+2026-06-13,14.5,Selic Meta (% a.a.),432
+2026-06-14,14.5,Selic Meta (% a.a.),432
+2026-06-15,14.5,Selic Meta (% a.a.),432
+2026-06-16,14.5,Selic Meta (% a.a.),432
+2026-06-17,14.5,Selic Meta (% a.a.),432
+2026-06-18,14.25,Selic Meta (% a.a.),432
+2026-06-19,14.25,Selic Meta (% a.a.),432
+2026-06-20,14.25,Selic Meta (% a.a.),432
+2026-06-21,14.25,Selic Meta (% a.a.),432
+2026-06-22,14.25,Selic Meta (% a.a.),432
+2026-06-23,14.25,Selic Meta (% a.a.),432
+2026-06-24,14.25,Selic Meta (% a.a.),432
+2026-06-25,14.25,Selic Meta (% a.a.),432
+2026-06-26,14.25,Selic Meta (% a.a.),432
+2026-06-27,14.25,Selic Meta (% a.a.),432
+2026-06-28,14.25,Selic Meta (% a.a.),432
+2026-06-29,14.25,Selic Meta (% a.a.),432
+2026-06-30,14.25,Selic Meta (% a.a.),432
+2026-07-01,14.25,Selic Meta (% a.a.),432
+2026-07-02,14.25,Selic Meta (% a.a.),432
+2026-07-03,14.25,Selic Meta (% a.a.),432
+2026-07-04,14.25,Selic Meta (% a.a.),432
+2026-07-05,14.25,Selic Meta (% a.a.),432
+2026-07-06,14.25,Selic Meta (% a.a.),432
+2026-07-07,14.25,Selic Meta (% a.a.),432
+2026-07-08,14.25,Selic Meta (% a.a.),432
+2026-07-09,14.25,Selic Meta (% a.a.),432
+2026-07-10,14.25,Selic Meta (% a.a.),432
+2026-07-11,14.25,Selic Meta (% a.a.),432
+2026-07-12,14.25,Selic Meta (% a.a.),432
+2026-07-13,14.25,Selic Meta (% a.a.),432
+2026-07-14,14.25,Selic Meta (% a.a.),432
+2026-07-15,14.25,Selic Meta (% a.a.),432
+2026-07-16,14.25,Selic Meta (% a.a.),432
+2026-07-17,14.25,Selic Meta (% a.a.),432
+2026-07-18,14.25,Selic Meta (% a.a.),432
+2026-07-19,14.25,Selic Meta (% a.a.),432
+2026-07-20,14.25,Selic Meta (% a.a.),432
+2026-07-21,14.25,Selic Meta (% a.a.),432
+2026-07-22,14.25,Selic Meta (% a.a.),432
+2026-07-23,14.25,Selic Meta (% a.a.),432
+2026-07-24,14.25,Selic Meta (% a.a.),432
+2026-07-25,14.25,Selic Meta (% a.a.),432
+2026-07-26,14.25,Selic Meta (% a.a.),432
+2026-07-27,14.25,Selic Meta (% a.a.),432
+2026-07-28,14.25,Selic Meta (% a.a.),432
+2026-07-29,14.25,Selic Meta (% a.a.),432
+2026-07-30,14.25,Selic Meta (% a.a.),432
+2026-07-31,14.25,Selic Meta (% a.a.),432
+2026-08-01,14.25,Selic Meta (% a.a.),432
+2026-08-02,14.25,Selic Meta (% a.a.),432
+2026-08-03,14.25,Selic Meta (% a.a.),432
+2026-08-04,14.25,Selic Meta (% a.a.),432
+2026-08-05,14.25,Selic Meta (% a.a.),432
+2026-08-06,14.0,Selic Meta (% a.a.),432
+2026-08-07,14.0,Selic Meta (% a.a.),432
+2026-08-08,14.0,Selic Meta (% a.a.),432
+2026-08-09,14.0,Selic Meta (% a.a.),432
+2026-08-10,14.0,Selic Meta (% a.a.),432
+2026-08-11,14.0,Selic Meta (% a.a.),432
+2026-08-12,14.0,Selic Meta (% a.a.),432
+2026-08-13,14.0,Selic Meta (% a.a.),432
+2026-08-14,14.0,Selic Meta (% a.a.),432
+2026-08-15,14.0,Selic Meta (% a.a.),432
+2026-08-16,14.0,Selic Meta (% a.a.),432
+2026-08-17,14.0,Selic Meta (% a.a.),432
+2026-08-18,14.0,Selic Meta (% a.a.),432
+2026-08-19,14.0,Selic Meta (% a.a.),432
+2026-08-20,14.0,Selic Meta (% a.a.),432
+2026-08-21,14.0,Selic Meta (% a.a.),432
+2026-08-22,14.0,Selic Meta (% a.a.),432
+2026-08-23,14.0,Selic Meta (% a.a.),432
+2026-08-24,14.0,Selic Meta (% a.a.),432
+2026-08-25,14.0,Selic Meta (% a.a.),432
+2026-08-26,14.0,Selic Meta (% a.a.),432
+2026-08-27,14.0,Selic Meta (% a.a.),432
+2026-08-28,14.0,Selic Meta (% a.a.),432
+2026-08-29,14.0,Selic Meta (% a.a.),432
+2026-08-30,14.0,Selic Meta (% a.a.),432
+2026-08-31,14.0,Selic Meta (% a.a.),432
+2026-09-01,14.0,Selic Meta (% a.a.),432
+2026-09-02,14.0,Selic Meta (% a.a.),432
+2026-09-03,14.0,Selic Meta (% a.a.),432
+2026-09-04,14.0,Selic Meta (% a.a.),432
+2026-09-05,14.0,Selic Meta (% a.a.),432
+2026-09-06,14.0,Selic Meta (% a.a.),432
+2026-09-07,14.0,Selic Meta (% a.a.),432
+2026-09-08,14.0,Selic Meta (% a.a.),432
+2026-09-09,14.0,Selic Meta (% a.a.),432
+2026-09-10,14.0,Selic Meta (% a.a.),432
+2026-09-11,14.0,Selic Meta (% a.a.),432
+2026-09-12,14.0,Selic Meta (% a.a.),432
+2026-09-13,14.0,Selic Meta (% a.a.),432
+2026-09-14,14.0,Selic Meta (% a.a.),432
+2026-09-15,14.0,Selic Meta (% a.a.),432
+2026-09-16,14.0,Selic Meta (% a.a.),432
+2026-09-17,13.75,Selic Meta (% a.a.),432
+2026-09-18,13.75,Selic Meta (% a.a.),432
+2026-09-19,13.75,Selic Meta (% a.a.),432
+2026-09-20,13.75,Selic Meta (% a.a.),432
+2026-09-21,13.75,Selic Meta (% a.a.),432
+2026-09-22,13.75,Selic Meta (% a.a.),432
+2026-09-23,13.75,Selic Meta (% a.a.),432
+2026-09-24,13.75,Selic Meta (% a.a.),432
+2026-09-25,13.75,Selic Meta (% a.a.),432
+2026-09-26,13.75,Selic Meta (% a.a.),432
+2026-09-27,13.75,Selic Meta (% a.a.),432
+2026-09-28,13.75,Selic Meta (% a.a.),432
+2026-09-29,13.75,Selic Meta (% a.a.),432
+2026-09-30,13.75,Selic Meta (% a.a.),432
+2026-10-01,13.75,Selic Meta (% a.a.),432
+2026-10-02,13.75,Selic Meta (% a.a.),432
+2026-10-03,13.75,Selic Meta (% a.a.),432
+2026-10-04,13.75,Selic Meta (% a.a.),432
+2026-10-05,13.75,Selic Meta (% a.a.),432
+2026-10-06,13.75,Selic Meta (% a.a.),432
+2026-10-07,13.75,Selic Meta (% a.a.),432
+2026-10-08,13.75,Selic Meta (% a.a.),432
+2026-10-09,13.75,Selic Meta (% a.a.),432
+2026-10-10,13.75,Selic Meta (% a.a.),432
+2026-10-11,13.75,Selic Meta (% a.a.),432
+2026-10-12,13.75,Selic Meta (% a.a.),432
+2026-10-13,13.75,Selic Meta (% a.a.),432
+2026-10-14,13.75,Selic Meta (% a.a.),432
+2026-10-15,13.75,Selic Meta (% a.a.),432
+2026-10-16,13.75,Selic Meta (% a.a.),432
+2026-10-17,13.75,Selic Meta (% a.a.),432
+2026-10-18,13.75,Selic Meta (% a.a.),432
+2026-10-19,13.75,Selic Meta (% a.a.),432
+2026-10-20,13.75,Selic Meta (% a.a.),432
+2026-10-21,13.75,Selic Meta (% a.a.),432
+2026-10-22,13.75,Selic Meta (% a.a.),432
+2026-10-23,13.75,Selic Meta (% a.a.),432
+2026-10-24,13.75,Selic Meta (% a.a.),432
+2026-10-25,13.75,Selic Meta (% a.a.),432
+2026-10-26,13.75,Selic Meta (% a.a.),432
+2026-10-27,13.75,Selic Meta (% a.a.),432
+2026-10-28,13.75,Selic Meta (% a.a.),432
+2026-10-29,13.75,Selic Meta (% a.a.),432
+2026-10-30,13.75,Selic Meta (% a.a.),432
+2026-10-31,13.75,Selic Meta (% a.a.),432
+2026-11-01,13.75,Selic Meta (% a.a.),432
+2026-11-02,13.75,Selic Meta (% a.a.),432
+2020-01-02,4.0213,USD/BRL PTAX (R$),1
+2020-01-03,4.0522,USD/BRL PTAX (R$),1
+2020-01-06,4.0554,USD/BRL PTAX (R$),1
+2020-01-07,4.0841,USD/BRL PTAX (R$),1
+2020-01-08,4.0672,USD/BRL PTAX (R$),1
+2020-01-09,4.0744,USD/BRL PTAX (R$),1
+2020-01-10,4.0745,USD/BRL PTAX (R$),1
+2020-01-13,4.1309,USD/BRL PTAX (R$),1
+2020-01-14,4.1443,USD/BRL PTAX (R$),1
+2020-01-15,4.1622,USD/BRL PTAX (R$),1
+2020-01-16,4.1726,USD/BRL PTAX (R$),1
+2020-01-17,4.1837,USD/BRL PTAX (R$),1
+2020-01-20,4.1829,USD/BRL PTAX (R$),1
+2020-01-21,4.2014,USD/BRL PTAX (R$),1
+2020-01-22,4.1889,USD/BRL PTAX (R$),1
+2020-01-23,4.1662,USD/BRL PTAX (R$),1
+2020-01-24,4.1769,USD/BRL PTAX (R$),1
+2020-01-27,4.2196,USD/BRL PTAX (R$),1
+2020-01-28,4.2064,USD/BRL PTAX (R$),1
+2020-01-29,4.2013,USD/BRL PTAX (R$),1
+2020-01-30,4.2523,USD/BRL PTAX (R$),1
+2020-01-31,4.2695,USD/BRL PTAX (R$),1
+2020-02-03,4.2475,USD/BRL PTAX (R$),1
+2020-02-04,4.2381,USD/BRL PTAX (R$),1
+2020-02-05,4.2449,USD/BRL PTAX (R$),1
+2020-02-06,4.2477,USD/BRL PTAX (R$),1
+2020-02-07,4.3076,USD/BRL PTAX (R$),1
+2020-02-10,4.3195,USD/BRL PTAX (R$),1
+2020-02-11,4.3148,USD/BRL PTAX (R$),1
+2020-02-12,4.3366,USD/BRL PTAX (R$),1
+2020-02-13,4.3389,USD/BRL PTAX (R$),1
+2020-02-14,4.3163,USD/BRL PTAX (R$),1
+2020-02-17,4.3157,USD/BRL PTAX (R$),1
+2020-02-18,4.3471,USD/BRL PTAX (R$),1
+2020-02-19,4.3728,USD/BRL PTAX (R$),1
+2020-02-20,4.3873,USD/BRL PTAX (R$),1
+2020-02-21,4.3924,USD/BRL PTAX (R$),1
+2020-02-26,4.4359,USD/BRL PTAX (R$),1
+2020-02-27,4.4764,USD/BRL PTAX (R$),1
+2020-02-28,4.4987,USD/BRL PTAX (R$),1
+2020-03-02,4.4946,USD/BRL PTAX (R$),1
+2020-03-03,4.4883,USD/BRL PTAX (R$),1
+2020-03-04,4.5258,USD/BRL PTAX (R$),1
+2020-03-05,4.6207,USD/BRL PTAX (R$),1
+2020-03-06,4.6459,USD/BRL PTAX (R$),1
+2020-03-09,4.7379,USD/BRL PTAX (R$),1
+2020-03-10,4.6693,USD/BRL PTAX (R$),1
+2020-03-11,4.6738,USD/BRL PTAX (R$),1
+2020-03-12,4.8833,USD/BRL PTAX (R$),1
+2020-03-13,4.7362,USD/BRL PTAX (R$),1
+2020-03-16,4.9471,USD/BRL PTAX (R$),1
+2020-03-17,5.0496,USD/BRL PTAX (R$),1
+2020-03-18,5.1107,USD/BRL PTAX (R$),1
+2020-03-19,5.1444,USD/BRL PTAX (R$),1
+2020-03-20,5.0248,USD/BRL PTAX (R$),1
+2020-03-23,5.0805,USD/BRL PTAX (R$),1
+2020-03-24,5.0713,USD/BRL PTAX (R$),1
+2020-03-25,5.0706,USD/BRL PTAX (R$),1
+2020-03-26,5.001,USD/BRL PTAX (R$),1
+2020-03-27,5.1109,USD/BRL PTAX (R$),1
+2020-03-30,5.1594,USD/BRL PTAX (R$),1
+2020-03-31,5.1987,USD/BRL PTAX (R$),1
+2020-04-01,5.2404,USD/BRL PTAX (R$),1
+2020-04-02,5.2651,USD/BRL PTAX (R$),1
+2020-04-03,5.2997,USD/BRL PTAX (R$),1
+2020-04-06,5.2471,USD/BRL PTAX (R$),1
+2020-04-07,5.2217,USD/BRL PTAX (R$),1
+2020-04-08,5.2123,USD/BRL PTAX (R$),1
+2020-04-09,5.0779,USD/BRL PTAX (R$),1
+2020-04-13,5.1824,USD/BRL PTAX (R$),1
+2020-04-14,5.1858,USD/BRL PTAX (R$),1
+2020-04-15,5.2579,USD/BRL PTAX (R$),1
+2020-04-16,5.2377,USD/BRL PTAX (R$),1
+2020-04-17,5.2573,USD/BRL PTAX (R$),1
+2020-04-20,5.2837,USD/BRL PTAX (R$),1
+2020-04-22,5.3847,USD/BRL PTAX (R$),1
+2020-04-23,5.4467,USD/BRL PTAX (R$),1
+2020-04-24,5.651,USD/BRL PTAX (R$),1
+2020-04-27,5.6358,USD/BRL PTAX (R$),1
+2020-04-28,5.5683,USD/BRL PTAX (R$),1
+2020-04-29,5.4291,USD/BRL PTAX (R$),1
+2020-04-30,5.427,USD/BRL PTAX (R$),1
+2020-05-04,5.5816,USD/BRL PTAX (R$),1
+2020-05-05,5.5354,USD/BRL PTAX (R$),1
+2020-05-06,5.6676,USD/BRL PTAX (R$),1
+2020-05-07,5.8365,USD/BRL PTAX (R$),1
+2020-05-08,5.7653,USD/BRL PTAX (R$),1
+2020-05-11,5.7954,USD/BRL PTAX (R$),1
+2020-05-12,5.7723,USD/BRL PTAX (R$),1
+2020-05-13,5.9022,USD/BRL PTAX (R$),1
+2020-05-14,5.9372,USD/BRL PTAX (R$),1
+2020-05-15,5.8229,USD/BRL PTAX (R$),1
+2020-05-18,5.7375,USD/BRL PTAX (R$),1
+2020-05-19,5.7216,USD/BRL PTAX (R$),1
+2020-05-20,5.6968,USD/BRL PTAX (R$),1
+2020-05-21,5.6019,USD/BRL PTAX (R$),1
+2020-05-22,5.5808,USD/BRL PTAX (R$),1
+2020-05-25,5.4772,USD/BRL PTAX (R$),1
+2020-05-26,5.3707,USD/BRL PTAX (R$),1
+2020-05-27,5.2992,USD/BRL PTAX (R$),1
+2020-05-28,5.3405,USD/BRL PTAX (R$),1
+2020-05-29,5.4263,USD/BRL PTAX (R$),1
+2020-06-01,5.3639,USD/BRL PTAX (R$),1
+2020-06-02,5.2601,USD/BRL PTAX (R$),1
+2020-06-03,5.0516,USD/BRL PTAX (R$),1
+2020-06-04,5.1041,USD/BRL PTAX (R$),1
+2020-06-05,4.9775,USD/BRL PTAX (R$),1
+2020-06-08,4.9331,USD/BRL PTAX (R$),1
+2020-06-09,4.9057,USD/BRL PTAX (R$),1
+2020-06-10,4.8894,USD/BRL PTAX (R$),1
+2020-06-12,5.0373,USD/BRL PTAX (R$),1
+2020-06-15,5.1883,USD/BRL PTAX (R$),1
+2020-06-16,5.1285,USD/BRL PTAX (R$),1
+2020-06-17,5.2499,USD/BRL PTAX (R$),1
+2020-06-18,5.3468,USD/BRL PTAX (R$),1
+2020-06-19,5.3466,USD/BRL PTAX (R$),1
+2020-06-22,5.2226,USD/BRL PTAX (R$),1
+2020-06-23,5.1705,USD/BRL PTAX (R$),1
+2020-06-24,5.2435,USD/BRL PTAX (R$),1
+2020-06-25,5.3287,USD/BRL PTAX (R$),1
+2020-06-26,5.4629,USD/BRL PTAX (R$),1
+2020-06-29,5.4416,USD/BRL PTAX (R$),1
+2020-06-30,5.476,USD/BRL PTAX (R$),1
+2020-07-01,5.3651,USD/BRL PTAX (R$),1
+2020-07-02,5.3028,USD/BRL PTAX (R$),1
+2020-07-03,5.3374,USD/BRL PTAX (R$),1
+2020-07-06,5.3085,USD/BRL PTAX (R$),1
+2020-07-07,5.3318,USD/BRL PTAX (R$),1
+2020-07-08,5.3482,USD/BRL PTAX (R$),1
+2020-07-09,5.2978,USD/BRL PTAX (R$),1
+2020-07-10,5.344,USD/BRL PTAX (R$),1
+2020-07-13,5.3486,USD/BRL PTAX (R$),1
+2020-07-14,5.4288,USD/BRL PTAX (R$),1
+2020-07-15,5.3491,USD/BRL PTAX (R$),1
+2020-07-16,5.356,USD/BRL PTAX (R$),1
+2020-07-17,5.351,USD/BRL PTAX (R$),1
+2020-07-20,5.3635,USD/BRL PTAX (R$),1
+2020-07-21,5.2283,USD/BRL PTAX (R$),1
+2020-07-22,5.1111,USD/BRL PTAX (R$),1
+2020-07-23,5.1647,USD/BRL PTAX (R$),1
+2020-07-24,5.2146,USD/BRL PTAX (R$),1
+2020-07-27,5.1889,USD/BRL PTAX (R$),1
+2020-07-28,5.1777,USD/BRL PTAX (R$),1
+2020-07-29,5.1395,USD/BRL PTAX (R$),1
+2020-07-30,5.1837,USD/BRL PTAX (R$),1
+2020-07-31,5.2033,USD/BRL PTAX (R$),1
+2020-08-03,5.3075,USD/BRL PTAX (R$),1
+2020-08-04,5.3329,USD/BRL PTAX (R$),1
+2020-08-05,5.276,USD/BRL PTAX (R$),1
+2020-08-06,5.3431,USD/BRL PTAX (R$),1
+2020-08-07,5.4227,USD/BRL PTAX (R$),1
+2020-08-10,5.3933,USD/BRL PTAX (R$),1
+2020-08-11,5.4285,USD/BRL PTAX (R$),1
+2020-08-12,5.4551,USD/BRL PTAX (R$),1
+2020-08-13,5.3801,USD/BRL PTAX (R$),1
+2020-08-14,5.3852,USD/BRL PTAX (R$),1
+2020-08-17,5.4497,USD/BRL PTAX (R$),1
+2020-08-18,5.4659,USD/BRL PTAX (R$),1
+2020-08-19,5.4906,USD/BRL PTAX (R$),1
+2020-08-20,5.651,USD/BRL PTAX (R$),1
+2020-08-21,5.6064,USD/BRL PTAX (R$),1
+2020-08-24,5.5954,USD/BRL PTAX (R$),1
+2020-08-25,5.5997,USD/BRL PTAX (R$),1
+2020-08-26,5.568,USD/BRL PTAX (R$),1
+2020-08-27,5.5956,USD/BRL PTAX (R$),1
+2020-08-28,5.4679,USD/BRL PTAX (R$),1
+2020-08-31,5.4713,USD/BRL PTAX (R$),1
+2020-09-01,5.3732,USD/BRL PTAX (R$),1
+2020-09-02,5.3741,USD/BRL PTAX (R$),1
+2020-09-03,5.3079,USD/BRL PTAX (R$),1
+2020-09-04,5.2848,USD/BRL PTAX (R$),1
+2020-09-08,5.3698,USD/BRL PTAX (R$),1
+2020-09-09,5.3024,USD/BRL PTAX (R$),1
+2020-09-10,5.2936,USD/BRL PTAX (R$),1
+2020-09-11,5.2854,USD/BRL PTAX (R$),1
+2020-09-14,5.2984,USD/BRL PTAX (R$),1
+2020-09-15,5.2728,USD/BRL PTAX (R$),1
+2020-09-16,5.2532,USD/BRL PTAX (R$),1
+2020-09-17,5.2593,USD/BRL PTAX (R$),1
+2020-09-18,5.2889,USD/BRL PTAX (R$),1
+2020-09-21,5.444,USD/BRL PTAX (R$),1
+2020-09-22,5.4329,USD/BRL PTAX (R$),1
+2020-09-23,5.5311,USD/BRL PTAX (R$),1
+2020-09-24,5.5714,USD/BRL PTAX (R$),1
+2020-09-25,5.5667,USD/BRL PTAX (R$),1
+2020-09-28,5.5858,USD/BRL PTAX (R$),1
+2020-09-29,5.6528,USD/BRL PTAX (R$),1
+2020-09-30,5.6407,USD/BRL PTAX (R$),1
+2020-10-01,5.6441,USD/BRL PTAX (R$),1
+2020-10-02,5.6464,USD/BRL PTAX (R$),1
+2020-10-05,5.6299,USD/BRL PTAX (R$),1
+2020-10-06,5.5205,USD/BRL PTAX (R$),1
+2020-10-07,5.6018,USD/BRL PTAX (R$),1
+2020-10-08,5.62,USD/BRL PTAX (R$),1
+2020-10-09,5.5393,USD/BRL PTAX (R$),1
+2020-10-13,5.5859,USD/BRL PTAX (R$),1
+2020-10-14,5.5675,USD/BRL PTAX (R$),1
+2020-10-15,5.6172,USD/BRL PTAX (R$),1
+2020-10-16,5.6226,USD/BRL PTAX (R$),1
+2020-10-19,5.6023,USD/BRL PTAX (R$),1
+2020-10-20,5.583,USD/BRL PTAX (R$),1
+2020-10-21,5.6006,USD/BRL PTAX (R$),1
+2020-10-22,5.582,USD/BRL PTAX (R$),1
+2020-10-23,5.612,USD/BRL PTAX (R$),1
+2020-10-26,5.6328,USD/BRL PTAX (R$),1
+2020-10-27,5.6491,USD/BRL PTAX (R$),1
+2020-10-28,5.7325,USD/BRL PTAX (R$),1
+2020-10-29,5.7803,USD/BRL PTAX (R$),1
+2020-10-30,5.7718,USD/BRL PTAX (R$),1
+2020-11-03,5.6895,USD/BRL PTAX (R$),1
+2020-11-04,5.6932,USD/BRL PTAX (R$),1
+2020-11-05,5.5624,USD/BRL PTAX (R$),1
+2020-11-06,5.5313,USD/BRL PTAX (R$),1
+2020-11-09,5.2821,USD/BRL PTAX (R$),1
+2020-11-10,5.3696,USD/BRL PTAX (R$),1
+2020-11-11,5.402,USD/BRL PTAX (R$),1
+2020-11-12,5.4094,USD/BRL PTAX (R$),1
+2020-11-13,5.4854,USD/BRL PTAX (R$),1
+2020-11-16,5.4198,USD/BRL PTAX (R$),1
+2020-11-17,5.3968,USD/BRL PTAX (R$),1
+2020-11-18,5.2932,USD/BRL PTAX (R$),1
+2020-11-19,5.333,USD/BRL PTAX (R$),1
+2020-11-20,5.3505,USD/BRL PTAX (R$),1
+2020-11-23,5.3828,USD/BRL PTAX (R$),1
+2020-11-24,5.4037,USD/BRL PTAX (R$),1
+2020-11-25,5.3508,USD/BRL PTAX (R$),1
+2020-11-26,5.3201,USD/BRL PTAX (R$),1
+2020-11-27,5.3494,USD/BRL PTAX (R$),1
+2020-11-30,5.3317,USD/BRL PTAX (R$),1
+2020-12-01,5.2789,USD/BRL PTAX (R$),1
+2020-12-02,5.2267,USD/BRL PTAX (R$),1
+2020-12-03,5.1625,USD/BRL PTAX (R$),1
+2020-12-04,5.1706,USD/BRL PTAX (R$),1
+2020-12-07,5.1018,USD/BRL PTAX (R$),1
+2020-12-08,5.092,USD/BRL PTAX (R$),1
+2020-12-09,5.1109,USD/BRL PTAX (R$),1
+2020-12-10,5.0852,USD/BRL PTAX (R$),1
+2020-12-11,5.0691,USD/BRL PTAX (R$),1
+2020-12-14,5.0578,USD/BRL PTAX (R$),1
+2020-12-15,5.0968,USD/BRL PTAX (R$),1
+2020-12-16,5.1057,USD/BRL PTAX (R$),1
+2020-12-17,5.0612,USD/BRL PTAX (R$),1
+2020-12-18,5.0986,USD/BRL PTAX (R$),1
+2020-12-21,5.1572,USD/BRL PTAX (R$),1
+2020-12-22,5.1473,USD/BRL PTAX (R$),1
+2020-12-23,5.174,USD/BRL PTAX (R$),1
+2020-12-24,5.18,USD/BRL PTAX (R$),1
+2020-12-28,5.239,USD/BRL PTAX (R$),1
+2020-12-29,5.1942,USD/BRL PTAX (R$),1
+2020-12-30,5.1967,USD/BRL PTAX (R$),1
+2020-12-31,5.1967,USD/BRL PTAX (R$),1
+2021-01-04,5.1626,USD/BRL PTAX (R$),1
+2021-01-05,5.3269,USD/BRL PTAX (R$),1
+2021-01-06,5.3182,USD/BRL PTAX (R$),1
+2021-01-07,5.3433,USD/BRL PTAX (R$),1
+2021-01-08,5.3683,USD/BRL PTAX (R$),1
+2021-01-11,5.4966,USD/BRL PTAX (R$),1
+2021-01-12,5.4637,USD/BRL PTAX (R$),1
+2021-01-13,5.307,USD/BRL PTAX (R$),1
+2021-01-14,5.2617,USD/BRL PTAX (R$),1
+2021-01-15,5.2714,USD/BRL PTAX (R$),1
+2021-01-18,5.2788,USD/BRL PTAX (R$),1
+2021-01-19,5.2945,USD/BRL PTAX (R$),1
+2021-01-20,5.3033,USD/BRL PTAX (R$),1
+2021-01-21,5.3166,USD/BRL PTAX (R$),1
+2021-01-22,5.4301,USD/BRL PTAX (R$),1
+2021-01-25,5.5089,USD/BRL PTAX (R$),1
+2021-01-26,5.3865,USD/BRL PTAX (R$),1
+2021-01-27,5.3824,USD/BRL PTAX (R$),1
+2021-01-28,5.4282,USD/BRL PTAX (R$),1
+2021-01-29,5.4759,USD/BRL PTAX (R$),1
+2021-02-01,5.4608,USD/BRL PTAX (R$),1
+2021-02-02,5.3875,USD/BRL PTAX (R$),1
+2021-02-03,5.3423,USD/BRL PTAX (R$),1
+2021-02-04,5.391,USD/BRL PTAX (R$),1
+2021-02-05,5.3884,USD/BRL PTAX (R$),1
+2021-02-08,5.367,USD/BRL PTAX (R$),1
+2021-02-09,5.4216,USD/BRL PTAX (R$),1
+2021-02-10,5.4024,USD/BRL PTAX (R$),1
+2021-02-11,5.3626,USD/BRL PTAX (R$),1
+2021-02-12,5.3815,USD/BRL PTAX (R$),1
+2021-02-17,5.4138,USD/BRL PTAX (R$),1
+2021-02-18,5.4238,USD/BRL PTAX (R$),1
+2021-02-19,5.3924,USD/BRL PTAX (R$),1
+2021-02-22,5.5044,USD/BRL PTAX (R$),1
+2021-02-23,5.449,USD/BRL PTAX (R$),1
+2021-02-24,5.4182,USD/BRL PTAX (R$),1
+2021-02-25,5.46,USD/BRL PTAX (R$),1
+2021-02-26,5.5302,USD/BRL PTAX (R$),1
+2021-03-01,5.5832,USD/BRL PTAX (R$),1
+2021-03-02,5.6844,USD/BRL PTAX (R$),1
+2021-03-03,5.7342,USD/BRL PTAX (R$),1
+2021-03-04,5.6008,USD/BRL PTAX (R$),1
+2021-03-05,5.687,USD/BRL PTAX (R$),1
+2021-03-08,5.7343,USD/BRL PTAX (R$),1
+2021-03-09,5.8397,USD/BRL PTAX (R$),1
+2021-03-10,5.7449,USD/BRL PTAX (R$),1
+2021-03-11,5.589,USD/BRL PTAX (R$),1
+2021-03-12,5.564,USD/BRL PTAX (R$),1
+2021-03-15,5.6296,USD/BRL PTAX (R$),1
+2021-03-16,5.5851,USD/BRL PTAX (R$),1
+2021-03-17,5.6579,USD/BRL PTAX (R$),1
+2021-03-18,5.5474,USD/BRL PTAX (R$),1
+2021-03-19,5.5082,USD/BRL PTAX (R$),1
+2021-03-22,5.5269,USD/BRL PTAX (R$),1
+2021-03-23,5.4951,USD/BRL PTAX (R$),1
+2021-03-24,5.533,USD/BRL PTAX (R$),1
+2021-03-25,5.6585,USD/BRL PTAX (R$),1
+2021-03-26,5.7042,USD/BRL PTAX (R$),1
+2021-03-29,5.7925,USD/BRL PTAX (R$),1
+2021-03-30,5.7642,USD/BRL PTAX (R$),1
+2021-03-31,5.6973,USD/BRL PTAX (R$),1
+2021-04-01,5.6849,USD/BRL PTAX (R$),1
+2021-04-05,5.6579,USD/BRL PTAX (R$),1
+2021-04-06,5.6263,USD/BRL PTAX (R$),1
+2021-04-07,5.5864,USD/BRL PTAX (R$),1
+2021-04-08,5.5817,USD/BRL PTAX (R$),1
+2021-04-09,5.6445,USD/BRL PTAX (R$),1
+2021-04-12,5.6582,USD/BRL PTAX (R$),1
+2021-04-13,5.7064,USD/BRL PTAX (R$),1
+2021-04-14,5.6936,USD/BRL PTAX (R$),1
+2021-04-15,5.6234,USD/BRL PTAX (R$),1
+2021-04-16,5.6328,USD/BRL PTAX (R$),1
+2021-04-19,5.575,USD/BRL PTAX (R$),1
+2021-04-20,5.5266,USD/BRL PTAX (R$),1
+2021-04-22,5.497,USD/BRL PTAX (R$),1
+2021-04-23,5.4787,USD/BRL PTAX (R$),1
+2021-04-26,5.4566,USD/BRL PTAX (R$),1
+2021-04-27,5.4424,USD/BRL PTAX (R$),1
+2021-04-28,5.4005,USD/BRL PTAX (R$),1
+2021-04-29,5.3662,USD/BRL PTAX (R$),1
+2021-04-30,5.4036,USD/BRL PTAX (R$),1
+2021-05-03,5.4087,USD/BRL PTAX (R$),1
+2021-05-04,5.4505,USD/BRL PTAX (R$),1
+2021-05-05,5.3872,USD/BRL PTAX (R$),1
+2021-05-06,5.2897,USD/BRL PTAX (R$),1
+2021-05-07,5.2217,USD/BRL PTAX (R$),1
+2021-05-10,5.2227,USD/BRL PTAX (R$),1
+2021-05-11,5.2403,USD/BRL PTAX (R$),1
+2021-05-12,5.2353,USD/BRL PTAX (R$),1
+2021-05-13,5.2815,USD/BRL PTAX (R$),1
+2021-05-14,5.2701,USD/BRL PTAX (R$),1
+2021-05-17,5.2755,USD/BRL PTAX (R$),1
+2021-05-18,5.2588,USD/BRL PTAX (R$),1
+2021-05-19,5.2822,USD/BRL PTAX (R$),1
+2021-05-20,5.2905,USD/BRL PTAX (R$),1
+2021-05-21,5.3027,USD/BRL PTAX (R$),1
+2021-05-24,5.3198,USD/BRL PTAX (R$),1
+2021-05-25,5.3143,USD/BRL PTAX (R$),1
+2021-05-26,5.3164,USD/BRL PTAX (R$),1
+2021-05-27,5.284,USD/BRL PTAX (R$),1
+2021-05-28,5.2281,USD/BRL PTAX (R$),1
+2021-05-31,5.2322,USD/BRL PTAX (R$),1
+2021-06-01,5.1636,USD/BRL PTAX (R$),1
+2021-06-02,5.1147,USD/BRL PTAX (R$),1
+2021-06-04,5.0666,USD/BRL PTAX (R$),1
+2021-06-07,5.0498,USD/BRL PTAX (R$),1
+2021-06-08,5.0489,USD/BRL PTAX (R$),1
+2021-06-09,5.0533,USD/BRL PTAX (R$),1
+2021-06-10,5.0635,USD/BRL PTAX (R$),1
+2021-06-11,5.119,USD/BRL PTAX (R$),1
+2021-06-14,5.0707,USD/BRL PTAX (R$),1
+2021-06-15,5.0874,USD/BRL PTAX (R$),1
+2021-06-16,5.0207,USD/BRL PTAX (R$),1
+2021-06-17,5.0359,USD/BRL PTAX (R$),1
+2021-06-18,5.0314,USD/BRL PTAX (R$),1
+2021-06-21,5.0373,USD/BRL PTAX (R$),1
+2021-06-22,5.0178,USD/BRL PTAX (R$),1
+2021-06-23,4.9519,USD/BRL PTAX (R$),1
+2021-06-24,4.9277,USD/BRL PTAX (R$),1
+2021-06-25,4.9206,USD/BRL PTAX (R$),1
+2021-06-28,4.942,USD/BRL PTAX (R$),1
+2021-06-29,4.945,USD/BRL PTAX (R$),1
+2021-06-30,5.0022,USD/BRL PTAX (R$),1
+2021-07-01,5.0055,USD/BRL PTAX (R$),1
+2021-07-02,5.0293,USD/BRL PTAX (R$),1
+2021-07-05,5.0749,USD/BRL PTAX (R$),1
+2021-07-06,5.1645,USD/BRL PTAX (R$),1
+2021-07-07,5.2328,USD/BRL PTAX (R$),1
+2021-07-08,5.2587,USD/BRL PTAX (R$),1
+2021-07-09,5.2393,USD/BRL PTAX (R$),1
+2021-07-12,5.2239,USD/BRL PTAX (R$),1
+2021-07-13,5.177,USD/BRL PTAX (R$),1
+2021-07-14,5.088,USD/BRL PTAX (R$),1
+2021-07-15,5.1,USD/BRL PTAX (R$),1
+2021-07-16,5.0941,USD/BRL PTAX (R$),1
+2021-07-19,5.1978,USD/BRL PTAX (R$),1
+2021-07-20,5.2465,USD/BRL PTAX (R$),1
+2021-07-21,5.2516,USD/BRL PTAX (R$),1
+2021-07-22,5.1978,USD/BRL PTAX (R$),1
+2021-07-23,5.1701,USD/BRL PTAX (R$),1
+2021-07-26,5.1863,USD/BRL PTAX (R$),1
+2021-07-27,5.1669,USD/BRL PTAX (R$),1
+2021-07-28,5.1527,USD/BRL PTAX (R$),1
+2021-07-29,5.0682,USD/BRL PTAX (R$),1
+2021-07-30,5.1216,USD/BRL PTAX (R$),1
+2021-08-02,5.1379,USD/BRL PTAX (R$),1
+2021-08-03,5.2464,USD/BRL PTAX (R$),1
+2021-08-04,5.2091,USD/BRL PTAX (R$),1
+2021-08-05,5.1464,USD/BRL PTAX (R$),1
+2021-08-06,5.241,USD/BRL PTAX (R$),1
+2021-08-09,5.2774,USD/BRL PTAX (R$),1
+2021-08-10,5.2217,USD/BRL PTAX (R$),1
+2021-08-11,5.2013,USD/BRL PTAX (R$),1
+2021-08-12,5.2351,USD/BRL PTAX (R$),1
+2021-08-13,5.2474,USD/BRL PTAX (R$),1
+2021-08-16,5.2495,USD/BRL PTAX (R$),1
+2021-08-17,5.2585,USD/BRL PTAX (R$),1
+2021-08-18,5.3025,USD/BRL PTAX (R$),1
+2021-08-19,5.418,USD/BRL PTAX (R$),1
+2021-08-20,5.4274,USD/BRL PTAX (R$),1
+2021-08-23,5.3686,USD/BRL PTAX (R$),1
+2021-08-24,5.3017,USD/BRL PTAX (R$),1
+2021-08-25,5.2465,USD/BRL PTAX (R$),1
+2021-08-26,5.2429,USD/BRL PTAX (R$),1
+2021-08-27,5.22,USD/BRL PTAX (R$),1
+2021-08-30,5.1952,USD/BRL PTAX (R$),1
+2021-08-31,5.1433,USD/BRL PTAX (R$),1
+2021-09-01,5.1576,USD/BRL PTAX (R$),1
+2021-09-02,5.1735,USD/BRL PTAX (R$),1
+2021-09-03,5.1685,USD/BRL PTAX (R$),1
+2021-09-06,5.1773,USD/BRL PTAX (R$),1
+2021-09-08,5.2524,USD/BRL PTAX (R$),1
+2021-09-09,5.2825,USD/BRL PTAX (R$),1
+2021-09-10,5.2158,USD/BRL PTAX (R$),1
+2021-09-13,5.219,USD/BRL PTAX (R$),1
+2021-09-14,5.226,USD/BRL PTAX (R$),1
+2021-09-15,5.2576,USD/BRL PTAX (R$),1
+2021-09-16,5.2594,USD/BRL PTAX (R$),1
+2021-09-17,5.3103,USD/BRL PTAX (R$),1
+2021-09-20,5.3332,USD/BRL PTAX (R$),1
+2021-09-21,5.3044,USD/BRL PTAX (R$),1
+2021-09-22,5.2783,USD/BRL PTAX (R$),1
+2021-09-23,5.2891,USD/BRL PTAX (R$),1
+2021-09-24,5.3435,USD/BRL PTAX (R$),1
+2021-09-27,5.3478,USD/BRL PTAX (R$),1
+2021-09-28,5.4206,USD/BRL PTAX (R$),1
+2021-09-29,5.4173,USD/BRL PTAX (R$),1
+2021-09-30,5.4394,USD/BRL PTAX (R$),1
+2021-10-01,5.3911,USD/BRL PTAX (R$),1
+2021-10-04,5.4204,USD/BRL PTAX (R$),1
+2021-10-05,5.4611,USD/BRL PTAX (R$),1
+2021-10-06,5.5097,USD/BRL PTAX (R$),1
+2021-10-07,5.514,USD/BRL PTAX (R$),1
+2021-10-08,5.5084,USD/BRL PTAX (R$),1
+2021-10-11,5.5161,USD/BRL PTAX (R$),1
+2021-10-13,5.5471,USD/BRL PTAX (R$),1
+2021-10-14,5.4988,USD/BRL PTAX (R$),1
+2021-10-15,5.451,USD/BRL PTAX (R$),1
+2021-10-18,5.5193,USD/BRL PTAX (R$),1
+2021-10-19,5.5521,USD/BRL PTAX (R$),1
+2021-10-20,5.5571,USD/BRL PTAX (R$),1
+2021-10-21,5.6423,USD/BRL PTAX (R$),1
+2021-10-22,5.7117,USD/BRL PTAX (R$),1
+2021-10-25,5.5973,USD/BRL PTAX (R$),1
+2021-10-26,5.58,USD/BRL PTAX (R$),1
+2021-10-27,5.5667,USD/BRL PTAX (R$),1
+2021-10-28,5.6124,USD/BRL PTAX (R$),1
+2021-10-29,5.643,USD/BRL PTAX (R$),1
+2021-11-01,5.6694,USD/BRL PTAX (R$),1
+2021-11-03,5.6672,USD/BRL PTAX (R$),1
+2021-11-04,5.5942,USD/BRL PTAX (R$),1
+2021-11-05,5.5455,USD/BRL PTAX (R$),1
+2021-11-08,5.5627,USD/BRL PTAX (R$),1
+2021-11-09,5.4957,USD/BRL PTAX (R$),1
+2021-11-10,5.459,USD/BRL PTAX (R$),1
+2021-11-11,5.4171,USD/BRL PTAX (R$),1
+2021-11-12,5.4199,USD/BRL PTAX (R$),1
+2021-11-16,5.4772,USD/BRL PTAX (R$),1
+2021-11-17,5.4993,USD/BRL PTAX (R$),1
+2021-11-18,5.547,USD/BRL PTAX (R$),1
+2021-11-19,5.5584,USD/BRL PTAX (R$),1
+2021-11-22,5.5841,USD/BRL PTAX (R$),1
+2021-11-23,5.6456,USD/BRL PTAX (R$),1
+2021-11-24,5.6027,USD/BRL PTAX (R$),1
+2021-11-25,5.574,USD/BRL PTAX (R$),1
+2021-11-26,5.5865,USD/BRL PTAX (R$),1
+2021-11-29,5.6118,USD/BRL PTAX (R$),1
+2021-11-30,5.6199,USD/BRL PTAX (R$),1
+2021-12-01,5.6168,USD/BRL PTAX (R$),1
+2021-12-02,5.6345,USD/BRL PTAX (R$),1
+2021-12-03,5.6432,USD/BRL PTAX (R$),1
+2021-12-06,5.6877,USD/BRL PTAX (R$),1
+2021-12-07,5.6411,USD/BRL PTAX (R$),1
+2021-12-08,5.5779,USD/BRL PTAX (R$),1
+2021-12-09,5.5564,USD/BRL PTAX (R$),1
+2021-12-10,5.5931,USD/BRL PTAX (R$),1
+2021-12-13,5.6357,USD/BRL PTAX (R$),1
+2021-12-14,5.6461,USD/BRL PTAX (R$),1
+2021-12-15,5.7127,USD/BRL PTAX (R$),1
+2021-12-16,5.6963,USD/BRL PTAX (R$),1
+2021-12-17,5.6959,USD/BRL PTAX (R$),1
+2021-12-20,5.7055,USD/BRL PTAX (R$),1
+2021-12-21,5.7372,USD/BRL PTAX (R$),1
+2021-12-22,5.7201,USD/BRL PTAX (R$),1
+2021-12-23,5.691,USD/BRL PTAX (R$),1
+2021-12-24,5.6591,USD/BRL PTAX (R$),1
+2021-12-27,5.665,USD/BRL PTAX (R$),1
+2021-12-28,5.6438,USD/BRL PTAX (R$),1
+2021-12-29,5.6619,USD/BRL PTAX (R$),1
+2021-12-30,5.5805,USD/BRL PTAX (R$),1
+2021-12-31,5.5805,USD/BRL PTAX (R$),1
+2022-01-03,5.6309,USD/BRL PTAX (R$),1
+2022-01-04,5.6776,USD/BRL PTAX (R$),1
+2022-01-05,5.6628,USD/BRL PTAX (R$),1
+2022-01-06,5.7042,USD/BRL PTAX (R$),1
+2022-01-07,5.6753,USD/BRL PTAX (R$),1
+2022-01-10,5.6736,USD/BRL PTAX (R$),1
+2022-01-11,5.6351,USD/BRL PTAX (R$),1
+2022-01-12,5.5611,USD/BRL PTAX (R$),1
+2022-01-13,5.5246,USD/BRL PTAX (R$),1
+2022-01-14,5.5349,USD/BRL PTAX (R$),1
+2022-01-17,5.5058,USD/BRL PTAX (R$),1
+2022-01-18,5.5213,USD/BRL PTAX (R$),1
+2022-01-19,5.4978,USD/BRL PTAX (R$),1
+2022-01-20,5.4166,USD/BRL PTAX (R$),1
+2022-01-21,5.4401,USD/BRL PTAX (R$),1
+2022-01-24,5.491,USD/BRL PTAX (R$),1
+2022-01-25,5.4971,USD/BRL PTAX (R$),1
+2022-01-26,5.4324,USD/BRL PTAX (R$),1
+2022-01-27,5.3812,USD/BRL PTAX (R$),1
+2022-01-28,5.3954,USD/BRL PTAX (R$),1
+2022-01-31,5.3574,USD/BRL PTAX (R$),1
+2022-02-01,5.281,USD/BRL PTAX (R$),1
+2022-02-02,5.2956,USD/BRL PTAX (R$),1
+2022-02-03,5.3025,USD/BRL PTAX (R$),1
+2022-02-04,5.3284,USD/BRL PTAX (R$),1
+2022-02-07,5.2913,USD/BRL PTAX (R$),1
+2022-02-08,5.2699,USD/BRL PTAX (R$),1
+2022-02-09,5.2735,USD/BRL PTAX (R$),1
+2022-02-10,5.2101,USD/BRL PTAX (R$),1
+2022-02-11,5.1987,USD/BRL PTAX (R$),1
+2022-02-14,5.2106,USD/BRL PTAX (R$),1
+2022-02-15,5.1881,USD/BRL PTAX (R$),1
+2022-02-16,5.163,USD/BRL PTAX (R$),1
+2022-02-17,5.1565,USD/BRL PTAX (R$),1
+2022-02-18,5.1339,USD/BRL PTAX (R$),1
+2022-02-21,5.0997,USD/BRL PTAX (R$),1
+2022-02-22,5.0611,USD/BRL PTAX (R$),1
+2022-02-23,5.0143,USD/BRL PTAX (R$),1
+2022-02-24,5.1174,USD/BRL PTAX (R$),1
+2022-02-25,5.1394,USD/BRL PTAX (R$),1
+2022-03-02,5.1347,USD/BRL PTAX (R$),1
+2022-03-03,5.0479,USD/BRL PTAX (R$),1
+2022-03-04,5.0758,USD/BRL PTAX (R$),1
+2022-03-07,5.0579,USD/BRL PTAX (R$),1
+2022-03-08,5.0903,USD/BRL PTAX (R$),1
+2022-03-09,5.0094,USD/BRL PTAX (R$),1
+2022-03-10,5.0513,USD/BRL PTAX (R$),1
+2022-03-11,5.0255,USD/BRL PTAX (R$),1
+2022-03-14,5.0647,USD/BRL PTAX (R$),1
+2022-03-15,5.1314,USD/BRL PTAX (R$),1
+2022-03-16,5.1287,USD/BRL PTAX (R$),1
+2022-03-17,5.0764,USD/BRL PTAX (R$),1
+2022-03-18,5.0411,USD/BRL PTAX (R$),1
+2022-03-21,4.9666,USD/BRL PTAX (R$),1
+2022-03-22,4.9208,USD/BRL PTAX (R$),1
+2022-03-23,4.8704,USD/BRL PTAX (R$),1
+2022-03-24,4.8067,USD/BRL PTAX (R$),1
+2022-03-25,4.7782,USD/BRL PTAX (R$),1
+2022-03-28,4.7905,USD/BRL PTAX (R$),1
+2022-03-29,4.7486,USD/BRL PTAX (R$),1
+2022-03-30,4.7497,USD/BRL PTAX (R$),1
+2022-03-31,4.7378,USD/BRL PTAX (R$),1
+2022-04-01,4.6984,USD/BRL PTAX (R$),1
+2022-04-04,4.6175,USD/BRL PTAX (R$),1
+2022-04-05,4.64,USD/BRL PTAX (R$),1
+2022-04-06,4.6967,USD/BRL PTAX (R$),1
+2022-04-07,4.7422,USD/BRL PTAX (R$),1
+2022-04-08,4.7513,USD/BRL PTAX (R$),1
+2022-04-11,4.7025,USD/BRL PTAX (R$),1
+2022-04-12,4.6483,USD/BRL PTAX (R$),1
+2022-04-13,4.6811,USD/BRL PTAX (R$),1
+2022-04-14,4.7158,USD/BRL PTAX (R$),1
+2022-04-18,4.6746,USD/BRL PTAX (R$),1
+2022-04-19,4.6664,USD/BRL PTAX (R$),1
+2022-04-20,4.6397,USD/BRL PTAX (R$),1
+2022-04-22,4.7326,USD/BRL PTAX (R$),1
+2022-04-25,4.8818,USD/BRL PTAX (R$),1
+2022-04-26,4.9666,USD/BRL PTAX (R$),1
+2022-04-27,5.0167,USD/BRL PTAX (R$),1
+2022-04-28,5.011,USD/BRL PTAX (R$),1
+2022-04-29,4.9191,USD/BRL PTAX (R$),1
+2022-05-02,5.0266,USD/BRL PTAX (R$),1
+2022-05-03,5.0167,USD/BRL PTAX (R$),1
+2022-05-04,5.0093,USD/BRL PTAX (R$),1
+2022-05-05,5.0051,USD/BRL PTAX (R$),1
+2022-05-06,5.075,USD/BRL PTAX (R$),1
+2022-05-09,5.134,USD/BRL PTAX (R$),1
+2022-05-10,5.139,USD/BRL PTAX (R$),1
+2022-05-11,5.1244,USD/BRL PTAX (R$),1
+2022-05-12,5.1482,USD/BRL PTAX (R$),1
+2022-05-13,5.1075,USD/BRL PTAX (R$),1
+2022-05-16,5.0666,USD/BRL PTAX (R$),1
+2022-05-17,4.9676,USD/BRL PTAX (R$),1
+2022-05-18,4.9592,USD/BRL PTAX (R$),1
+2022-05-19,4.9198,USD/BRL PTAX (R$),1
+2022-05-20,4.8777,USD/BRL PTAX (R$),1
+2022-05-23,4.7973,USD/BRL PTAX (R$),1
+2022-05-24,4.8106,USD/BRL PTAX (R$),1
+2022-05-25,4.8359,USD/BRL PTAX (R$),1
+2022-05-26,4.7967,USD/BRL PTAX (R$),1
+2022-05-27,4.7434,USD/BRL PTAX (R$),1
+2022-05-30,4.7216,USD/BRL PTAX (R$),1
+2022-05-31,4.7289,USD/BRL PTAX (R$),1
+2022-06-01,4.7765,USD/BRL PTAX (R$),1
+2022-06-02,4.7879,USD/BRL PTAX (R$),1
+2022-06-03,4.7956,USD/BRL PTAX (R$),1
+2022-06-06,4.7839,USD/BRL PTAX (R$),1
+2022-06-07,4.8909,USD/BRL PTAX (R$),1
+2022-06-08,4.8711,USD/BRL PTAX (R$),1
+2022-06-09,4.8951,USD/BRL PTAX (R$),1
+2022-06-10,4.9836,USD/BRL PTAX (R$),1
+2022-06-13,5.1033,USD/BRL PTAX (R$),1
+2022-06-14,5.1203,USD/BRL PTAX (R$),1
+2022-06-15,5.1119,USD/BRL PTAX (R$),1
+2022-06-17,5.1313,USD/BRL PTAX (R$),1
+2022-06-20,5.1641,USD/BRL PTAX (R$),1
+2022-06-21,5.1462,USD/BRL PTAX (R$),1
+2022-06-22,5.1509,USD/BRL PTAX (R$),1
+2022-06-23,5.1833,USD/BRL PTAX (R$),1
+2022-06-24,5.2334,USD/BRL PTAX (R$),1
+2022-06-27,5.2214,USD/BRL PTAX (R$),1
+2022-06-28,5.2179,USD/BRL PTAX (R$),1
+2022-06-29,5.2268,USD/BRL PTAX (R$),1
+2022-06-30,5.238,USD/BRL PTAX (R$),1
+2022-07-01,5.3142,USD/BRL PTAX (R$),1
+2022-07-04,5.3038,USD/BRL PTAX (R$),1
+2022-07-05,5.3899,USD/BRL PTAX (R$),1
+2022-07-06,5.4321,USD/BRL PTAX (R$),1
+2022-07-07,5.364,USD/BRL PTAX (R$),1
+2022-07-08,5.3086,USD/BRL PTAX (R$),1
+2022-07-11,5.3477,USD/BRL PTAX (R$),1
+2022-07-12,5.412,USD/BRL PTAX (R$),1
+2022-07-13,5.3992,USD/BRL PTAX (R$),1
+2022-07-14,5.4568,USD/BRL PTAX (R$),1
+2022-07-15,5.4014,USD/BRL PTAX (R$),1
+2022-07-18,5.3675,USD/BRL PTAX (R$),1
+2022-07-19,5.3904,USD/BRL PTAX (R$),1
+2022-07-20,5.4288,USD/BRL PTAX (R$),1
+2022-07-21,5.475,USD/BRL PTAX (R$),1
+2022-07-22,5.4522,USD/BRL PTAX (R$),1
+2022-07-25,5.4144,USD/BRL PTAX (R$),1
+2022-07-26,5.3608,USD/BRL PTAX (R$),1
+2022-07-27,5.3074,USD/BRL PTAX (R$),1
+2022-07-28,5.2149,USD/BRL PTAX (R$),1
+2022-07-29,5.1884,USD/BRL PTAX (R$),1
+2022-08-01,5.1606,USD/BRL PTAX (R$),1
+2022-08-02,5.2329,USD/BRL PTAX (R$),1
+2022-08-03,5.2846,USD/BRL PTAX (R$),1
+2022-08-04,5.2409,USD/BRL PTAX (R$),1
+2022-08-05,5.2165,USD/BRL PTAX (R$),1
+2022-08-08,5.1247,USD/BRL PTAX (R$),1
+2022-08-09,5.1224,USD/BRL PTAX (R$),1
+2022-08-10,5.0497,USD/BRL PTAX (R$),1
+2022-08-11,5.1127,USD/BRL PTAX (R$),1
+2022-08-12,5.1023,USD/BRL PTAX (R$),1
+2022-08-15,5.0925,USD/BRL PTAX (R$),1
+2022-08-16,5.134,USD/BRL PTAX (R$),1
+2022-08-17,5.1784,USD/BRL PTAX (R$),1
+2022-08-18,5.1773,USD/BRL PTAX (R$),1
+2022-08-19,5.1961,USD/BRL PTAX (R$),1
+2022-08-22,5.1709,USD/BRL PTAX (R$),1
+2022-08-23,5.103,USD/BRL PTAX (R$),1
+2022-08-24,5.105,USD/BRL PTAX (R$),1
+2022-08-25,5.1173,USD/BRL PTAX (R$),1
+2022-08-26,5.0903,USD/BRL PTAX (R$),1
+2022-08-29,5.0428,USD/BRL PTAX (R$),1
+2022-08-30,5.0617,USD/BRL PTAX (R$),1
+2022-08-31,5.179,USD/BRL PTAX (R$),1
+2022-09-01,5.2007,USD/BRL PTAX (R$),1
+2022-09-02,5.1878,USD/BRL PTAX (R$),1
+2022-09-05,5.1686,USD/BRL PTAX (R$),1
+2022-09-06,5.2228,USD/BRL PTAX (R$),1
+2022-09-08,5.2155,USD/BRL PTAX (R$),1
+2022-09-09,5.1633,USD/BRL PTAX (R$),1
+2022-09-12,5.1183,USD/BRL PTAX (R$),1
+2022-09-13,5.1794,USD/BRL PTAX (R$),1
+2022-09-14,5.1774,USD/BRL PTAX (R$),1
+2022-09-15,5.2211,USD/BRL PTAX (R$),1
+2022-09-16,5.2882,USD/BRL PTAX (R$),1
+2022-09-19,5.2367,USD/BRL PTAX (R$),1
+2022-09-20,5.1705,USD/BRL PTAX (R$),1
+2022-09-21,5.1692,USD/BRL PTAX (R$),1
+2022-09-22,5.1677,USD/BRL PTAX (R$),1
+2022-09-23,5.2257,USD/BRL PTAX (R$),1
+2022-09-26,5.3548,USD/BRL PTAX (R$),1
+2022-09-27,5.3508,USD/BRL PTAX (R$),1
+2022-09-28,5.3594,USD/BRL PTAX (R$),1
+2022-09-29,5.3916,USD/BRL PTAX (R$),1
+2022-09-30,5.4066,USD/BRL PTAX (R$),1
+2022-10-03,5.2002,USD/BRL PTAX (R$),1
+2022-10-04,5.1411,USD/BRL PTAX (R$),1
+2022-10-05,5.2144,USD/BRL PTAX (R$),1
+2022-10-06,5.2009,USD/BRL PTAX (R$),1
+2022-10-07,5.2221,USD/BRL PTAX (R$),1
+2022-10-10,5.1941,USD/BRL PTAX (R$),1
+2022-10-11,5.2068,USD/BRL PTAX (R$),1
+2022-10-13,5.3017,USD/BRL PTAX (R$),1
+2022-10-14,5.2824,USD/BRL PTAX (R$),1
+2022-10-17,5.2713,USD/BRL PTAX (R$),1
+2022-10-18,5.2697,USD/BRL PTAX (R$),1
+2022-10-19,5.2808,USD/BRL PTAX (R$),1
+2022-10-20,5.2176,USD/BRL PTAX (R$),1
+2022-10-21,5.1919,USD/BRL PTAX (R$),1
+2022-10-24,5.2744,USD/BRL PTAX (R$),1
+2022-10-25,5.3091,USD/BRL PTAX (R$),1
+2022-10-26,5.3248,USD/BRL PTAX (R$),1
+2022-10-27,5.3003,USD/BRL PTAX (R$),1
+2022-10-28,5.3454,USD/BRL PTAX (R$),1
+2022-10-31,5.257,USD/BRL PTAX (R$),1
+2022-11-01,5.15,USD/BRL PTAX (R$),1
+2022-11-03,5.1349,USD/BRL PTAX (R$),1
+2022-11-04,5.036,USD/BRL PTAX (R$),1
+2022-11-07,5.0886,USD/BRL PTAX (R$),1
+2022-11-08,5.1744,USD/BRL PTAX (R$),1
+2022-11-09,5.1629,USD/BRL PTAX (R$),1
+2022-11-10,5.3064,USD/BRL PTAX (R$),1
+2022-11-11,5.3051,USD/BRL PTAX (R$),1
+2022-11-14,5.3013,USD/BRL PTAX (R$),1
+2022-11-16,5.3204,USD/BRL PTAX (R$),1
+2022-11-17,5.4655,USD/BRL PTAX (R$),1
+2022-11-18,5.3477,USD/BRL PTAX (R$),1
+2022-11-21,5.3259,USD/BRL PTAX (R$),1
+2022-11-22,5.3339,USD/BRL PTAX (R$),1
+2022-11-23,5.393,USD/BRL PTAX (R$),1
+2022-11-24,5.3149,USD/BRL PTAX (R$),1
+2022-11-25,5.3508,USD/BRL PTAX (R$),1
+2022-11-28,5.3796,USD/BRL PTAX (R$),1
+2022-11-29,5.3076,USD/BRL PTAX (R$),1
+2022-11-30,5.2941,USD/BRL PTAX (R$),1
+2022-12-01,5.1948,USD/BRL PTAX (R$),1
+2022-12-02,5.1974,USD/BRL PTAX (R$),1
+2022-12-05,5.2464,USD/BRL PTAX (R$),1
+2022-12-06,5.2396,USD/BRL PTAX (R$),1
+2022-12-07,5.2208,USD/BRL PTAX (R$),1
+2022-12-08,5.2091,USD/BRL PTAX (R$),1
+2022-12-09,5.2396,USD/BRL PTAX (R$),1
+2022-12-12,5.3066,USD/BRL PTAX (R$),1
+2022-12-13,5.2669,USD/BRL PTAX (R$),1
+2022-12-14,5.3406,USD/BRL PTAX (R$),1
+2022-12-15,5.3183,USD/BRL PTAX (R$),1
+2022-12-16,5.2806,USD/BRL PTAX (R$),1
+2022-12-19,5.316,USD/BRL PTAX (R$),1
+2022-12-20,5.2427,USD/BRL PTAX (R$),1
+2022-12-21,5.2031,USD/BRL PTAX (R$),1
+2022-12-22,5.1871,USD/BRL PTAX (R$),1
+2022-12-23,5.1445,USD/BRL PTAX (R$),1
+2022-12-26,5.1872,USD/BRL PTAX (R$),1
+2022-12-27,5.2832,USD/BRL PTAX (R$),1
+2022-12-28,5.2736,USD/BRL PTAX (R$),1
+2022-12-29,5.2177,USD/BRL PTAX (R$),1
+2022-12-30,5.2177,USD/BRL PTAX (R$),1
+2023-01-02,5.3436,USD/BRL PTAX (R$),1
+2023-01-03,5.3759,USD/BRL PTAX (R$),1
+2023-01-04,5.4459,USD/BRL PTAX (R$),1
+2023-01-05,5.4026,USD/BRL PTAX (R$),1
+2023-01-06,5.2855,USD/BRL PTAX (R$),1
+2023-01-09,5.2967,USD/BRL PTAX (R$),1
+2023-01-10,5.2395,USD/BRL PTAX (R$),1
+2023-01-11,5.202,USD/BRL PTAX (R$),1
+2023-01-12,5.14,USD/BRL PTAX (R$),1
+2023-01-13,5.1146,USD/BRL PTAX (R$),1
+2023-01-16,5.1115,USD/BRL PTAX (R$),1
+2023-01-17,5.1203,USD/BRL PTAX (R$),1
+2023-01-18,5.0909,USD/BRL PTAX (R$),1
+2023-01-19,5.2144,USD/BRL PTAX (R$),1
+2023-01-20,5.1986,USD/BRL PTAX (R$),1
+2023-01-23,5.1922,USD/BRL PTAX (R$),1
+2023-01-24,5.1696,USD/BRL PTAX (R$),1
+2023-01-25,5.1042,USD/BRL PTAX (R$),1
+2023-01-26,5.0951,USD/BRL PTAX (R$),1
+2023-01-27,5.0767,USD/BRL PTAX (R$),1
+2023-01-30,5.0959,USD/BRL PTAX (R$),1
+2023-01-31,5.0993,USD/BRL PTAX (R$),1
+2023-02-01,5.0721,USD/BRL PTAX (R$),1
+2023-02-02,4.9901,USD/BRL PTAX (R$),1
+2023-02-03,5.103,USD/BRL PTAX (R$),1
+2023-02-06,5.1763,USD/BRL PTAX (R$),1
+2023-02-07,5.1695,USD/BRL PTAX (R$),1
+2023-02-08,5.2036,USD/BRL PTAX (R$),1
+2023-02-09,5.2315,USD/BRL PTAX (R$),1
+2023-02-10,5.2526,USD/BRL PTAX (R$),1
+2023-02-13,5.1834,USD/BRL PTAX (R$),1
+2023-02-14,5.1507,USD/BRL PTAX (R$),1
+2023-02-15,5.2243,USD/BRL PTAX (R$),1
+2023-02-16,5.2432,USD/BRL PTAX (R$),1
+2023-02-17,5.2012,USD/BRL PTAX (R$),1
+2023-02-22,5.173,USD/BRL PTAX (R$),1
+2023-02-23,5.133,USD/BRL PTAX (R$),1
+2023-02-24,5.1791,USD/BRL PTAX (R$),1
+2023-02-27,5.196,USD/BRL PTAX (R$),1
+2023-02-28,5.2078,USD/BRL PTAX (R$),1
+2023-03-01,5.207,USD/BRL PTAX (R$),1
+2023-03-02,5.208,USD/BRL PTAX (R$),1
+2023-03-03,5.2037,USD/BRL PTAX (R$),1
+2023-03-06,5.197,USD/BRL PTAX (R$),1
+2023-03-07,5.1901,USD/BRL PTAX (R$),1
+2023-03-08,5.1387,USD/BRL PTAX (R$),1
+2023-03-09,5.1353,USD/BRL PTAX (R$),1
+2023-03-10,5.1822,USD/BRL PTAX (R$),1
+2023-03-13,5.24,USD/BRL PTAX (R$),1
+2023-03-14,5.2362,USD/BRL PTAX (R$),1
+2023-03-15,5.2981,USD/BRL PTAX (R$),1
+2023-03-16,5.2892,USD/BRL PTAX (R$),1
+2023-03-17,5.2679,USD/BRL PTAX (R$),1
+2023-03-20,5.2467,USD/BRL PTAX (R$),1
+2023-03-21,5.2444,USD/BRL PTAX (R$),1
+2023-03-22,5.2648,USD/BRL PTAX (R$),1
+2023-03-23,5.2632,USD/BRL PTAX (R$),1
+2023-03-24,5.2921,USD/BRL PTAX (R$),1
+2023-03-27,5.2306,USD/BRL PTAX (R$),1
+2023-03-28,5.1733,USD/BRL PTAX (R$),1
+2023-03-29,5.1493,USD/BRL PTAX (R$),1
+2023-03-30,5.1254,USD/BRL PTAX (R$),1
+2023-03-31,5.0804,USD/BRL PTAX (R$),1
+2023-04-03,5.0637,USD/BRL PTAX (R$),1
+2023-04-04,5.0762,USD/BRL PTAX (R$),1
+2023-04-05,5.0447,USD/BRL PTAX (R$),1
+2023-04-06,5.0683,USD/BRL PTAX (R$),1
+2023-04-10,5.0834,USD/BRL PTAX (R$),1
+2023-04-11,5.0128,USD/BRL PTAX (R$),1
+2023-04-12,4.9496,USD/BRL PTAX (R$),1
+2023-04-13,4.9097,USD/BRL PTAX (R$),1
+2023-04-14,4.9455,USD/BRL PTAX (R$),1
+2023-04-17,4.9421,USD/BRL PTAX (R$),1
+2023-04-18,4.9678,USD/BRL PTAX (R$),1
+2023-04-19,5.0467,USD/BRL PTAX (R$),1
+2023-04-20,5.0497,USD/BRL PTAX (R$),1
+2023-04-24,5.0595,USD/BRL PTAX (R$),1
+2023-04-25,5.0613,USD/BRL PTAX (R$),1
+2023-04-26,5.0585,USD/BRL PTAX (R$),1
+2023-04-27,5.015,USD/BRL PTAX (R$),1
+2023-04-28,5.0007,USD/BRL PTAX (R$),1
+2023-05-02,5.0334,USD/BRL PTAX (R$),1
+2023-05-03,5.0227,USD/BRL PTAX (R$),1
+2023-05-04,5.0106,USD/BRL PTAX (R$),1
+2023-05-05,4.9696,USD/BRL PTAX (R$),1
+2023-05-08,4.9696,USD/BRL PTAX (R$),1
+2023-05-09,5.0007,USD/BRL PTAX (R$),1
+2023-05-10,4.9547,USD/BRL PTAX (R$),1
+2023-05-11,4.9696,USD/BRL PTAX (R$),1
+2023-05-12,4.9234,USD/BRL PTAX (R$),1
+2023-05-15,4.9103,USD/BRL PTAX (R$),1
+2023-05-16,4.9122,USD/BRL PTAX (R$),1
+2023-05-17,4.9513,USD/BRL PTAX (R$),1
+2023-05-18,4.9647,USD/BRL PTAX (R$),1
+2023-05-19,4.9858,USD/BRL PTAX (R$),1
+2023-05-22,4.968,USD/BRL PTAX (R$),1
+2023-05-23,4.9674,USD/BRL PTAX (R$),1
+2023-05-24,4.9474,USD/BRL PTAX (R$),1
+2023-05-25,4.999,USD/BRL PTAX (R$),1
+2023-05-26,5.0114,USD/BRL PTAX (R$),1
+2023-05-29,4.9954,USD/BRL PTAX (R$),1
+2023-05-30,5.0593,USD/BRL PTAX (R$),1
+2023-05-31,5.0959,USD/BRL PTAX (R$),1
+2023-06-01,5.035,USD/BRL PTAX (R$),1
+2023-06-02,4.9558,USD/BRL PTAX (R$),1
+2023-06-05,4.9236,USD/BRL PTAX (R$),1
+2023-06-06,4.9292,USD/BRL PTAX (R$),1
+2023-06-07,4.9119,USD/BRL PTAX (R$),1
+2023-06-09,4.8922,USD/BRL PTAX (R$),1
+2023-06-12,4.8832,USD/BRL PTAX (R$),1
+2023-06-13,4.8533,USD/BRL PTAX (R$),1
+2023-06-14,4.8462,USD/BRL PTAX (R$),1
+2023-06-15,4.8222,USD/BRL PTAX (R$),1
+2023-06-16,4.8286,USD/BRL PTAX (R$),1
+2023-06-19,4.7803,USD/BRL PTAX (R$),1
+2023-06-20,4.793,USD/BRL PTAX (R$),1
+2023-06-21,4.7795,USD/BRL PTAX (R$),1
+2023-06-22,4.775,USD/BRL PTAX (R$),1
+2023-06-23,4.7799,USD/BRL PTAX (R$),1
+2023-06-26,4.7698,USD/BRL PTAX (R$),1
+2023-06-27,4.7903,USD/BRL PTAX (R$),1
+2023-06-28,4.8563,USD/BRL PTAX (R$),1
+2023-06-29,4.8584,USD/BRL PTAX (R$),1
+2023-06-30,4.8192,USD/BRL PTAX (R$),1
+2023-07-03,4.7876,USD/BRL PTAX (R$),1
+2023-07-04,4.8056,USD/BRL PTAX (R$),1
+2023-07-05,4.8577,USD/BRL PTAX (R$),1
+2023-07-06,4.8977,USD/BRL PTAX (R$),1
+2023-07-07,4.8799,USD/BRL PTAX (R$),1
+2023-07-10,4.8735,USD/BRL PTAX (R$),1
+2023-07-11,4.8949,USD/BRL PTAX (R$),1
+2023-07-12,4.8058,USD/BRL PTAX (R$),1
+2023-07-13,4.8038,USD/BRL PTAX (R$),1
+2023-07-14,4.7957,USD/BRL PTAX (R$),1
+2023-07-17,4.8302,USD/BRL PTAX (R$),1
+2023-07-18,4.804,USD/BRL PTAX (R$),1
+2023-07-19,4.8,USD/BRL PTAX (R$),1
+2023-07-20,4.7888,USD/BRL PTAX (R$),1
+2023-07-21,4.7732,USD/BRL PTAX (R$),1
+2023-07-24,4.7457,USD/BRL PTAX (R$),1
+2023-07-25,4.7496,USD/BRL PTAX (R$),1
+2023-07-26,4.7368,USD/BRL PTAX (R$),1
+2023-07-27,4.7202,USD/BRL PTAX (R$),1
+2023-07-28,4.7253,USD/BRL PTAX (R$),1
+2023-07-31,4.7415,USD/BRL PTAX (R$),1
+2023-08-01,4.7752,USD/BRL PTAX (R$),1
+2023-08-02,4.8083,USD/BRL PTAX (R$),1
+2023-08-03,4.8797,USD/BRL PTAX (R$),1
+2023-08-04,4.8609,USD/BRL PTAX (R$),1
+2023-08-07,4.901,USD/BRL PTAX (R$),1
+2023-08-08,4.9217,USD/BRL PTAX (R$),1
+2023-08-09,4.9015,USD/BRL PTAX (R$),1
+2023-08-10,4.8518,USD/BRL PTAX (R$),1
+2023-08-11,4.8918,USD/BRL PTAX (R$),1
+2023-08-14,4.9481,USD/BRL PTAX (R$),1
+2023-08-15,4.9812,USD/BRL PTAX (R$),1
+2023-08-16,4.9772,USD/BRL PTAX (R$),1
+2023-08-17,4.9816,USD/BRL PTAX (R$),1
+2023-08-18,4.9724,USD/BRL PTAX (R$),1
+2023-08-21,4.9847,USD/BRL PTAX (R$),1
+2023-08-22,4.9431,USD/BRL PTAX (R$),1
+2023-08-23,4.8977,USD/BRL PTAX (R$),1
+2023-08-24,4.8748,USD/BRL PTAX (R$),1
+2023-08-25,4.8772,USD/BRL PTAX (R$),1
+2023-08-28,4.8938,USD/BRL PTAX (R$),1
+2023-08-29,4.8706,USD/BRL PTAX (R$),1
+2023-08-30,4.8653,USD/BRL PTAX (R$),1
+2023-08-31,4.9219,USD/BRL PTAX (R$),1
+2023-09-01,4.9318,USD/BRL PTAX (R$),1
+2023-09-04,4.9176,USD/BRL PTAX (R$),1
+2023-09-05,4.9705,USD/BRL PTAX (R$),1
+2023-09-06,4.9762,USD/BRL PTAX (R$),1
+2023-09-08,4.9835,USD/BRL PTAX (R$),1
+2023-09-11,4.9366,USD/BRL PTAX (R$),1
+2023-09-12,4.9505,USD/BRL PTAX (R$),1
+2023-09-13,4.9171,USD/BRL PTAX (R$),1
+2023-09-14,4.8751,USD/BRL PTAX (R$),1
+2023-09-15,4.8689,USD/BRL PTAX (R$),1
+2023-09-18,4.8535,USD/BRL PTAX (R$),1
+2023-09-19,4.8575,USD/BRL PTAX (R$),1
+2023-09-20,4.8487,USD/BRL PTAX (R$),1
+2023-09-21,4.9229,USD/BRL PTAX (R$),1
+2023-09-22,4.9131,USD/BRL PTAX (R$),1
+2023-09-25,4.9606,USD/BRL PTAX (R$),1
+2023-09-26,4.9717,USD/BRL PTAX (R$),1
+2023-09-27,5.0289,USD/BRL PTAX (R$),1
+2023-09-28,5.0475,USD/BRL PTAX (R$),1
+2023-09-29,5.0076,USD/BRL PTAX (R$),1
+2023-10-02,5.0679,USD/BRL PTAX (R$),1
+2023-10-03,5.11,USD/BRL PTAX (R$),1
+2023-10-04,5.1526,USD/BRL PTAX (R$),1
+2023-10-05,5.1713,USD/BRL PTAX (R$),1
+2023-10-06,5.1918,USD/BRL PTAX (R$),1
+2023-10-09,5.1666,USD/BRL PTAX (R$),1
+2023-10-10,5.0862,USD/BRL PTAX (R$),1
+2023-10-11,5.0496,USD/BRL PTAX (R$),1
+2023-10-13,5.0625,USD/BRL PTAX (R$),1
+2023-10-16,5.0618,USD/BRL PTAX (R$),1
+2023-10-17,5.0384,USD/BRL PTAX (R$),1
+2023-10-18,5.0568,USD/BRL PTAX (R$),1
+2023-10-19,5.054,USD/BRL PTAX (R$),1
+2023-10-20,5.0528,USD/BRL PTAX (R$),1
+2023-10-23,5.0164,USD/BRL PTAX (R$),1
+2023-10-24,5.0065,USD/BRL PTAX (R$),1
+2023-10-25,4.9981,USD/BRL PTAX (R$),1
+2023-10-26,5.0055,USD/BRL PTAX (R$),1
+2023-10-27,4.948,USD/BRL PTAX (R$),1
+2023-10-30,5.0074,USD/BRL PTAX (R$),1
+2023-10-31,5.0575,USD/BRL PTAX (R$),1
+2023-11-01,5.0194,USD/BRL PTAX (R$),1
+2023-11-03,4.891,USD/BRL PTAX (R$),1
+2023-11-06,4.8999,USD/BRL PTAX (R$),1
+2023-11-07,4.867,USD/BRL PTAX (R$),1
+2023-11-08,4.8855,USD/BRL PTAX (R$),1
+2023-11-09,4.9007,USD/BRL PTAX (R$),1
+2023-11-10,4.9219,USD/BRL PTAX (R$),1
+2023-11-13,4.9247,USD/BRL PTAX (R$),1
+2023-11-14,4.8682,USD/BRL PTAX (R$),1
+2023-11-16,4.8575,USD/BRL PTAX (R$),1
+2023-11-17,4.8849,USD/BRL PTAX (R$),1
+2023-11-20,4.8723,USD/BRL PTAX (R$),1
+2023-11-21,4.8806,USD/BRL PTAX (R$),1
+2023-11-22,4.8968,USD/BRL PTAX (R$),1
+2023-11-23,4.8931,USD/BRL PTAX (R$),1
+2023-11-24,4.8927,USD/BRL PTAX (R$),1
+2023-11-27,4.8951,USD/BRL PTAX (R$),1
+2023-11-28,4.8867,USD/BRL PTAX (R$),1
+2023-11-29,4.8933,USD/BRL PTAX (R$),1
+2023-11-30,4.9355,USD/BRL PTAX (R$),1
+2023-12-01,4.9191,USD/BRL PTAX (R$),1
+2023-12-04,4.9091,USD/BRL PTAX (R$),1
+2023-12-05,4.9522,USD/BRL PTAX (R$),1
+2023-12-06,4.9031,USD/BRL PTAX (R$),1
+2023-12-07,4.8949,USD/BRL PTAX (R$),1
+2023-12-08,4.9158,USD/BRL PTAX (R$),1
+2023-12-11,4.944,USD/BRL PTAX (R$),1
+2023-12-12,4.9476,USD/BRL PTAX (R$),1
+2023-12-13,4.958,USD/BRL PTAX (R$),1
+2023-12-14,4.8912,USD/BRL PTAX (R$),1
+2023-12-15,4.9397,USD/BRL PTAX (R$),1
+2023-12-18,4.9399,USD/BRL PTAX (R$),1
+2023-12-19,4.8663,USD/BRL PTAX (R$),1
+2023-12-20,4.8766,USD/BRL PTAX (R$),1
+2023-12-21,4.8755,USD/BRL PTAX (R$),1
+2023-12-22,4.8619,USD/BRL PTAX (R$),1
+2023-12-26,4.8368,USD/BRL PTAX (R$),1
+2023-12-27,4.8306,USD/BRL PTAX (R$),1
+2023-12-28,4.8413,USD/BRL PTAX (R$),1
+2023-12-29,4.8413,USD/BRL PTAX (R$),1
+2024-01-02,4.8916,USD/BRL PTAX (R$),1
+2024-01-03,4.9212,USD/BRL PTAX (R$),1
+2024-01-04,4.9188,USD/BRL PTAX (R$),1
+2024-01-05,4.8899,USD/BRL PTAX (R$),1
+2024-01-08,4.885,USD/BRL PTAX (R$),1
+2024-01-09,4.8937,USD/BRL PTAX (R$),1
+2024-01-10,4.8901,USD/BRL PTAX (R$),1
+2024-01-11,4.8794,USD/BRL PTAX (R$),1
+2024-01-12,4.8543,USD/BRL PTAX (R$),1
+2024-01-15,4.8765,USD/BRL PTAX (R$),1
+2024-01-16,4.9038,USD/BRL PTAX (R$),1
+2024-01-17,4.9346,USD/BRL PTAX (R$),1
+2024-01-18,4.9403,USD/BRL PTAX (R$),1
+2024-01-19,4.9223,USD/BRL PTAX (R$),1
+2024-01-22,4.949,USD/BRL PTAX (R$),1
+2024-01-23,4.9715,USD/BRL PTAX (R$),1
+2024-01-24,4.9192,USD/BRL PTAX (R$),1
+2024-01-25,4.9232,USD/BRL PTAX (R$),1
+2024-01-26,4.9125,USD/BRL PTAX (R$),1
+2024-01-29,4.9225,USD/BRL PTAX (R$),1
+2024-01-30,4.9638,USD/BRL PTAX (R$),1
+2024-01-31,4.9535,USD/BRL PTAX (R$),1
+2024-02-01,4.935,USD/BRL PTAX (R$),1
+2024-02-02,4.9471,USD/BRL PTAX (R$),1
+2024-02-05,5.0053,USD/BRL PTAX (R$),1
+2024-02-06,4.9687,USD/BRL PTAX (R$),1
+2024-02-07,4.9608,USD/BRL PTAX (R$),1
+2024-02-08,4.9804,USD/BRL PTAX (R$),1
+2024-02-09,4.9717,USD/BRL PTAX (R$),1
+2024-02-14,4.9723,USD/BRL PTAX (R$),1
+2024-02-15,4.971,USD/BRL PTAX (R$),1
+2024-02-16,4.9761,USD/BRL PTAX (R$),1
+2024-02-19,4.9585,USD/BRL PTAX (R$),1
+2024-02-20,4.9408,USD/BRL PTAX (R$),1
+2024-02-21,4.9303,USD/BRL PTAX (R$),1
+2024-02-22,4.9419,USD/BRL PTAX (R$),1
+2024-02-23,4.9851,USD/BRL PTAX (R$),1
+2024-02-26,4.9819,USD/BRL PTAX (R$),1
+2024-02-27,4.9575,USD/BRL PTAX (R$),1
+2024-02-28,4.9557,USD/BRL PTAX (R$),1
+2024-02-29,4.9833,USD/BRL PTAX (R$),1
+2024-03-01,4.9596,USD/BRL PTAX (R$),1
+2024-03-04,4.9475,USD/BRL PTAX (R$),1
+2024-03-05,4.9488,USD/BRL PTAX (R$),1
+2024-03-06,4.9398,USD/BRL PTAX (R$),1
+2024-03-07,4.9364,USD/BRL PTAX (R$),1
+2024-03-08,4.9751,USD/BRL PTAX (R$),1
+2024-03-11,4.9777,USD/BRL PTAX (R$),1
+2024-03-12,4.9813,USD/BRL PTAX (R$),1
+2024-03-13,4.9803,USD/BRL PTAX (R$),1
+2024-03-14,4.9768,USD/BRL PTAX (R$),1
+2024-03-15,4.9937,USD/BRL PTAX (R$),1
+2024-03-18,5.0124,USD/BRL PTAX (R$),1
+2024-03-19,5.0352,USD/BRL PTAX (R$),1
+2024-03-20,5.012,USD/BRL PTAX (R$),1
+2024-03-21,4.9807,USD/BRL PTAX (R$),1
+2024-03-22,4.9897,USD/BRL PTAX (R$),1
+2024-03-25,4.9869,USD/BRL PTAX (R$),1
+2024-03-26,4.987,USD/BRL PTAX (R$),1
+2024-03-27,4.9856,USD/BRL PTAX (R$),1
+2024-03-28,4.9962,USD/BRL PTAX (R$),1
+2024-04-01,5.0532,USD/BRL PTAX (R$),1
+2024-04-02,5.0476,USD/BRL PTAX (R$),1
+2024-04-03,5.0724,USD/BRL PTAX (R$),1
+2024-04-04,5.0237,USD/BRL PTAX (R$),1
+2024-04-05,5.052,USD/BRL PTAX (R$),1
+2024-04-08,5.0421,USD/BRL PTAX (R$),1
+2024-04-09,5.008,USD/BRL PTAX (R$),1
+2024-04-10,5.0654,USD/BRL PTAX (R$),1
+2024-04-11,5.0765,USD/BRL PTAX (R$),1
+2024-04-12,5.1364,USD/BRL PTAX (R$),1
+2024-04-15,5.1746,USD/BRL PTAX (R$),1
+2024-04-16,5.2635,USD/BRL PTAX (R$),1
+2024-04-17,5.2469,USD/BRL PTAX (R$),1
+2024-04-18,5.2512,USD/BRL PTAX (R$),1
+2024-04-19,5.2269,USD/BRL PTAX (R$),1
+2024-04-22,5.2043,USD/BRL PTAX (R$),1
+2024-04-23,5.1626,USD/BRL PTAX (R$),1
+2024-04-24,5.1592,USD/BRL PTAX (R$),1
+2024-04-25,5.1679,USD/BRL PTAX (R$),1
+2024-04-26,5.1184,USD/BRL PTAX (R$),1
+2024-04-29,5.1155,USD/BRL PTAX (R$),1
+2024-04-30,5.1718,USD/BRL PTAX (R$),1
+2024-05-02,5.1184,USD/BRL PTAX (R$),1
+2024-05-03,5.0668,USD/BRL PTAX (R$),1
+2024-05-06,5.0727,USD/BRL PTAX (R$),1
+2024-05-07,5.061,USD/BRL PTAX (R$),1
+2024-05-08,5.0887,USD/BRL PTAX (R$),1
+2024-05-09,5.1577,USD/BRL PTAX (R$),1
+2024-05-10,5.1464,USD/BRL PTAX (R$),1
+2024-05-13,5.1412,USD/BRL PTAX (R$),1
+2024-05-14,5.1356,USD/BRL PTAX (R$),1
+2024-05-15,5.1423,USD/BRL PTAX (R$),1
+2024-05-16,5.127,USD/BRL PTAX (R$),1
+2024-05-17,5.1157,USD/BRL PTAX (R$),1
+2024-05-20,5.1085,USD/BRL PTAX (R$),1
+2024-05-21,5.1037,USD/BRL PTAX (R$),1
+2024-05-22,5.1502,USD/BRL PTAX (R$),1
+2024-05-23,5.1443,USD/BRL PTAX (R$),1
+2024-05-24,5.1508,USD/BRL PTAX (R$),1
+2024-05-27,5.1704,USD/BRL PTAX (R$),1
+2024-05-28,5.1538,USD/BRL PTAX (R$),1
+2024-05-29,5.1972,USD/BRL PTAX (R$),1
+2024-05-31,5.2416,USD/BRL PTAX (R$),1
+2024-06-03,5.2373,USD/BRL PTAX (R$),1
+2024-06-04,5.2687,USD/BRL PTAX (R$),1
+2024-06-05,5.2841,USD/BRL PTAX (R$),1
+2024-06-06,5.2681,USD/BRL PTAX (R$),1
+2024-06-07,5.2802,USD/BRL PTAX (R$),1
+2024-06-10,5.3666,USD/BRL PTAX (R$),1
+2024-06-11,5.3524,USD/BRL PTAX (R$),1
+2024-06-12,5.3891,USD/BRL PTAX (R$),1
+2024-06-13,5.3974,USD/BRL PTAX (R$),1
+2024-06-14,5.363,USD/BRL PTAX (R$),1
+2024-06-17,5.413,USD/BRL PTAX (R$),1
+2024-06-18,5.4074,USD/BRL PTAX (R$),1
+2024-06-19,5.4647,USD/BRL PTAX (R$),1
+2024-06-20,5.4254,USD/BRL PTAX (R$),1
+2024-06-21,5.4416,USD/BRL PTAX (R$),1
+2024-06-24,5.4,USD/BRL PTAX (R$),1
+2024-06-25,5.429,USD/BRL PTAX (R$),1
+2024-06-26,5.5097,USD/BRL PTAX (R$),1
+2024-06-27,5.5229,USD/BRL PTAX (R$),1
+2024-06-28,5.5589,USD/BRL PTAX (R$),1
+2024-07-01,5.5893,USD/BRL PTAX (R$),1
+2024-07-02,5.6677,USD/BRL PTAX (R$),1
+2024-07-03,5.5863,USD/BRL PTAX (R$),1
+2024-07-04,5.4839,USD/BRL PTAX (R$),1
+2024-07-05,5.497,USD/BRL PTAX (R$),1
+2024-07-08,5.472,USD/BRL PTAX (R$),1
+2024-07-09,5.4387,USD/BRL PTAX (R$),1
+2024-07-10,5.3967,USD/BRL PTAX (R$),1
+2024-07-11,5.41,USD/BRL PTAX (R$),1
+2024-07-12,5.4529,USD/BRL PTAX (R$),1
+2024-07-15,5.4563,USD/BRL PTAX (R$),1
+2024-07-16,5.4274,USD/BRL PTAX (R$),1
+2024-07-17,5.467,USD/BRL PTAX (R$),1
+2024-07-18,5.5426,USD/BRL PTAX (R$),1
+2024-07-19,5.5543,USD/BRL PTAX (R$),1
+2024-07-22,5.5598,USD/BRL PTAX (R$),1
+2024-07-23,5.5807,USD/BRL PTAX (R$),1
+2024-07-24,5.6346,USD/BRL PTAX (R$),1
+2024-07-25,5.6402,USD/BRL PTAX (R$),1
+2024-07-26,5.6465,USD/BRL PTAX (R$),1
+2024-07-29,5.6479,USD/BRL PTAX (R$),1
+2024-07-30,5.6532,USD/BRL PTAX (R$),1
+2024-07-31,5.6621,USD/BRL PTAX (R$),1
+2024-08-01,5.6681,USD/BRL PTAX (R$),1
+2024-08-02,5.7366,USD/BRL PTAX (R$),1
+2024-08-05,5.7646,USD/BRL PTAX (R$),1
+2024-08-06,5.6528,USD/BRL PTAX (R$),1
+2024-08-07,5.6093,USD/BRL PTAX (R$),1
+2024-08-08,5.6172,USD/BRL PTAX (R$),1
+2024-08-09,5.5115,USD/BRL PTAX (R$),1
+2024-08-12,5.4911,USD/BRL PTAX (R$),1
+2024-08-13,5.4875,USD/BRL PTAX (R$),1
+2024-08-14,5.4502,USD/BRL PTAX (R$),1
+2024-08-15,5.4651,USD/BRL PTAX (R$),1
+2024-08-16,5.4632,USD/BRL PTAX (R$),1
+2024-08-19,5.4237,USD/BRL PTAX (R$),1
+2024-08-20,5.4547,USD/BRL PTAX (R$),1
+2024-08-21,5.4707,USD/BRL PTAX (R$),1
+2024-08-22,5.5524,USD/BRL PTAX (R$),1
+2024-08-23,5.5263,USD/BRL PTAX (R$),1
+2024-08-26,5.4921,USD/BRL PTAX (R$),1
+2024-08-27,5.4969,USD/BRL PTAX (R$),1
+2024-08-28,5.5315,USD/BRL PTAX (R$),1
+2024-08-29,5.6358,USD/BRL PTAX (R$),1
+2024-08-30,5.6562,USD/BRL PTAX (R$),1
+2024-09-02,5.623,USD/BRL PTAX (R$),1
+2024-09-03,5.6224,USD/BRL PTAX (R$),1
+2024-09-04,5.6359,USD/BRL PTAX (R$),1
+2024-09-05,5.6049,USD/BRL PTAX (R$),1
+2024-09-06,5.5702,USD/BRL PTAX (R$),1
+2024-09-09,5.6097,USD/BRL PTAX (R$),1
+2024-09-10,5.6254,USD/BRL PTAX (R$),1
+2024-09-11,5.6387,USD/BRL PTAX (R$),1
+2024-09-12,5.6554,USD/BRL PTAX (R$),1
+2024-09-13,5.5717,USD/BRL PTAX (R$),1
+2024-09-16,5.5207,USD/BRL PTAX (R$),1
+2024-09-17,5.501,USD/BRL PTAX (R$),1
+2024-09-18,5.4767,USD/BRL PTAX (R$),1
+2024-09-19,5.4189,USD/BRL PTAX (R$),1
+2024-09-20,5.4775,USD/BRL PTAX (R$),1
+2024-09-23,5.5446,USD/BRL PTAX (R$),1
+2024-09-24,5.4702,USD/BRL PTAX (R$),1
+2024-09-25,5.4736,USD/BRL PTAX (R$),1
+2024-09-26,5.4412,USD/BRL PTAX (R$),1
+2024-09-27,5.4431,USD/BRL PTAX (R$),1
+2024-09-30,5.4481,USD/BRL PTAX (R$),1
+2024-10-01,5.4521,USD/BRL PTAX (R$),1
+2024-10-02,5.4305,USD/BRL PTAX (R$),1
+2024-10-03,5.485,USD/BRL PTAX (R$),1
+2024-10-04,5.4686,USD/BRL PTAX (R$),1
+2024-10-07,5.4626,USD/BRL PTAX (R$),1
+2024-10-08,5.5197,USD/BRL PTAX (R$),1
+2024-10-09,5.5737,USD/BRL PTAX (R$),1
+2024-10-10,5.5819,USD/BRL PTAX (R$),1
+2024-10-11,5.6263,USD/BRL PTAX (R$),1
+2024-10-14,5.6045,USD/BRL PTAX (R$),1
+2024-10-15,5.6378,USD/BRL PTAX (R$),1
+2024-10-16,5.6749,USD/BRL PTAX (R$),1
+2024-10-17,5.6758,USD/BRL PTAX (R$),1
+2024-10-18,5.6672,USD/BRL PTAX (R$),1
+2024-10-21,5.7068,USD/BRL PTAX (R$),1
+2024-10-22,5.6958,USD/BRL PTAX (R$),1
+2024-10-23,5.7149,USD/BRL PTAX (R$),1
+2024-10-24,5.7087,USD/BRL PTAX (R$),1
+2024-10-25,5.6969,USD/BRL PTAX (R$),1
+2024-10-28,5.6988,USD/BRL PTAX (R$),1
+2024-10-29,5.714,USD/BRL PTAX (R$),1
+2024-10-30,5.7801,USD/BRL PTAX (R$),1
+2024-10-31,5.7779,USD/BRL PTAX (R$),1
+2024-11-01,5.8073,USD/BRL PTAX (R$),1
+2024-11-04,5.7898,USD/BRL PTAX (R$),1
+2024-11-05,5.7846,USD/BRL PTAX (R$),1
+2024-11-06,5.7648,USD/BRL PTAX (R$),1
+2024-11-07,5.6624,USD/BRL PTAX (R$),1
+2024-11-08,5.7648,USD/BRL PTAX (R$),1
+2024-11-11,5.798,USD/BRL PTAX (R$),1
+2024-11-12,5.7694,USD/BRL PTAX (R$),1
+2024-11-13,5.7713,USD/BRL PTAX (R$),1
+2024-11-14,5.7885,USD/BRL PTAX (R$),1
+2024-11-18,5.7603,USD/BRL PTAX (R$),1
+2024-11-19,5.7743,USD/BRL PTAX (R$),1
+2024-11-21,5.8173,USD/BRL PTAX (R$),1
+2024-11-22,5.8124,USD/BRL PTAX (R$),1
+2024-11-25,5.8002,USD/BRL PTAX (R$),1
+2024-11-26,5.799,USD/BRL PTAX (R$),1
+2024-11-27,5.8291,USD/BRL PTAX (R$),1
+2024-11-28,5.9871,USD/BRL PTAX (R$),1
+2024-11-29,6.0535,USD/BRL PTAX (R$),1
+2024-12-02,6.0634,USD/BRL PTAX (R$),1
+2024-12-03,6.0707,USD/BRL PTAX (R$),1
+2024-12-04,6.0581,USD/BRL PTAX (R$),1
+2024-12-05,5.9849,USD/BRL PTAX (R$),1
+2024-12-06,6.0293,USD/BRL PTAX (R$),1
+2024-12-09,6.057,USD/BRL PTAX (R$),1
+2024-12-10,6.0529,USD/BRL PTAX (R$),1
+2024-12-11,6.032,USD/BRL PTAX (R$),1
+2024-12-12,5.9408,USD/BRL PTAX (R$),1
+2024-12-13,6.04,USD/BRL PTAX (R$),1
+2024-12-16,6.0509,USD/BRL PTAX (R$),1
+2024-12-17,6.1685,USD/BRL PTAX (R$),1
+2024-12-18,6.1624,USD/BRL PTAX (R$),1
+2024-12-19,6.1841,USD/BRL PTAX (R$),1
+2024-12-20,6.078,USD/BRL PTAX (R$),1
+2024-12-23,6.1612,USD/BRL PTAX (R$),1
+2024-12-24,6.1541,USD/BRL PTAX (R$),1
+2024-12-26,6.1656,USD/BRL PTAX (R$),1
+2024-12-27,6.1991,USD/BRL PTAX (R$),1
+2024-12-30,6.1923,USD/BRL PTAX (R$),1
+2024-12-31,6.1923,USD/BRL PTAX (R$),1
+2025-01-02,6.2086,USD/BRL PTAX (R$),1
+2025-01-03,6.1563,USD/BRL PTAX (R$),1
+2025-01-06,6.1119,USD/BRL PTAX (R$),1
+2025-01-07,6.0741,USD/BRL PTAX (R$),1
+2025-01-08,6.1321,USD/BRL PTAX (R$),1
+2025-01-09,6.0896,USD/BRL PTAX (R$),1
+2025-01-10,6.0965,USD/BRL PTAX (R$),1
+2025-01-13,6.1079,USD/BRL PTAX (R$),1
+2025-01-14,6.0671,USD/BRL PTAX (R$),1
+2025-01-15,6.0377,USD/BRL PTAX (R$),1
+2025-01-16,6.0322,USD/BRL PTAX (R$),1
+2025-01-17,6.0609,USD/BRL PTAX (R$),1
+2025-01-20,6.0498,USD/BRL PTAX (R$),1
+2025-01-21,6.044,USD/BRL PTAX (R$),1
+2025-01-22,5.9674,USD/BRL PTAX (R$),1
+2025-01-23,5.9399,USD/BRL PTAX (R$),1
+2025-01-24,5.8925,USD/BRL PTAX (R$),1
+2025-01-27,5.9272,USD/BRL PTAX (R$),1
+2025-01-28,5.893,USD/BRL PTAX (R$),1
+2025-01-29,5.8596,USD/BRL PTAX (R$),1
+2025-01-30,5.9006,USD/BRL PTAX (R$),1
+2025-01-31,5.8301,USD/BRL PTAX (R$),1
+2025-02-03,5.8687,USD/BRL PTAX (R$),1
+2025-02-04,5.7927,USD/BRL PTAX (R$),1
+2025-02-05,5.7997,USD/BRL PTAX (R$),1
+2025-02-06,5.7856,USD/BRL PTAX (R$),1
+2025-02-07,5.7557,USD/BRL PTAX (R$),1
+2025-02-10,5.7808,USD/BRL PTAX (R$),1
+2025-02-11,5.7788,USD/BRL PTAX (R$),1
+2025-02-12,5.7711,USD/BRL PTAX (R$),1
+2025-02-13,5.7788,USD/BRL PTAX (R$),1
+2025-02-14,5.7283,USD/BRL PTAX (R$),1
+2025-02-17,5.7105,USD/BRL PTAX (R$),1
+2025-02-18,5.6979,USD/BRL PTAX (R$),1
+2025-02-19,5.7087,USD/BRL PTAX (R$),1
+2025-02-20,5.7019,USD/BRL PTAX (R$),1
+2025-02-21,5.7027,USD/BRL PTAX (R$),1
+2025-02-24,5.7258,USD/BRL PTAX (R$),1
+2025-02-25,5.7779,USD/BRL PTAX (R$),1
+2025-02-26,5.7757,USD/BRL PTAX (R$),1
+2025-02-27,5.8228,USD/BRL PTAX (R$),1
+2025-02-28,5.8488,USD/BRL PTAX (R$),1
+2025-03-05,5.7914,USD/BRL PTAX (R$),1
+2025-03-06,5.7489,USD/BRL PTAX (R$),1
+2025-03-07,5.7688,USD/BRL PTAX (R$),1
+2025-03-10,5.793,USD/BRL PTAX (R$),1
+2025-03-11,5.8346,USD/BRL PTAX (R$),1
+2025-03-12,5.8268,USD/BRL PTAX (R$),1
+2025-03-13,5.8131,USD/BRL PTAX (R$),1
+2025-03-14,5.7419,USD/BRL PTAX (R$),1
+2025-03-17,5.7082,USD/BRL PTAX (R$),1
+2025-03-18,5.6852,USD/BRL PTAX (R$),1
+2025-03-19,5.6657,USD/BRL PTAX (R$),1
+2025-03-20,5.6628,USD/BRL PTAX (R$),1
+2025-03-21,5.7241,USD/BRL PTAX (R$),1
+2025-03-24,5.7403,USD/BRL PTAX (R$),1
+2025-03-25,5.6992,USD/BRL PTAX (R$),1
+2025-03-26,5.7298,USD/BRL PTAX (R$),1
+2025-03-27,5.7474,USD/BRL PTAX (R$),1
+2025-03-28,5.766,USD/BRL PTAX (R$),1
+2025-03-31,5.7422,USD/BRL PTAX (R$),1
+2025-04-01,5.7051,USD/BRL PTAX (R$),1
+2025-04-02,5.6923,USD/BRL PTAX (R$),1
+2025-04-03,5.6067,USD/BRL PTAX (R$),1
+2025-04-04,5.7777,USD/BRL PTAX (R$),1
+2025-04-07,5.8877,USD/BRL PTAX (R$),1
+2025-04-08,5.9368,USD/BRL PTAX (R$),1
+2025-04-09,6.0605,USD/BRL PTAX (R$),1
+2025-04-10,5.9115,USD/BRL PTAX (R$),1
+2025-04-11,5.8737,USD/BRL PTAX (R$),1
+2025-04-14,5.8425,USD/BRL PTAX (R$),1
+2025-04-15,5.8707,USD/BRL PTAX (R$),1
+2025-04-16,5.8808,USD/BRL PTAX (R$),1
+2025-04-17,5.8559,USD/BRL PTAX (R$),1
+2025-04-22,5.7496,USD/BRL PTAX (R$),1
+2025-04-23,5.688,USD/BRL PTAX (R$),1
+2025-04-24,5.6738,USD/BRL PTAX (R$),1
+2025-04-25,5.6846,USD/BRL PTAX (R$),1
+2025-04-28,5.6681,USD/BRL PTAX (R$),1
+2025-04-29,5.6467,USD/BRL PTAX (R$),1
+2025-04-30,5.6608,USD/BRL PTAX (R$),1
+2025-05-02,5.6394,USD/BRL PTAX (R$),1
+2025-05-05,5.652,USD/BRL PTAX (R$),1
+2025-05-06,5.721,USD/BRL PTAX (R$),1
+2025-05-07,5.7375,USD/BRL PTAX (R$),1
+2025-05-08,5.686,USD/BRL PTAX (R$),1
+2025-05-09,5.6511,USD/BRL PTAX (R$),1
+2025-05-12,5.6822,USD/BRL PTAX (R$),1
+2025-05-13,5.6262,USD/BRL PTAX (R$),1
+2025-05-14,5.61,USD/BRL PTAX (R$),1
+2025-05-15,5.6328,USD/BRL PTAX (R$),1
+2025-05-16,5.6925,USD/BRL PTAX (R$),1
+2025-05-19,5.6591,USD/BRL PTAX (R$),1
+2025-05-20,5.662,USD/BRL PTAX (R$),1
+2025-05-21,5.6571,USD/BRL PTAX (R$),1
+2025-05-22,5.639,USD/BRL PTAX (R$),1
+2025-05-23,5.6932,USD/BRL PTAX (R$),1
+2025-05-26,5.6619,USD/BRL PTAX (R$),1
+2025-05-27,5.6539,USD/BRL PTAX (R$),1
+2025-05-28,5.6936,USD/BRL PTAX (R$),1
+2025-05-29,5.6559,USD/BRL PTAX (R$),1
+2025-05-30,5.7087,USD/BRL PTAX (R$),1
+2025-06-02,5.6937,USD/BRL PTAX (R$),1
+2025-06-03,5.6694,USD/BRL PTAX (R$),1
+2025-06-04,5.6332,USD/BRL PTAX (R$),1
+2025-06-05,5.5969,USD/BRL PTAX (R$),1
+2025-06-06,5.5947,USD/BRL PTAX (R$),1
+2025-06-09,5.576,USD/BRL PTAX (R$),1
+2025-06-10,5.5557,USD/BRL PTAX (R$),1
+2025-06-11,5.539,USD/BRL PTAX (R$),1
+2025-06-12,5.5388,USD/BRL PTAX (R$),1
+2025-06-13,5.5652,USD/BRL PTAX (R$),1
+2025-06-16,5.5123,USD/BRL PTAX (R$),1
+2025-06-17,5.4773,USD/BRL PTAX (R$),1
+2025-06-18,5.4879,USD/BRL PTAX (R$),1
+2025-06-20,5.4957,USD/BRL PTAX (R$),1
+2025-06-23,5.5213,USD/BRL PTAX (R$),1
+2025-06-24,5.4938,USD/BRL PTAX (R$),1
+2025-06-25,5.5427,USD/BRL PTAX (R$),1
+2025-06-26,5.5145,USD/BRL PTAX (R$),1
+2025-06-27,5.4759,USD/BRL PTAX (R$),1
+2025-06-30,5.4571,USD/BRL PTAX (R$),1
+2025-07-01,5.4511,USD/BRL PTAX (R$),1
+2025-07-02,5.4512,USD/BRL PTAX (R$),1
+2025-07-03,5.4208,USD/BRL PTAX (R$),1
+2025-07-04,5.409,USD/BRL PTAX (R$),1
+2025-07-07,5.4552,USD/BRL PTAX (R$),1
+2025-07-08,5.4571,USD/BRL PTAX (R$),1
+2025-07-09,5.4626,USD/BRL PTAX (R$),1
+2025-07-10,5.5433,USD/BRL PTAX (R$),1
+2025-07-11,5.5722,USD/BRL PTAX (R$),1
+2025-07-14,5.5595,USD/BRL PTAX (R$),1
+2025-07-15,5.5576,USD/BRL PTAX (R$),1
+2025-07-16,5.5722,USD/BRL PTAX (R$),1
+2025-07-17,5.5737,USD/BRL PTAX (R$),1
+2025-07-18,5.5466,USD/BRL PTAX (R$),1
+2025-07-21,5.5625,USD/BRL PTAX (R$),1
+2025-07-22,5.5709,USD/BRL PTAX (R$),1
+2025-07-23,5.5537,USD/BRL PTAX (R$),1
+2025-07-24,5.5239,USD/BRL PTAX (R$),1
+2025-07-25,5.5426,USD/BRL PTAX (R$),1
+2025-07-28,5.5877,USD/BRL PTAX (R$),1
+2025-07-29,5.5764,USD/BRL PTAX (R$),1
+2025-07-30,5.6034,USD/BRL PTAX (R$),1
+2025-07-31,5.6021,USD/BRL PTAX (R$),1
+2025-08-01,5.5436,USD/BRL PTAX (R$),1
+2025-08-04,5.5113,USD/BRL PTAX (R$),1
+2025-08-05,5.5119,USD/BRL PTAX (R$),1
+2025-08-06,5.4802,USD/BRL PTAX (R$),1
+2025-08-07,5.4638,USD/BRL PTAX (R$),1
+2025-08-08,5.4254,USD/BRL PTAX (R$),1
+2025-08-11,5.4473,USD/BRL PTAX (R$),1
+2025-08-12,5.4052,USD/BRL PTAX (R$),1
+2025-08-13,5.3928,USD/BRL PTAX (R$),1
+2025-08-14,5.4095,USD/BRL PTAX (R$),1
+2025-08-15,5.3928,USD/BRL PTAX (R$),1
+2025-08-18,5.4155,USD/BRL PTAX (R$),1
+2025-08-19,5.4716,USD/BRL PTAX (R$),1
+2025-08-20,5.4726,USD/BRL PTAX (R$),1
+2025-08-21,5.4828,USD/BRL PTAX (R$),1
+2025-08-22,5.4392,USD/BRL PTAX (R$),1
+2025-08-25,5.4174,USD/BRL PTAX (R$),1
+2025-08-26,5.4218,USD/BRL PTAX (R$),1
+2025-08-27,5.4428,USD/BRL PTAX (R$),1
+2025-08-28,5.4115,USD/BRL PTAX (R$),1
+2025-08-29,5.4264,USD/BRL PTAX (R$),1
+2025-09-01,5.4378,USD/BRL PTAX (R$),1
+2025-09-02,5.468,USD/BRL PTAX (R$),1
+2025-09-03,5.4485,USD/BRL PTAX (R$),1
+2025-09-04,5.4587,USD/BRL PTAX (R$),1
+2025-09-05,5.3968,USD/BRL PTAX (R$),1
+2025-09-08,5.4278,USD/BRL PTAX (R$),1
+2025-09-09,5.4278,USD/BRL PTAX (R$),1
+2025-09-10,5.4123,USD/BRL PTAX (R$),1
+2025-09-11,5.3858,USD/BRL PTAX (R$),1
+2025-09-12,5.3677,USD/BRL PTAX (R$),1
+2025-09-15,5.3208,USD/BRL PTAX (R$),1
+2025-09-16,5.3096,USD/BRL PTAX (R$),1
+2025-09-17,5.3011,USD/BRL PTAX (R$),1
+2025-09-18,5.301,USD/BRL PTAX (R$),1
+2025-09-19,5.3276,USD/BRL PTAX (R$),1
+2025-09-22,5.3457,USD/BRL PTAX (R$),1
+2025-09-23,5.3063,USD/BRL PTAX (R$),1
+2025-09-24,5.3112,USD/BRL PTAX (R$),1
+2025-09-25,5.3425,USD/BRL PTAX (R$),1
+2025-09-26,5.3445,USD/BRL PTAX (R$),1
+2025-09-29,5.3229,USD/BRL PTAX (R$),1
+2025-09-30,5.3186,USD/BRL PTAX (R$),1
+2025-10-01,5.3208,USD/BRL PTAX (R$),1
+2025-10-02,5.3449,USD/BRL PTAX (R$),1
+2025-10-03,5.3498,USD/BRL PTAX (R$),1
+2025-10-06,5.3226,USD/BRL PTAX (R$),1
+2025-10-07,5.3363,USD/BRL PTAX (R$),1
+2025-10-08,5.3427,USD/BRL PTAX (R$),1
+2025-10-09,5.3538,USD/BRL PTAX (R$),1
+2025-10-10,5.4446,USD/BRL PTAX (R$),1
+2025-10-13,5.4629,USD/BRL PTAX (R$),1
+2025-10-14,5.4982,USD/BRL PTAX (R$),1
+2025-10-15,5.4464,USD/BRL PTAX (R$),1
+2025-10-16,5.4354,USD/BRL PTAX (R$),1
+2025-10-17,5.439,USD/BRL PTAX (R$),1
+2025-10-20,5.3771,USD/BRL PTAX (R$),1
+2025-10-21,5.3848,USD/BRL PTAX (R$),1
+2025-10-22,5.3898,USD/BRL PTAX (R$),1
+2025-10-23,5.384,USD/BRL PTAX (R$),1
+2025-10-24,5.3797,USD/BRL PTAX (R$),1
+2025-10-27,5.3744,USD/BRL PTAX (R$),1
+2025-10-28,5.369,USD/BRL PTAX (R$),1
+2025-10-29,5.3416,USD/BRL PTAX (R$),1
+2025-10-30,5.385,USD/BRL PTAX (R$),1
+2025-10-31,5.3843,USD/BRL PTAX (R$),1
+2025-11-03,5.3505,USD/BRL PTAX (R$),1
+2025-11-04,5.3846,USD/BRL PTAX (R$),1
+2025-11-05,5.3798,USD/BRL PTAX (R$),1
+2025-11-06,5.3451,USD/BRL PTAX (R$),1
+2025-11-07,5.3567,USD/BRL PTAX (R$),1
+2025-11-10,5.3181,USD/BRL PTAX (R$),1
+2025-11-11,5.2729,USD/BRL PTAX (R$),1
+2025-11-12,5.2885,USD/BRL PTAX (R$),1
+2025-11-13,5.282,USD/BRL PTAX (R$),1
+2025-11-14,5.2952,USD/BRL PTAX (R$),1
+2025-11-17,5.3108,USD/BRL PTAX (R$),1
+2025-11-18,5.3361,USD/BRL PTAX (R$),1
+2025-11-19,5.3346,USD/BRL PTAX (R$),1
+2025-11-21,5.3902,USD/BRL PTAX (R$),1
+2025-11-24,5.3948,USD/BRL PTAX (R$),1
+2025-11-25,5.3841,USD/BRL PTAX (R$),1
+2025-11-26,5.3694,USD/BRL PTAX (R$),1
+2025-11-27,5.349,USD/BRL PTAX (R$),1
+2025-11-28,5.3338,USD/BRL PTAX (R$),1
+2025-12-01,5.3469,USD/BRL PTAX (R$),1
+2025-12-02,5.3465,USD/BRL PTAX (R$),1
+2025-12-03,5.3114,USD/BRL PTAX (R$),1
+2025-12-04,5.2952,USD/BRL PTAX (R$),1
+2025-12-05,5.3405,USD/BRL PTAX (R$),1
+2025-12-08,5.4249,USD/BRL PTAX (R$),1
+2025-12-09,5.457,USD/BRL PTAX (R$),1
+2025-12-10,5.4656,USD/BRL PTAX (R$),1
+2025-12-11,5.4237,USD/BRL PTAX (R$),1
+2025-12-12,5.4011,USD/BRL PTAX (R$),1
+2025-12-15,5.3929,USD/BRL PTAX (R$),1
+2025-12-16,5.4505,USD/BRL PTAX (R$),1
+2025-12-17,5.5093,USD/BRL PTAX (R$),1
+2025-12-18,5.5283,USD/BRL PTAX (R$),1
+2025-12-19,5.516,USD/BRL PTAX (R$),1
+2025-12-22,5.5389,USD/BRL PTAX (R$),1
+2025-12-23,5.5643,USD/BRL PTAX (R$),1
+2025-12-24,5.535,USD/BRL PTAX (R$),1
+2025-12-26,5.5413,USD/BRL PTAX (R$),1
+2025-12-29,5.5739,USD/BRL PTAX (R$),1
+2025-12-30,5.5024,USD/BRL PTAX (R$),1
+2025-12-31,5.5024,USD/BRL PTAX (R$),1
+2026-01-02,5.4372,USD/BRL PTAX (R$),1
+2026-01-05,5.4351,USD/BRL PTAX (R$),1
+2026-01-06,5.3797,USD/BRL PTAX (R$),1
+2026-01-07,5.388,USD/BRL PTAX (R$),1
+2026-01-08,5.386,USD/BRL PTAX (R$),1
+2026-01-09,5.3707,USD/BRL PTAX (R$),1
+2026-01-12,5.376,USD/BRL PTAX (R$),1
+2026-01-13,5.3764,USD/BRL PTAX (R$),1
+2026-01-14,5.3795,USD/BRL PTAX (R$),1
+2026-01-15,5.3846,USD/BRL PTAX (R$),1
+2026-01-16,5.3798,USD/BRL PTAX (R$),1
+2026-01-19,5.3653,USD/BRL PTAX (R$),1
+2026-01-20,5.379,USD/BRL PTAX (R$),1
+2026-01-21,5.3368,USD/BRL PTAX (R$),1
+2026-01-22,5.3118,USD/BRL PTAX (R$),1
+2026-01-23,5.2879,USD/BRL PTAX (R$),1
+2026-01-26,5.276,USD/BRL PTAX (R$),1
+2026-01-27,5.2392,USD/BRL PTAX (R$),1
+2026-01-28,5.1838,USD/BRL PTAX (R$),1
+2026-01-29,5.1956,USD/BRL PTAX (R$),1
+2026-01-30,5.2301,USD/BRL PTAX (R$),1
+2026-02-02,5.2587,USD/BRL PTAX (R$),1
+2026-02-03,5.2236,USD/BRL PTAX (R$),1
+2026-02-04,5.2359,USD/BRL PTAX (R$),1
+2026-02-05,5.258,USD/BRL PTAX (R$),1
+2026-02-06,5.2341,USD/BRL PTAX (R$),1
+2026-02-09,5.1943,USD/BRL PTAX (R$),1
+2026-02-10,5.2021,USD/BRL PTAX (R$),1
+2026-02-11,5.1836,USD/BRL PTAX (R$),1
+2026-02-12,5.1674,USD/BRL PTAX (R$),1
+2026-02-13,5.2288,USD/BRL PTAX (R$),1
+2026-02-18,5.2349,USD/BRL PTAX (R$),1
+2026-02-19,5.2257,USD/BRL PTAX (R$),1
+2026-02-20,5.2006,USD/BRL PTAX (R$),1
+2026-02-23,5.1635,USD/BRL PTAX (R$),1
+2026-02-24,5.1682,USD/BRL PTAX (R$),1
+2026-02-25,5.144,USD/BRL PTAX (R$),1
+2026-02-26,5.1382,USD/BRL PTAX (R$),1
+2026-02-27,5.1495,USD/BRL PTAX (R$),1
+2026-03-02,5.2001,USD/BRL PTAX (R$),1
+2026-03-03,5.287,USD/BRL PTAX (R$),1
+2026-03-04,5.2091,USD/BRL PTAX (R$),1
+2026-03-05,5.2447,USD/BRL PTAX (R$),1
+2026-03-06,5.2878,USD/BRL PTAX (R$),1
+2026-03-09,5.2139,USD/BRL PTAX (R$),1
+2026-03-10,5.1622,USD/BRL PTAX (R$),1
+2026-03-11,5.1596,USD/BRL PTAX (R$),1
+2026-03-12,5.2051,USD/BRL PTAX (R$),1
+2026-03-13,5.2541,USD/BRL PTAX (R$),1
+2026-03-16,5.2647,USD/BRL PTAX (R$),1
+2026-03-17,5.2022,USD/BRL PTAX (R$),1
+2026-03-18,5.2112,USD/BRL PTAX (R$),1
+2026-03-19,5.2587,USD/BRL PTAX (R$),1
+2026-03-20,5.28,USD/BRL PTAX (R$),1
+2026-03-23,5.244,USD/BRL PTAX (R$),1
+2026-03-24,5.2599,USD/BRL PTAX (R$),1
+2026-03-25,5.2275,USD/BRL PTAX (R$),1
+2026-03-26,5.2308,USD/BRL PTAX (R$),1
+2026-03-27,5.2376,USD/BRL PTAX (R$),1
+2026-03-30,5.2353,USD/BRL PTAX (R$),1
+2026-03-31,5.2194,USD/BRL PTAX (R$),1
+2026-04-01,5.1606,USD/BRL PTAX (R$),1
+2026-04-02,5.1655,USD/BRL PTAX (R$),1
+2026-04-06,5.1532,USD/BRL PTAX (R$),1
+2026-04-07,5.1625,USD/BRL PTAX (R$),1
+2026-04-08,5.0899,USD/BRL PTAX (R$),1
+2026-04-09,5.0821,USD/BRL PTAX (R$),1
+2026-04-10,5.0229,USD/BRL PTAX (R$),1
+2026-04-13,5.0244,USD/BRL PTAX (R$),1
+2026-04-14,4.9806,USD/BRL PTAX (R$),1
+2026-04-15,4.9928,USD/BRL PTAX (R$),1
+2026-04-16,5.0007,USD/BRL PTAX (R$),1
+2026-04-17,4.9695,USD/BRL PTAX (R$),1
+2026-04-20,4.9844,USD/BRL PTAX (R$),1
+2026-04-22,4.9653,USD/BRL PTAX (R$),1
+2026-04-23,4.9539,USD/BRL PTAX (R$),1
+2026-04-24,5.0083,USD/BRL PTAX (R$),1
+2026-04-27,4.97,USD/BRL PTAX (R$),1
+2026-04-28,4.9878,USD/BRL PTAX (R$),1
+2026-04-29,4.9985,USD/BRL PTAX (R$),1
+2026-04-30,4.9886,USD/BRL PTAX (R$),1
+2026-05-04,4.9587,USD/BRL PTAX (R$),1
+2026-05-05,4.9242,USD/BRL PTAX (R$),1
+2026-05-06,4.9274,USD/BRL PTAX (R$),1
+2026-05-07,4.917,USD/BRL PTAX (R$),1
+2026-05-08,4.8999,USD/BRL PTAX (R$),1
+2026-05-11,4.8973,USD/BRL PTAX (R$),1
+2026-05-12,4.8977,USD/BRL PTAX (R$),1
+2026-05-13,4.9118,USD/BRL PTAX (R$),1
+2026-05-14,4.9809,USD/BRL PTAX (R$),1
+2026-05-15,5.0654,USD/BRL PTAX (R$),1
+2026-05-18,5.0093,USD/BRL PTAX (R$),1
+2026-05-19,5.0378,USD/BRL PTAX (R$),1
+2026-05-20,5.0301,USD/BRL PTAX (R$),1
+2026-05-21,5.0077,USD/BRL PTAX (R$),1
+2026-05-22,5.014,USD/BRL PTAX (R$),1
+2026-05-25,5.0072,USD/BRL PTAX (R$),1
+2026-05-26,5.0211,USD/BRL PTAX (R$),1
+2026-05-27,5.0579,USD/BRL PTAX (R$),1
+2026-05-28,5.0517,USD/BRL PTAX (R$),1
+2026-05-29,5.0569,USD/BRL PTAX (R$),1
+2026-06-01,5.0303,USD/BRL PTAX (R$),1
+2026-06-02,5.016,USD/BRL PTAX (R$),1
+2026-06-03,5.0415,USD/BRL PTAX (R$),1
+2026-06-05,5.1244,USD/BRL PTAX (R$),1
+2026-06-08,5.1695,USD/BRL PTAX (R$),1
+2026-06-09,5.1693,USD/BRL PTAX (R$),1
+2026-06-10,5.1763,USD/BRL PTAX (R$),1
+2026-06-11,5.1478,USD/BRL PTAX (R$),1
+2026-06-12,5.0827,USD/BRL PTAX (R$),1
+2026-06-15,5.043,USD/BRL PTAX (R$),1
+2026-06-16,5.078,USD/BRL PTAX (R$),1
+2026-06-17,5.0641,USD/BRL PTAX (R$),1
+2026-06-18,5.1613,USD/BRL PTAX (R$),1
+2026-06-19,5.1442,USD/BRL PTAX (R$),1
+2026-06-22,5.1395,USD/BRL PTAX (R$),1
+2026-06-23,5.1743,USD/BRL PTAX (R$),1
+2026-06-24,5.2098,USD/BRL PTAX (R$),1
+2026-06-25,5.1892,USD/BRL PTAX (R$),1
+2026-06-26,5.1695,USD/BRL PTAX (R$),1
+2026-06-29,5.1717,USD/BRL PTAX (R$),1
+2026-06-30,5.1766,USD/BRL PTAX (R$),1
+2026-07-01,5.195,USD/BRL PTAX (R$),1
+2026-07-02,5.1945,USD/BRL PTAX (R$),1
+2026-07-03,5.1717,USD/BRL PTAX (R$),1
+2026-07-06,5.167,USD/BRL PTAX (R$),1
+2026-07-07,5.1458,USD/BRL PTAX (R$),1
+2026-07-08,5.1552,USD/BRL PTAX (R$),1
+2026-07-09,5.1329,USD/BRL PTAX (R$),1
+2026-07-10,5.1088,USD/BRL PTAX (R$),1
+2026-07-13,5.1183,USD/BRL PTAX (R$),1
+2026-07-14,5.0742,USD/BRL PTAX (R$),1
+2026-07-15,5.0727,USD/BRL PTAX (R$),1
+2026-07-16,5.0975,USD/BRL PTAX (R$),1
+2026-07-17,5.1176,USD/BRL PTAX (R$),1
+2026-07-20,5.0894,USD/BRL PTAX (R$),1
+2026-07-21,5.078,USD/BRL PTAX (R$),1
+2026-07-22,5.0638,USD/BRL PTAX (R$),1
+2026-07-23,5.0807,USD/BRL PTAX (R$),1
+2026-07-24,5.0666,USD/BRL PTAX (R$),1
+2026-07-27,5.1005,USD/BRL PTAX (R$),1
+2026-07-28,5.1177,USD/BRL PTAX (R$),1
+2026-07-29,5.1217,USD/BRL PTAX (R$),1
+2026-07-30,5.0739,USD/BRL PTAX (R$),1
+2026-07-31,5.0773,USD/BRL PTAX (R$),1
+2026-08-03,5.0723,USD/BRL PTAX (R$),1
+2026-08-04,5.1053,USD/BRL PTAX (R$),1
+2026-08-05,5.1154,USD/BRL PTAX (R$),1
+2026-08-06,5.1017,USD/BRL PTAX (R$),1
+2026-08-07,5.0908,USD/BRL PTAX (R$),1
+2026-08-10,5.0963,USD/BRL PTAX (R$),1
+2026-08-11,5.1285,USD/BRL PTAX (R$),1
+2026-08-12,5.1639,USD/BRL PTAX (R$),1
+2026-08-13,5.1859,USD/BRL PTAX (R$),1
+2026-08-14,5.2236,USD/BRL PTAX (R$),1
+2026-08-17,5.2014,USD/BRL PTAX (R$),1
+2026-08-18,5.2043,USD/BRL PTAX (R$),1
+2026-08-19,5.1714,USD/BRL PTAX (R$),1
+2026-08-20,5.1862,USD/BRL PTAX (R$),1
+2026-08-21,5.1625,USD/BRL PTAX (R$),1
+2026-08-24,5.1512,USD/BRL PTAX (R$),1
+2026-08-25,5.149,USD/BRL PTAX (R$),1
+2026-08-26,5.1604,USD/BRL PTAX (R$),1
+2026-08-27,5.1642,USD/BRL PTAX (R$),1
+2026-08-28,5.2005,USD/BRL PTAX (R$),1
+2026-08-31,5.1816,USD/BRL PTAX (R$),1
+2026-09-01,5.157,USD/BRL PTAX (R$),1
+2026-09-02,5.1273,USD/BRL PTAX (R$),1
+2026-09-03,5.0962,USD/BRL PTAX (R$),1
+2026-09-04,5.1253,USD/BRL PTAX (R$),1
+2026-09-08,5.0856,USD/BRL PTAX (R$),1
+2026-09-09,5.0979,USD/BRL PTAX (R$),1
+2026-09-10,5.1149,USD/BRL PTAX (R$),1
+2026-09-11,5.0918,USD/BRL PTAX (R$),1
+2026-09-14,5.1696,USD/BRL PTAX (R$),1
+2026-09-15,5.149,USD/BRL PTAX (R$),1
+2026-09-16,5.1527,USD/BRL PTAX (R$),1
+2026-09-17,5.1521,USD/BRL PTAX (R$),1
+2026-09-18,5.1575,USD/BRL PTAX (R$),1
+2026-09-21,5.1117,USD/BRL PTAX (R$),1
+2026-09-22,5.1161,USD/BRL PTAX (R$),1
+2026-09-23,5.1414,USD/BRL PTAX (R$),1
+2026-09-24,5.1795,USD/BRL PTAX (R$),1
+2026-09-25,5.1991,USD/BRL PTAX (R$),1
+2026-09-28,5.2132,USD/BRL PTAX (R$),1
+2026-09-29,5.2204,USD/BRL PTAX (R$),1
+2026-09-30,5.1809,USD/BRL PTAX (R$),1
+2026-10-01,5.2079,USD/BRL PTAX (R$),1
+2026-10-02,5.2238,USD/BRL PTAX (R$),1
+2026-10-05,4.9859,USD/BRL PTAX (R$),1
+2026-10-06,4.9698,USD/BRL PTAX (R$),1
+2026-10-07,4.9935,USD/BRL PTAX (R$),1
+2026-10-08,5.0119,USD/BRL PTAX (R$),1
+2026-10-09,4.9892,USD/BRL PTAX (R$),1
+2026-10-13,5.0096,USD/BRL PTAX (R$),1
+2026-10-14,5.0441,USD/BRL PTAX (R$),1
+2026-10-15,5.0521,USD/BRL PTAX (R$),1
+2026-10-16,5.0826,USD/BRL PTAX (R$),1
+2026-10-19,5.0564,USD/BRL PTAX (R$),1
+2026-10-20,5.014,USD/BRL PTAX (R$),1
+2026-10-21,5.0277,USD/BRL PTAX (R$),1
+2026-10-22,5.0383,USD/BRL PTAX (R$),1
+2026-10-23,5.0377,USD/BRL PTAX (R$),1
+2026-10-26,5.5007,USD/BRL PTAX (R$),1
+2026-10-27,5.3346,USD/BRL PTAX (R$),1
+2026-10-28,5.342,USD/BRL PTAX (R$),1
+2026-10-29,5.3744,USD/BRL PTAX (R$),1
+2026-10-30,5.4212,USD/BRL PTAX (R$),1
+2019-01-01,0.01,IGP-M (% a.m.),189
+2019-02-01,0.88,IGP-M (% a.m.),189
+2019-03-01,1.26,IGP-M (% a.m.),189
+2019-04-01,0.92,IGP-M (% a.m.),189
+2019-05-01,0.45,IGP-M (% a.m.),189
+2019-06-01,0.8,IGP-M (% a.m.),189
+2019-07-01,0.4,IGP-M (% a.m.),189
+2019-08-01,-0.67,IGP-M (% a.m.),189
+2019-09-01,-0.01,IGP-M (% a.m.),189
+2019-10-01,0.68,IGP-M (% a.m.),189
+2019-11-01,0.3,IGP-M (% a.m.),189
+2019-12-01,2.09,IGP-M (% a.m.),189
+2020-01-01,0.48,IGP-M (% a.m.),189
+2020-02-01,-0.04,IGP-M (% a.m.),189
+2020-03-01,1.24,IGP-M (% a.m.),189
+2020-04-01,0.8,IGP-M (% a.m.),189
+2020-05-01,0.28,IGP-M (% a.m.),189
+2020-06-01,1.56,IGP-M (% a.m.),189
+2020-07-01,2.23,IGP-M (% a.m.),189
+2020-08-01,2.74,IGP-M (% a.m.),189
+2020-09-01,4.34,IGP-M (% a.m.),189
+2020-10-01,3.23,IGP-M (% a.m.),189
+2020-11-01,3.28,IGP-M (% a.m.),189
+2020-12-01,0.96,IGP-M (% a.m.),189
+2021-01-01,2.58,IGP-M (% a.m.),189
+2021-02-01,2.53,IGP-M (% a.m.),189
+2021-03-01,2.94,IGP-M (% a.m.),189
+2021-04-01,1.51,IGP-M (% a.m.),189
+2021-05-01,4.1,IGP-M (% a.m.),189
+2021-06-01,0.6,IGP-M (% a.m.),189
+2021-07-01,0.78,IGP-M (% a.m.),189
+2021-08-01,0.66,IGP-M (% a.m.),189
+2021-09-01,-0.64,IGP-M (% a.m.),189
+2021-10-01,0.64,IGP-M (% a.m.),189
+2021-11-01,0.02,IGP-M (% a.m.),189
+2021-12-01,0.87,IGP-M (% a.m.),189
+2022-01-01,1.82,IGP-M (% a.m.),189
+2022-02-01,1.83,IGP-M (% a.m.),189
+2022-03-01,1.74,IGP-M (% a.m.),189
+2022-04-01,1.41,IGP-M (% a.m.),189
+2022-05-01,0.52,IGP-M (% a.m.),189
+2022-06-01,0.59,IGP-M (% a.m.),189
+2022-07-01,0.21,IGP-M (% a.m.),189
+2022-08-01,-0.7,IGP-M (% a.m.),189
+2022-09-01,-0.95,IGP-M (% a.m.),189
+2022-10-01,-0.97,IGP-M (% a.m.),189
+2022-11-01,-0.56,IGP-M (% a.m.),189
+2022-12-01,0.45,IGP-M (% a.m.),189
+2023-01-01,0.21,IGP-M (% a.m.),189
+2023-02-01,-0.06,IGP-M (% a.m.),189
+2023-03-01,0.05,IGP-M (% a.m.),189
+2023-04-01,-0.95,IGP-M (% a.m.),189
+2023-05-01,-1.84,IGP-M (% a.m.),189
+2023-06-01,-1.93,IGP-M (% a.m.),189
+2023-07-01,-0.72,IGP-M (% a.m.),189
+2023-08-01,-0.14,IGP-M (% a.m.),189
+2023-09-01,0.37,IGP-M (% a.m.),189
+2023-10-01,0.5,IGP-M (% a.m.),189
+2023-11-01,0.59,IGP-M (% a.m.),189
+2023-12-01,0.74,IGP-M (% a.m.),189
+2024-01-01,0.07,IGP-M (% a.m.),189
+2024-02-01,-0.52,IGP-M (% a.m.),189
+2024-03-01,-0.47,IGP-M (% a.m.),189
+2024-04-01,0.31,IGP-M (% a.m.),189
+2024-05-01,0.89,IGP-M (% a.m.),189
+2024-06-01,0.81,IGP-M (% a.m.),189
+2024-07-01,0.61,IGP-M (% a.m.),189
+2024-08-01,0.29,IGP-M (% a.m.),189
+2024-09-01,0.62,IGP-M (% a.m.),189
+2024-10-01,1.52,IGP-M (% a.m.),189
+2024-11-01,1.3,IGP-M (% a.m.),189
+2024-12-01,0.94,IGP-M (% a.m.),189
+2025-01-01,0.27,IGP-M (% a.m.),189
+2025-02-01,1.06,IGP-M (% a.m.),189
+2025-03-01,-0.34,IGP-M (% a.m.),189
+2025-04-01,0.24,IGP-M (% a.m.),189
+2025-05-01,-0.49,IGP-M (% a.m.),189
+2025-06-01,-1.67,IGP-M (% a.m.),189
+2025-07-01,-0.77,IGP-M (% a.m.),189
+2025-08-01,0.36,IGP-M (% a.m.),189
+2025-09-01,0.42,IGP-M (% a.m.),189
+2025-10-01,-0.36,IGP-M (% a.m.),189
+2025-11-01,0.27,IGP-M (% a.m.),189
+2025-12-01,-0.01,IGP-M (% a.m.),189
+2026-01-01,0.41,IGP-M (% a.m.),189
+2026-02-01,-0.73,IGP-M (% a.m.),189
+2026-03-01,0.52,IGP-M (% a.m.),189
+2026-04-01,2.73,IGP-M (% a.m.),189
+2026-05-01,0.84,IGP-M (% a.m.),189
+2026-06-01,-0.5,IGP-M (% a.m.),189
+2026-07-01,-1.16,IGP-M (% a.m.),189
+2026-08-01,-0.22,IGP-M (% a.m.),189
+2026-09-01,1.57,IGP-M (% a.m.),189
+2026-10-01,1.47,IGP-M (% a.m.),189

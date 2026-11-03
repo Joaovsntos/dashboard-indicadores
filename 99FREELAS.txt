@@ -1,0 +1,5 @@
+TÍTULO (≤50):
+Dashboard macro Brasil (Streamlit/Plotly)
+
+DESCRIÇÃO (≤400):
+Painel interativo com KPIs, filtros e gráficos de IPCA, Selic, dólar e IGP-M a partir da API do Banco Central. Inclui HTML estático e guia de como montar o mesmo modelo no Power BI (medidas DAX). Foco em clareza para decisão — o tipo de entrega que um cliente de dados espera.

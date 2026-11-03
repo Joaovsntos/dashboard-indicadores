@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+output/*
+!output/.gitkeep
+!output/dashboard_indicadores.html
+!output/dashboard_preview.png
+.DS_Store
